@@ -1,0 +1,162 @@
+[
+  {
+    "question": "Explain DBMS architecture (three level architecture).",
+    "subject": "Database Management System",
+    "type": "PYQ",
+    "years": [2023, 2024, 2025],
+    "frequency": 4,
+    "tags": ["architecture"]
+  },
+  {
+    "question": "Explain data models with types.",
+    "subject": "Database Management System",
+    "type": "PYQ",
+    "years": [2023, 2024],
+    "frequency": 3,
+    "tags": ["data model"]
+  },
+  {
+    "question": "Explain ER diagram with example.",
+    "subject": "Database Management System",
+    "type": "PYQ",
+    "years": [2023, 2024, 2025],
+    "frequency": 5,
+    "tags": ["ER model"]
+  },
+  {
+    "question": "Explain relational algebra operations.",
+    "subject": "Database Management System",
+    "type": "PYQ",
+    "years": [2023, 2024, 2025],
+    "frequency": 6,
+    "tags": ["relational algebra"]
+  },
+  {
+    "question": "Explain normalization with different normal forms.",
+    "subject": "Database Management System",
+    "type": "PYQ",
+    "years": [2023, 2024, 2025],
+    "frequency": 6,
+    "tags": ["normalization"]
+  },
+  {
+    "question": "Explain functional dependency and its types.",
+    "subject": "Database Management System",
+    "type": "PYQ",
+    "years": [2023, 2024, 2025],
+    "frequency": 5,
+    "tags": ["functional dependency"]
+  },
+  {
+    "question": "Explain keys in DBMS (primary, foreign, candidate, etc.).",
+    "subject": "Database Management System",
+    "type": "PYQ",
+    "years": [2023, 2024],
+    "frequency": 3,
+    "tags": ["keys"]
+  },
+  {
+    "question": "Explain SQL queries (DDL, DML, TCL, DCL).",
+    "subject": "Database Management System",
+    "type": "PYQ",
+    "years": [2023, 2024, 2025],
+    "frequency": 6,
+    "tags": ["SQL"]
+  },
+  {
+    "question": "Write SQL queries for given conditions (joins, subqueries).",
+    "subject": "Database Management System",
+    "type": "PYQ",
+    "years": [2023, 2024, 2025],
+    "frequency": 7,
+    "tags": ["SQL queries"]
+  },
+  {
+    "question": "Explain different types of joins.",
+    "subject": "Database Management System",
+    "type": "PYQ",
+    "years": [2023, 2024, 2025],
+    "frequency": 5,
+    "tags": ["joins"]
+  },
+  {
+    "question": "Explain transactions and ACID properties.",
+    "subject": "Database Management System",
+    "type": "PYQ",
+    "years": [2023, 2024, 2025],
+    "frequency": 5,
+    "tags": ["transactions"]
+  },
+  {
+    "question": "Explain concurrency control techniques.",
+    "subject": "Database Management System",
+    "type": "PYQ",
+    "years": [2024, 2025],
+    "frequency": 3,
+    "tags": ["concurrency"]
+  },
+  {
+    "question": "Explain deadlock handling in DBMS.",
+    "subject": "Database Management System",
+    "type": "PYQ",
+    "years": [2024, 2025],
+    "frequency": 2,
+    "tags": ["deadlock"]
+  },
+  {
+    "question": "Explain indexing and types of indexes.",
+    "subject": "Database Management System",
+    "type": "PYQ",
+    "years": [2023, 2024, 2025],
+    "frequency": 4,
+    "tags": ["indexing"]
+  },
+  {
+    "question": "Explain file organization methods.",
+    "subject": "Database Management System",
+    "type": "PYQ",
+    "years": [2023, 2024],
+    "frequency": 2,
+    "tags": ["file organization"]
+  },
+  {
+    "question": "Explain query processing and optimization.",
+    "subject": "Database Management System",
+    "type": "PYQ",
+    "years": [2024, 2025],
+    "frequency": 2,
+    "tags": ["query processing"]
+  },
+  {
+    "question": "Explain database security and authorization.",
+    "subject": "Database Management System",
+    "type": "PYQ",
+    "years": [2023, 2024],
+    "frequency": 2,
+    "tags": ["security"]
+  },
+  {
+    "question": "Explain backup and recovery techniques.",
+    "subject": "Database Management System",
+    "type": "PYQ",
+    "years": [2024, 2025],
+    "frequency": 3,
+    "tags": ["recovery"]
+  },
+  {
+    "question": "Explain view and its advantages.",
+    "subject": "Database Management System",
+    "type": "PYQ",
+    "years": [2023, 2024],
+    "frequency": 2,
+    "tags": ["view"]
+  },
+  {
+    "question": "Explain triggers and stored procedures.",
+    "subject": "Database Management System",
+    "type": "PYQ",
+    "years": [2024, 2025],
+    "frequency": 2,
+    "tags": ["triggers"]
+  }
+]
