@@ -222,5 +222,224 @@
     "years": [2023, 2024],
     "frequency": 2,
     "tags": ["applications"]
+  },
+
+  {
+    "question": "Multiply the following using Booth’ algorithm. Multiplicand = + 22 Multiplier = – 5",
+    "subject": "Computer organization and microprocessor",
+    "type": "IMP",
+    "unit": "1.Computer evolution and performance",
+    "frequency": 1,
+    "tags": ["booth algorithm"]
+  },
+  {
+    "question": "Multiply the following using Booth’ algorithm. Multiplicand = + 11 Multiplier = – 6",
+    "subject": "Computer organization and microprocessor",
+    "type": "IMP",
+    "unit": "1.Computer evolution and performance",
+    "frequency": 1,
+    "tags": ["booth algorithm"]
+  },
+  {
+    "question": "Explain Booth’s multiplication Algorithm with a suitable example.",
+    "subject": "Computer organization and microprocessor",
+    "type": "IMP",
+    "unit": "1.Computer evolution and performance",
+    "frequency": 1,
+    "tags": ["booth algorithm"]
+  },
+  {
+    "question": "Describe the top-level view of computer function and interconnection structures",
+    "subject": "Computer organization and microprocessor",
+    "type": "IMP",
+    "unit": "1.Computer evolution and performance",
+    "frequency": 1,
+    "tags": ["computer organization"]
+  },
+  {
+    "question": "Compare and contrast the Von Neumann and Harvard architectures",
+    "subject": "Computer organization and microprocessor",
+    "type": "IMP",
+    "unit": "1.Computer evolution and performance",
+    "frequency": 1,
+    "tags": ["architecture"]
+  },
+  {
+    "question": "Explain Von Neumann architecture with suitable diagram.",
+    "subject": "Computer organization and microprocessor",
+    "type": "IMP",
+    "unit": "1.Computer evolution and performance",
+    "frequency": 1,
+    "tags": ["architecture"]
+  },
+  {
+    "question": "Describe the structure and function of the Arithmetic and Logic Unit (ALU). Explain how it performs arithmetic and logical operations within a computer system.",
+    "subject": "Computer organization and microprocessor",
+    "type": "IMP",
+    "unit": "1.Computer evolution and performance",
+    "frequency": 1,
+    "tags": ["ALU"]
+  },
+
+  {
+    "question": "Explain the various types of Memory based on methods of accessing units of data.",
+    "subject": "Computer organization and microprocessor",
+    "type": "IMP",
+    "unit": "2.Memory Management",
+    "frequency": 1,
+    "tags": ["memory"]
+  },
+  {
+    "question": "Explain performance parameters of memory.",
+    "subject": "Computer organization and microprocessor",
+    "type": "IMP",
+    "unit": "2.Memory Management",
+    "frequency": 1,
+    "tags": ["memory"]
+  },
+  {
+    "question": "Draw and explain memory hierarchy in computer systems. Why is Memory Hierarchy Required in the System?",
+    "subject": "Computer organization and microprocessor",
+    "type": "IMP",
+    "unit": "2.Memory Management",
+    "frequency": 1,
+    "tags": ["memory hierarchy"]
+  },
+  {
+    "question": "Explain cache read operation with flowchart.",
+    "subject": "Computer organization and microprocessor",
+    "type": "IMP",
+    "unit": "2.Memory Management",
+    "frequency": 1,
+    "tags": ["cache"]
+  },
+  {
+    "question": "With the help of a neat diagram, explain typical cache organization.",
+    "subject": "Computer organization and microprocessor",
+    "type": "IMP",
+    "unit": "2.Memory Management",
+    "frequency": 1,
+    "tags": ["cache"]
+  },
+  {
+    "question": "Define virtual memory. Also, explain logical and physical cache.",
+    "subject": "Computer organization and microprocessor",
+    "type": "IMP",
+    "unit": "2.Memory Management",
+    "frequency": 1,
+    "tags": ["virtual memory"]
+  },
+  {
+    "question": "Explain the following main memory mapping techniques along with their merits and demerits: a) Direct, b) Associative, c) Set Associative.",
+    "subject": "Computer organization and microprocessor",
+    "type": "IMP",
+    "unit": "2.Memory Management",
+    "frequency": 1,
+    "tags": ["cache mapping"]
+  },
+  {
+    "question": "Explain the following cache updating policies: (i) Write through, (ii) Write back.",
+    "subject": "Computer organization and microprocessor",
+    "type": "IMP",
+    "unit": "2.Memory Management",
+    "frequency": 1,
+    "tags": ["cache"]
+  },
+  {
+    "question": "Distinguish between SRAM and DRAM.",
+    "subject": "Computer organization and microprocessor",
+    "type": "IMP",
+    "unit": "2.Memory Management",
+    "frequency": 1,
+    "tags": ["memory"]
+  },
+  {
+    "question": "Explain RAID levels with their advantages, disadvantages, and applications.",
+    "subject": "Computer organization and microprocessor",
+    "type": "IMP",
+    "unit": "2.Memory Management",
+    "frequency": 1,
+    "tags": ["RAID"]
+  },
+  {
+    "question": "What is cache memory? Define cache hit and cache miss.",
+    "subject": "Computer organization and microprocessor",
+    "type": "IMP",
+    "unit": "2.Memory Management",
+    "frequency": 1,
+    "tags": ["cache"]
+  },
+
+  {
+    "question": "Explain the basic features of the Intel 8086 microprocessor.",
+    "subject": "Computer organization and microprocessor",
+    "type": "IMP",
+    "unit": "3.Introduction to 8086 Microprocessor",
+    "frequency": 1,
+    "tags": ["8086"]
+  },
+  {
+    "question": "Explain the architecture of the 8086 microprocessor with a neat diagram.",
+    "subject": "Computer organization and microprocessor",
+    "type": "IMP",
+    "unit": "3.Introduction to 8086 Microprocessor",
+    "frequency": 1,
+    "tags": ["architecture"]
+  },
+  {
+    "question": "Draw and explain the pin configuration of the 8086 microprocessor.",
+    "subject": "Computer organization and microprocessor",
+    "type": "IMP",
+    "unit": "3.Introduction to 8086 Microprocessor",
+    "frequency": 1,
+    "tags": ["pins"]
+  },
+  {
+    "question": "List and describe the registers of the 8086 microprocessor (Programmer's Model).",
+    "subject": "Computer organization and microprocessor",
+    "type": "IMP",
+    "unit": "3.Introduction to 8086 Microprocessor",
+    "frequency": 1,
+    "tags": ["registers"]
+  },
+  {
+    "question": "Explain the Flag register in detail.",
+    "subject": "Computer organization and microprocessor",
+    "type": "IMP",
+    "unit": "3.Introduction to 8086 Microprocessor",
+    "frequency": 1,
+    "tags": ["flags"]
+  },
+  {
+    "question": "Describe the following addressing modes with examples: Index, Direct, Indirect, Immediate, Register, and Based indexed mode.",
+    "subject": "Computer organization and microprocessor",
+    "type": "IMP",
+    "unit": "3.Introduction to 8086 Microprocessor",
+    "frequency": 1,
+    "tags": ["addressing modes"]
+  },
+  {
+    "question": "Explain Data Movement Instructions of 8086.",
+    "subject": "Computer organization and microprocessor",
+    "type": "IMP",
+    "unit": "3.Introduction to 8086 Microprocessor",
+    "frequency": 1,
+    "tags": ["instructions"]
+  },
+  {
+    "question": "Explain String and Arithmetic Instructions of 8086.",
+    "subject": "Computer organization and microprocessor",
+    "type": "IMP",
+    "unit": "3.Introduction to 8086 Microprocessor",
+    "frequency": 1,
+    "tags": ["instructions"]
+  },
+  {
+    "question": "Explain Conditional Branch and Non-Conditional Branch Instructions.",
+    "subject": "Computer organization and microprocessor",
+    "type": "IMP",
+    "unit": "3.Introduction to 8086 Microprocessor",
+    "frequency": 1,
+    "tags": ["branch"]
   }
 ]
