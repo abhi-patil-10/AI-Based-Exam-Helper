@@ -158,5 +158,183 @@
     "years": [2024, 2025],
     "frequency": 2,
     "tags": ["triggers"]
+  },
+  {
+    "question": "Define DBMS. List any four advantages of DBMS over the file system.",
+    "subject": "Database Management System",
+    "type": "IMP",
+    "unit": "1.Introduction To Database Management System And ER Model",
+    "frequency": 1,
+    "tags": ["DBMS"]
+  },
+  {
+    "question": "What is an entity? Explain with suitable example.",
+    "subject": "Database Management System",
+    "type": "IMP",
+    "unit": "1.Introduction To Database Management System And ER Model",
+    "frequency": 1,
+    "tags": ["entity"]
+  },
+  {
+    "question": "Differentiate between primary key and candidate key.",
+    "subject": "Database Management System",
+    "type": "IMP",
+    "unit": "1.Introduction To Database Management System And ER Model",
+    "frequency": 1,
+    "tags": ["keys"]
+  },
+  {
+    "question": "What is a data model? Name any three data models.",
+    "subject": "Database Management System",
+    "type": "IMP",
+    "unit": "1.Introduction To Database Management System And ER Model",
+    "frequency": 1,
+    "tags": ["data model"]
+  },
+  {
+    "question": "Explain composite and multivalued attributes with examples.",
+    "subject": "Database Management System",
+    "type": "IMP",
+    "unit": "1.Introduction To Database Management System And ER Model",
+    "frequency": 1,
+    "tags": ["attributes"]
+  },
+  {
+    "question": "Explain the three-schema architecture of DBMS with a neat diagram.",
+    "subject": "Database Management System",
+    "type": "IMP",
+    "unit": "1.Introduction To Database Management System And ER Model",
+    "frequency": 1,
+    "tags": ["architecture"]
+  },
+  {
+    "question": "Discuss different types of relationships (1:1, 1:N, M:N) with examples.",
+    "subject": "Database Management System",
+    "type": "IMP",
+    "unit": "1.Introduction To Database Management System And ER Model",
+    "frequency": 1,
+    "tags": ["relationships"]
+  },
+  {
+    "question": "Explain the ER diagram design process with steps.",
+    "subject": "Database Management System",
+    "type": "IMP",
+    "unit": "1.Introduction To Database Management System And ER Model",
+    "frequency": 1,
+    "tags": ["ER model"]
+  },
+  {
+    "question": "What are enterprise constraints? Explain key, domain, and referential integrity constraints.",
+    "subject": "Database Management System",
+    "type": "IMP",
+    "unit": "1.Introduction To Database Management System And ER Model",
+    "frequency": 1,
+    "tags": ["constraints"]
+  },
+  {
+    "question": "Explain specialization and generalization in EER with examples.",
+    "subject": "Database Management System",
+    "type": "IMP",
+    "unit": "1.Introduction To Database Management System And ER Model",
+    "frequency": 1,
+    "tags": ["EER"]
+  },
+
+  {
+    "question": "Define DDL and DML commands. Give two examples of each.",
+    "subject": "Database Management System",
+    "type": "IMP",
+    "unit": "2.SQL and PL/SQL",
+    "frequency": 1,
+    "tags": ["SQL"]
+  },
+  {
+    "question": "Write a SELECT query to display all columns from a table Student where the Age is greater than 20.",
+    "subject": "Database Management System",
+    "type": "IMP",
+    "unit": "2.SQL and PL/SQL",
+    "frequency": 1,
+    "tags": ["SQL"]
+  },
+  {
+    "question": "Explain the use of string functions in SQL with two examples.",
+    "subject": "Database Management System",
+    "type": "IMP",
+    "unit": "2.SQL and PL/SQL",
+    "frequency": 1,
+    "tags": ["SQL"]
+  },
+  {
+    "question": "Define a database trigger. Give one example scenario where it can be used.",
+    "subject": "Database Management System",
+    "type": "IMP",
+    "unit": "2.SQL and PL/SQL",
+    "frequency": 1,
+    "tags": ["trigger"]
+  },
+  {
+    "question": "What is the difference between COMMIT and ROLLBACK in SQL?",
+    "subject": "Database Management System",
+    "type": "IMP",
+    "unit": "2.SQL and PL/SQL",
+    "frequency": 1,
+    "tags": ["SQL"]
+  },
+  {
+    "question": "Explain the use of JOIN queries in SQL. Write a query to display student names along with the course name they enrolled in using INNER JOIN.",
+    "subject": "Database Management System",
+    "type": "IMP",
+    "unit": "2.SQL and PL/SQL",
+    "frequency": 1,
+    "tags": ["joins"]
+  },
+
+  {
+    "question": "Define the relational model. Explain attributes and domains with examples.",
+    "subject": "Database Management System",
+    "type": "IMP",
+    "unit": "3.Relational Database Design",
+    "frequency": 1,
+    "tags": ["relational model"]
+  },
+  {
+    "question": "What are Codd's 12 rules? Explain any four briefly.",
+    "subject": "Database Management System",
+    "type": "IMP",
+    "unit": "3.Relational Database Design",
+    "frequency": 1,
+    "tags": ["rules"]
+  },
+  {
+    "question": "Define relational integrity constraints. Give examples of domain and key constraints.",
+    "subject": "Database Management System",
+    "type": "IMP",
+    "unit": "3.Relational Database Design",
+    "frequency": 1,
+    "tags": ["constraints"]
+  },
+  {
+    "question": "What is referential integrity? Give an example using two tables.",
+    "subject": "Database Management System",
+    "type": "IMP",
+    "unit": "3.Relational Database Design",
+    "frequency": 1,
+    "tags": ["integrity"]
+  },
+  {
+    "question": "Explain the concept of first normal form (1NF) with an example.",
+    "subject": "Database Management System",
+    "type": "IMP",
+    "unit": "3.Relational Database Design",
+    "frequency": 1,
+    "tags": ["normalization"]
+  },
+  {
+    "question": "Explain functional dependency and its role in database design.",
+    "subject": "Database Management System",
+    "type": "IMP",
+    "unit": "3.Relational Database Design",
+    "frequency": 1,
+    "tags": ["FD"]
   }
 ]
