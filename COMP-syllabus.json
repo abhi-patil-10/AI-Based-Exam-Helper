@@ -1,0 +1,123 @@
+[
+
+    {
+  "subject": "Computer Organization and Microprocessor",
+  "units": [
+    {
+      "unit": "Unit 1",
+      "title": "Computer Evolution and Performance",
+      "topics": [
+        "History of Computers",
+        "Von Neumann Architecture",
+        "Harvard Architecture",
+        "Performance Design",
+        "Evolution of Intel Processors (4-bit to 64-bit)",
+        "Performance Assessment",
+        "Computer Functions and Interconnection",
+        "Computer Components",
+        "Bus Interconnection",
+        "Arithmetic Logic Unit (ALU)",
+        "Signed Number Addition and Subtraction",
+        "Adder Design",
+        "Fast Adder",
+        "Carry Look Ahead Adder",
+        "Binary Multiplication",
+        "Signed Multiplication",
+        "Booth’s Algorithm"
+      ]
+    },
+    {
+      "unit": "Unit 2",
+      "title": "Memory Management",
+      "topics": [
+        "Memory System Characteristics",
+        "Memory Hierarchy",
+        "Cache Memory Principles",
+        "Cache Design Elements",
+        "Cache Addressing",
+        "Cache Size",
+        "Mapping Techniques",
+        "Replacement Algorithms",
+        "Write Policies",
+        "Cache Line Size",
+        "Single Level Cache",
+        "Two Level Cache",
+        "Cache Performance and Locality",
+        "Semiconductor Memory",
+        "DRAM Organization",
+        "Hard Disk Organization",
+        "RAID Levels (1 to 6)"
+      ]
+    },
+    {
+      "unit": "Unit 3",
+      "title": "8086 Microprocessor",
+      "topics": [
+        "Introduction to 8086",
+        "16-bit Microprocessor",
+        "8086 Architecture",
+        "Pin Diagram of 8086",
+        "Registers of 8086",
+        "Immediate Addressing",
+        "Register Addressing",
+        "Direct Addressing",
+        "Indirect Addressing",
+        "Indexed Addressing",
+        "Based Addressing",
+        "Based Indexed Addressing",
+        "Data Movement Instructions",
+        "Arithmetic Instructions",
+        "Logical Instructions",
+        "Control Transfer Instructions",
+        "String Instructions",
+        "Input Output Instructions",
+        "Flag Control Instructions",
+        "Process Control Instructions"
+      ]
+    },
+    {
+      "unit": "Unit 4",
+      "title": "Memory Organization and Interrupts",
+      "topics": [
+        "Memory Segmentation",
+        "Logical to Physical Address Translation",
+        "Even and Odd Memory Banks",
+        "Read Write Cycle Timing",
+        "Address Mapping",
+        "Memory Decoding",
+        "Memory Mapped I/O",
+        "I/O Mapped I/O",
+        "Interrupts",
+        "Interrupt Control Registers",
+        "Status Registers",
+        "Interrupt Vector Table (IVT)",
+        "Interrupt Service Routine (ISR)",
+        "Hardware Interrupts",
+        "Software Interrupts",
+        "8259 Interrupt Controller",
+        "8259 Features",
+        "8259 Block Diagram"
+      ]
+    },
+    {
+      "unit": "Unit 5",
+      "title": "Parallel Organization",
+      "topics": [
+        "Multiprocessors",
+        "Clusters",
+        "Flynn’s Taxonomy",
+        "Closely Coupled Systems",
+        "Loosely Coupled Systems",
+        "Symmetric Multiprocessing (SMP)",
+        "Uniform Memory Access (UMA)",
+        "Non-Uniform Memory Access (NUMA)",
+        "RISC Architecture",
+        "Instruction Execution Characteristics",
+        "Register Optimization",
+        "Pipelining",
+        "RISC vs CISC"
+      ]
+    }
+  ]
+}
+]
