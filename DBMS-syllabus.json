@@ -1,0 +1,110 @@
+[{
+  "subject": "DBMS",
+  "units": [
+    {
+      "unit": "Unit 1",
+      "title": "Introduction to Database Management System",
+      "topics": [
+        "Introduction to DBMS",
+        "Purpose of Database Systems",
+        "Database System Applications",
+        "View of Data",
+        "Database Languages",
+        "Database System Structure",
+        "Enterprise Constraints",
+        "Data Models",
+        "Entity",
+        "Attributes",
+        "Relationships",
+        "Constraints",
+        "Keys",
+        "Design Process",
+        "Entity Relationship Model",
+        "ER Diagram",
+        "Design Issues",
+        "Extended ER Features",
+        "Conversion of ER and EER diagrams into tables"
+      ]
+    },
+    {
+      "unit": "Unit 2",
+      "title": "SQL and PL/SQL",
+      "topics": [
+        "DDL",
+        "DML",
+        "Select Queries",
+        "String Functions",
+        "Date Functions",
+        "Numerical Functions",
+        "Aggregate Functions",
+        "Views",
+        "Indexes",
+        "Group By Clause",
+        "Having Clause",
+        "Join Queries",
+        "Set Operations",
+        "Set Membership",
+        "Nested Queries",
+        "DCL",
+        "TCL",
+        "Control Statements",
+        "Cursor",
+        "Stored Procedures",
+        "Functions",
+        "Triggers"
+      ]
+    },
+    {
+      "unit": "Unit 3",
+      "title": "Relational Database Design",
+      "topics": [
+        "Relational Model",
+        "Attributes and Domains",
+        "Codd’s Rules",
+        "Relational Integrity",
+        "Referential Integrity",
+        "Features of Good Relational Design",
+        "Normalization",
+        "Atomic Domains",
+        "First Normal Form (1NF)",
+        "Functional Dependencies",
+        "Second Normal Form (2NF)",
+        "Third Normal Form (3NF)",
+        "Boyce-Codd Normal Form (BCNF)"
+      ]
+    },
+    {
+      "unit": "Unit 4",
+      "title": "Database Transactions",
+      "topics": [
+        "Transaction Basics",
+        "Transaction Management",
+        "ACID Properties",
+        "Schedules",
+        "Serial Schedule",
+        "Serializability (Conflict and View)",
+        "Cascaded Aborts",
+        "Recoverable Schedules",
+        "Non-recoverable Schedules",
+        "Concurrency Control",
+        "Locking Methods"
+      ]
+    },
+    {
+      "unit": "Unit 5",
+      "title": "NoSQL Database",
+      "topics": [
+        "Introduction to NoSQL",
+        "NoSQL Data Models",
+        "CAP Theorem",
+        "BASE Properties",
+        "SQL vs NoSQL Comparison",
+        "MongoDB",
+        "CRUD Operations",
+        "Indexing",
+        "Aggregation"
+      ]
+    }
+  ]
+}
+]
