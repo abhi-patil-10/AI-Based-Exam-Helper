@@ -1,0 +1,122 @@
+[
+    {
+  "subject": "Discrete Mathematics",
+  "units": [
+    {
+      "unit": "Unit 1",
+      "title": "Set and Propositions",
+      "topics": [
+        "Introduction to Discrete Mathematics",
+        "Significance of Discrete Mathematics",
+        "Propositional Logic",
+        "Logical Statements",
+        "Propositional Equivalences",
+        "Translating English Sentences to Logic",
+        "Mathematical Induction",
+        "Strong Mathematical Induction",
+        "Naive Set Theory",
+        "Cantorian Set Theory",
+        "Axiomatic Set Theory",
+        "Set Operations",
+        "Cardinality of Sets",
+        "Inclusion Exclusion Principle",
+        "Bounded and Unbounded Sets",
+        "Diagonalization Argument",
+        "Countable Sets",
+        "Uncountable Sets",
+        "Finite and Infinite Sets",
+        "Countably Infinite Sets",
+        "Uncountably Infinite Sets",
+        "Power Set"
+      ]
+    },
+    {
+      "unit": "Unit 2",
+      "title": "Relations and Functions",
+      "topics": [
+        "Relations",
+        "Properties of Relations",
+        "Matrix Representation of Relations",
+        "Digraph Representation",
+        "Equivalence Relations",
+        "Partial Order Relations",
+        "Partitions",
+        "Hasse Diagram",
+        "Lattices",
+        "Chains and Antichains",
+        "Transitive Closure",
+        "Warshall Algorithm",
+        "Functions",
+        "Injective Functions",
+        "Surjective Functions",
+        "Bijective Functions",
+        "Function Composition",
+        "Inverse Functions",
+        "Recursive Functions",
+        "Counting Functions",
+        "Growth of Functions"
+      ]
+    },
+    {
+      "unit": "Unit 3",
+      "title": "Trees",
+      "topics": [
+        "Introduction to Trees",
+        "Properties of Trees",
+        "Decision Trees",
+        "Prefix Codes",
+        "Huffman Coding",
+        "Tree Applications in File Systems",
+        "Cut Sets",
+        "Max Flow Min Cut Theorem",
+        "Minimum Spanning Tree",
+        "Prim’s Algorithm",
+        "Kruskal’s Algorithm"
+      ]
+    },
+    {
+      "unit": "Unit 4",
+      "title": "Graph Theory",
+      "topics": [
+        "Graph Terminology",
+        "Types of Graphs",
+        "Graph Representation",
+        "Graph Isomorphism",
+        "Graph Connectivity",
+        "Euler Paths",
+        "Hamiltonian Paths",
+        "Handshaking Lemma",
+        "Dijkstra Algorithm",
+        "Shortest Path",
+        "Planar Graphs",
+        "Graph Coloring"
+      ]
+    },
+    {
+      "unit": "Unit 5",
+      "title": "Counting and Algebraic Structures",
+      "topics": [
+        "Addition Principle",
+        "Multiplication Principle",
+        "Permutations",
+        "Combinations",
+        "Binomial Coefficients",
+        "Pascal’s Triangle",
+        "Pigeonhole Principle",
+        "Inclusion Exclusion Principle",
+        "Generating Functions",
+        "Algebraic Systems",
+        "Semigroups",
+        "Monoids",
+        "Groups",
+        "Homomorphism",
+        "Normal Subgroups",
+        "Congruence Relations",
+        "Rings",
+        "Integral Domains",
+        "Fields"
+      ]
+    }
+  ]
+}
+]

@@ -1,0 +1,112 @@
+{
+  "subject": "Internet of Things (IoT)",
+  "units": [
+    {
+      "unit": "Unit 1",
+      "title": "Introduction to IoT",
+      "topics": [
+        "Definition of IoT",
+        "Characteristics of IoT",
+        "Evolution of IoT",
+        "Convergence of IoT",
+        "IoT Challenges",
+        "Machine to Machine Communication (M2M)",
+        "Things in IoT",
+        "IoT Protocols",
+        "IoT Ecosystem Functional Blocks",
+        "Communication Models",
+        "Communication APIs",
+        "Wireless Sensor Networks",
+        "Cloud Computing",
+        "Big Data Analytics",
+        "Embedded Systems",
+        "IoT Applications Overview"
+      ]
+    },
+    {
+      "unit": "Unit 2",
+      "title": "Sensors and Actuators",
+      "topics": [
+        "Sensors Definition",
+        "Sensor Principles",
+        "Sensor Classification",
+        "Types of Sensors",
+        "Sensor Characteristics",
+        "Sensor Specifications",
+        "Actuators Definition",
+        "Actuator Principles",
+        "Actuator Classification",
+        "Types of Actuators",
+        "Actuator Characteristics",
+        "Actuator Specifications",
+        "Arduino Board",
+        "Arduino IDE",
+        "Raspberry Pi",
+        "NodeMCU",
+        "ESP32",
+        "Beaglebone"
+      ]
+    },
+    {
+      "unit": "Unit 3",
+      "title": "IoT Protocols",
+      "topics": [
+        "IoT Access Technologies",
+        "Physical Layer",
+        "MAC Layer",
+        "IEEE 802.15.4",
+        "IEEE 802.11ah",
+        "LoRaWAN",
+        "IPv4",
+        "IPv6",
+        "6LoWPAN",
+        "CoAP Protocol",
+        "MQTT Protocol",
+        "Zigbee",
+        "Bluetooth",
+        "BLE",
+        "Z-Wave"
+      ]
+    },
+    {
+      "unit": "Unit 4",
+      "title": "Cloud for IoT",
+      "topics": [
+        "Cloud Computing Fundamentals",
+        "Types of Cloud Services",
+        "AWS",
+        "Microsoft Azure",
+        "Adafruit IO",
+        "IoT with Cloud",
+        "Cloud Challenges",
+        "Cloud Selection for IoT"
+      ]
+    },
+    {
+      "unit": "Unit 5",
+      "title": "IoT Applications",
+      "topics": [
+        "Smart Cities",
+        "Smart Parking",
+        "Smart Lighting",
+        "Smart Roads",
+        "Structural Health Monitoring",
+        "Surveillance Systems",
+        "Smart Grids",
+        "Renewable Energy Systems",
+        "Weather Monitoring",
+        "Air Pollution Monitoring",
+        "Noise Pollution Monitoring",
+        "Forest Fire Detection",
+        "Flood Detection",
+        "Smart Irrigation",
+        "Greenhouse Control",
+        "Industrial Monitoring",
+        "Machine Diagnostics",
+        "Indoor Air Quality Monitoring",
+        "Health Monitoring",
+        "Wearable Devices"
+      ]
+    }
+  ]
+}
