@@ -1,445 +1,449 @@
-[
+{
+  "chunks": [
   {
-    "question": "Explain the architecture of the 80386 microprocessor with diagram.",
-    "subject": "Computer organization and microprocessor",
-    "type": "PYQ",
-    "years": [2023, 2024],
-    "frequency": 3,
-    "tags": ["80386", "architecture"]
-  },
-  {
-    "question": "Explain various addressing modes of 80386 with examples.",
-    "subject": "Computer organization and microprocessor",
-    "type": "PYQ",
-    "years": [2023, 2024],
-    "frequency": 5,
-    "tags": ["addressing modes", "80386"]
-  },
-  {
-    "question": "Explain data movement instructions of 80386 with examples.",
-    "subject": "Computer organization and microprocessor",
-    "type": "PYQ",
-    "years": [2023, 2024],
-    "frequency": 2,
-    "tags": ["instructions", "data movement"]
-  },
-  {
-    "question": "Explain operating modes of 80386.",
-    "subject": "Computer organization and microprocessor",
-    "type": "PYQ",
-    "years": [2023],
-    "frequency": 1,
-    "tags": ["operating modes"]
-  },
-  {
-    "question": "Explain general and segment registers of 80386.",
-    "subject": "Computer organization and microprocessor",
-    "type": "PYQ",
-    "years": [2023],
-    "frequency": 1,
-    "tags": ["registers"]
-  },
-  {
-    "question": "Explain processor state after reset in 80386.",
-    "subject": "Computer organization and microprocessor",
-    "type": "PYQ",
-    "years": [2023, 2024],
-    "frequency": 2,
-    "tags": ["reset state"]
-  },
-  {
-    "question": "Explain read and write cycles with non-pipelined timing.",
-    "subject": "Computer organization and microprocessor",
-    "type": "PYQ",
-    "years": [2023, 2024],
-    "frequency": 4,
-    "tags": ["timing diagram"]
-  },
-  {
-    "question": "Explain control registers of 80386.",
-    "subject": "Computer organization and microprocessor",
-    "type": "PYQ",
-    "years": [2023, 2024],
-    "frequency": 2,
-    "tags": ["control registers"]
-  },
-  {
-    "question": "Explain signals of 80386.",
-    "subject": "Computer organization and microprocessor",
-    "type": "PYQ",
-    "years": [2023, 2024],
-    "frequency": 2,
-    "tags": ["signals"]
-  },
-  {
-    "question": "Explain page translation process in 80386.",
-    "subject": "Computer organization and microprocessor",
-    "type": "PYQ",
-    "years": [2022, 2023, 2024, 2025],
-    "frequency": 8,
-    "tags": ["paging", "memory management"]
-  },
-  {
-    "question": "Explain segment translation process in 80386.",
-    "subject": "Computer organization and microprocessor",
-    "type": "PYQ",
-    "years": [2022, 2023, 2024, 2025],
-    "frequency": 7,
-    "tags": ["segmentation"]
-  },
-  {
-    "question": "Explain logical, linear and physical address.",
-    "subject": "Computer organization and microprocessor",
-    "type": "PYQ",
-    "years": [2022],
-    "frequency": 1,
-    "tags": ["addressing"]
-  },
-  {
-    "question": "Explain descriptor types in 80386.",
-    "subject": "Computer organization and microprocessor",
-    "type": "PYQ",
-    "years": [2022, 2023, 2024],
-    "frequency": 6,
-    "tags": ["descriptors"]
-  },
-  {
-    "question": "Explain GDTR, LDTR and IDTR.",
-    "subject": "Computer organization and microprocessor",
-    "type": "PYQ",
-    "years": [2022, 2023, 2024],
-    "frequency": 6,
-    "tags": ["registers"]
-  },
-  {
-    "question": "Explain general descriptor and selector format.",
-    "subject": "Computer organization and microprocessor",
-    "type": "PYQ",
-    "years": [2022, 2023, 2024],
-    "frequency": 6,
-    "tags": ["descriptor"]
-  },
-  {
-    "question": "Explain protection mechanism in 80386.",
-    "subject": "Computer organization and microprocessor",
-    "type": "PYQ",
-    "years": [2022, 2023, 2024, 2025],
-    "frequency": 8,
-    "tags": ["protection"]
-  },
-  {
-    "question": "Explain CPL, DPL, RPL and IOPL.",
-    "subject": "Computer organization and microprocessor",
-    "type": "PYQ",
-    "years": [2022, 2023, 2024, 2025],
-    "frequency": 7,
-    "tags": ["privilege levels"]
-  },
-  {
-    "question": "Explain privilege instructions.",
-    "subject": "Computer organization and microprocessor",
-    "type": "PYQ",
-    "years": [2022, 2023, 2024, 2025],
-    "frequency": 6,
-    "tags": ["instructions"]
-  },
-  {
-    "question": "Explain call gate and its use.",
-    "subject": "Computer organization and microprocessor",
-    "type": "PYQ",
-    "years": [2022, 2023, 2024, 2025],
-    "frequency": 6,
-    "tags": ["call gate"]
-  },
-  {
-    "question": "Explain task state segment (TSS).",
-    "subject": "Computer organization and microprocessor",
-    "type": "PYQ",
-    "years": [2022, 2023, 2024, 2025],
-    "frequency": 7,
-    "tags": ["TSS"]
-  },
-  {
-    "question": "Explain task switching in 80386.",
-    "subject": "Computer organization and microprocessor",
-    "type": "PYQ",
-    "years": [2022, 2023, 2024, 2025],
-    "frequency": 5,
-    "tags": ["task switching"]
-  },
-  {
-    "question": "Explain virtual 8086 mode and its features.",
-    "subject": "Computer organization and microprocessor",
-    "type": "PYQ",
-    "years": [2022, 2023, 2024, 2025],
-    "frequency": 6,
-    "tags": ["virtual mode"]
-  },
-  {
-    "question": "Explain interrupt handling in 80386.",
-    "subject": "Computer organization and microprocessor",
-    "type": "PYQ",
-    "years": [2022, 2023, 2024, 2025],
-    "frequency": 6,
-    "tags": ["interrupts"]
-  },
-  {
-    "question": "Explain exceptions in 80386.",
-    "subject": "Computer organization and microprocessor",
-    "type": "PYQ",
-    "years": [2022, 2023, 2024, 2025],
-    "frequency": 6,
-    "tags": ["exceptions"]
-  },
-  {
-    "question": "Differentiate between microprocessor and microcontroller.",
-    "subject": "Computer organization and microprocessor",
-    "type": "PYQ",
-    "years": [2022, 2023, 2024, 2025],
-    "frequency": 5,
-    "tags": ["comparison"]
-  },
-  {
-    "question": "Explain architecture of a typical microcontroller.",
-    "subject": "Computer organization and microprocessor",
-    "type": "PYQ",
-    "years": [2022, 2023, 2024, 2025],
-    "frequency": 5,
-    "tags": ["microcontroller"]
-  },
-  {
-    "question": "Explain features of 8051 microcontroller.",
-    "subject": "Computer organization and microprocessor",
-    "type": "PYQ",
-    "years": [2023, 2024],
-    "frequency": 3,
-    "tags": ["8051"]
-  },
-  {
-    "question": "List applications of microcontrollers.",
-    "subject": "Computer organization and microprocessor",
-    "type": "PYQ",
-    "years": [2023, 2024],
-    "frequency": 2,
-    "tags": ["applications"]
-  },
+      "question": "Explain the architecture of the 80386 microprocessor with diagram.",
+      "subject": "Computer organization and microprocessor",
+      "type": "PYQ",
+      "years": [2023, 2024],
+      "frequency": 3,
+      "tags": ["80386", "architecture"]
+    },
+    {
+      "question": "Explain various addressing modes of 80386 with examples.",
+      "subject": "Computer organization and microprocessor",
+      "type": "PYQ",
+      "years": [2023, 2024],
+      "frequency": 5,
+      "tags": ["addressing modes", "80386"]
+    },
+    {
+      "question": "Explain data movement instructions of 80386 with examples.",
+      "subject": "Computer organization and microprocessor",
+      "type": "PYQ",
+      "years": [2023, 2024],
+      "frequency": 2,
+      "tags": ["instructions", "data movement"]
+    },
+    {
+      "question": "Explain operating modes of 80386.",
+      "subject": "Computer organization and microprocessor",
+      "type": "PYQ",
+      "years": [2023],
+      "frequency": 1,
+      "tags": ["operating modes"]
+    },
+    {
+      "question": "Explain general and segment registers of 80386.",
+      "subject": "Computer organization and microprocessor",
+      "type": "PYQ",
+      "years": [2023],
+      "frequency": 1,
+      "tags": ["registers"]
+    },
+    {
+      "question": "Explain processor state after reset in 80386.",
+      "subject": "Computer organization and microprocessor",
+      "type": "PYQ",
+      "years": [2023, 2024],
+      "frequency": 2,
+      "tags": ["reset state"]
+    },
+    {
+      "question": "Explain read and write cycles with non-pipelined timing.",
+      "subject": "Computer organization and microprocessor",
+      "type": "PYQ",
+      "years": [2023, 2024],
+      "frequency": 4,
+      "tags": ["timing diagram"]
+    },
+    {
+      "question": "Explain control registers of 80386.",
+      "subject": "Computer organization and microprocessor",
+      "type": "PYQ",
+      "years": [2023, 2024],
+      "frequency": 2,
+      "tags": ["control registers"]
+    },
+    {
+      "question": "Explain signals of 80386.",
+      "subject": "Computer organization and microprocessor",
+      "type": "PYQ",
+      "years": [2023, 2024],
+      "frequency": 2,
+      "tags": ["signals"]
+    },
+    {
+      "question": "Explain page translation process in 80386.",
+      "subject": "Computer organization and microprocessor",
+      "type": "PYQ",
+      "years": [2022, 2023, 2024, 2025],
+      "frequency": 8,
+      "tags": ["paging", "memory management"]
+    },
+    {
+      "question": "Explain segment translation process in 80386.",
+      "subject": "Computer organization and microprocessor",
+      "type": "PYQ",
+      "years": [2022, 2023, 2024, 2025],
+      "frequency": 7,
+      "tags": ["segmentation"]
+    },
+    {
+      "question": "Explain logical, linear and physical address.",
+      "subject": "Computer organization and microprocessor",
+      "type": "PYQ",
+      "years": [2022],
+      "frequency": 1,
+      "tags": ["addressing"]
+    },
+    {
+      "question": "Explain descriptor types in 80386.",
+      "subject": "Computer organization and microprocessor",
+      "type": "PYQ",
+      "years": [2022, 2023, 2024],
+      "frequency": 6,
+      "tags": ["descriptors"]
+    },
+    {
+      "question": "Explain GDTR, LDTR and IDTR.",
+      "subject": "Computer organization and microprocessor",
+      "type": "PYQ",
+      "years": [2022, 2023, 2024],
+      "frequency": 6,
+      "tags": ["registers"]
+    },
+    {
+      "question": "Explain general descriptor and selector format.",
+      "subject": "Computer organization and microprocessor",
+      "type": "PYQ",
+      "years": [2022, 2023, 2024],
+      "frequency": 6,
+      "tags": ["descriptor"]
+    },
+    {
+      "question": "Explain protection mechanism in 80386.",
+      "subject": "Computer organization and microprocessor",
+      "type": "PYQ",
+      "years": [2022, 2023, 2024, 2025],
+      "frequency": 8,
+      "tags": ["protection"]
+    },
+    {
+      "question": "Explain CPL, DPL, RPL and IOPL.",
+      "subject": "Computer organization and microprocessor",
+      "type": "PYQ",
+      "years": [2022, 2023, 2024, 2025],
+      "frequency": 7,
+      "tags": ["privilege levels"]
+    },
+    {
+      "question": "Explain privilege instructions.",
+      "subject": "Computer organization and microprocessor",
+      "type": "PYQ",
+      "years": [2022, 2023, 2024, 2025],
+      "frequency": 6,
+      "tags": ["instructions"]
+    },
+    {
+      "question": "Explain call gate and its use.",
+      "subject": "Computer organization and microprocessor",
+      "type": "PYQ",
+      "years": [2022, 2023, 2024, 2025],
+      "frequency": 6,
+      "tags": ["call gate"]
+    },
+    {
+      "question": "Explain task state segment (TSS).",
+      "subject": "Computer organization and microprocessor",
+      "type": "PYQ",
+      "years": [2022, 2023, 2024, 2025],
+      "frequency": 7,
+      "tags": ["TSS"]
+    },
+    {
+      "question": "Explain task switching in 80386.",
+      "subject": "Computer organization and microprocessor",
+      "type": "PYQ",
+      "years": [2022, 2023, 2024, 2025],
+      "frequency": 5,
+      "tags": ["task switching"]
+    },
+    {
+      "question": "Explain virtual 8086 mode and its features.",
+      "subject": "Computer organization and microprocessor",
+      "type": "PYQ",
+      "years": [2022, 2023, 2024, 2025],
+      "frequency": 6,
+      "tags": ["virtual mode"]
+    },
+    {
+      "question": "Explain interrupt handling in 80386.",
+      "subject": "Computer organization and microprocessor",
+      "type": "PYQ",
+      "years": [2022, 2023, 2024, 2025],
+      "frequency": 6,
+      "tags": ["interrupts"]
+    },
+    {
+      "question": "Explain exceptions in 80386.",
+      "subject": "Computer organization and microprocessor",
+      "type": "PYQ",
+      "years": [2022, 2023, 2024, 2025],
+      "frequency": 6,
+      "tags": ["exceptions"]
+    },
+    {
+      "question": "Differentiate between microprocessor and microcontroller.",
+      "subject": "Computer organization and microprocessor",
+      "type": "PYQ",
+      "years": [2022, 2023, 2024, 2025],
+      "frequency": 5,
+      "tags": ["comparison"]
+    },
+    {
+      "question": "Explain architecture of a typical microcontroller.",
+      "subject": "Computer organization and microprocessor",
+      "type": "PYQ",
+      "years": [2022, 2023, 2024, 2025],
+      "frequency": 5,
+      "tags": ["microcontroller"]
+    },
+    {
+      "question": "Explain features of 8051 microcontroller.",
+      "subject": "Computer organization and microprocessor",
+      "type": "PYQ",
+      "years": [2023, 2024],
+      "frequency": 3,
+      "tags": ["8051"]
+    },
+    {
+      "question": "List applications of microcontrollers.",
+      "subject": "Computer organization and microprocessor",
+      "type": "PYQ",
+      "years": [2023, 2024],
+      "frequency": 2,
+      "tags": ["applications"]
+    },
 
-  {
-    "question": "Multiply the following using Booth’ algorithm. Multiplicand = + 22 Multiplier = – 5",
-    "subject": "Computer organization and microprocessor",
-    "type": "IMP",
-    "unit": "1.Computer evolution and performance",
-    "frequency": 1,
-    "tags": ["booth algorithm"]
-  },
-  {
-    "question": "Multiply the following using Booth’ algorithm. Multiplicand = + 11 Multiplier = – 6",
-    "subject": "Computer organization and microprocessor",
-    "type": "IMP",
-    "unit": "1.Computer evolution and performance",
-    "frequency": 1,
-    "tags": ["booth algorithm"]
-  },
-  {
-    "question": "Explain Booth’s multiplication Algorithm with a suitable example.",
-    "subject": "Computer organization and microprocessor",
-    "type": "IMP",
-    "unit": "1.Computer evolution and performance",
-    "frequency": 1,
-    "tags": ["booth algorithm"]
-  },
-  {
-    "question": "Describe the top-level view of computer function and interconnection structures",
-    "subject": "Computer organization and microprocessor",
-    "type": "IMP",
-    "unit": "1.Computer evolution and performance",
-    "frequency": 1,
-    "tags": ["computer organization"]
-  },
-  {
-    "question": "Compare and contrast the Von Neumann and Harvard architectures",
-    "subject": "Computer organization and microprocessor",
-    "type": "IMP",
-    "unit": "1.Computer evolution and performance",
-    "frequency": 1,
-    "tags": ["architecture"]
-  },
-  {
-    "question": "Explain Von Neumann architecture with suitable diagram.",
-    "subject": "Computer organization and microprocessor",
-    "type": "IMP",
-    "unit": "1.Computer evolution and performance",
-    "frequency": 1,
-    "tags": ["architecture"]
-  },
-  {
-    "question": "Describe the structure and function of the Arithmetic and Logic Unit (ALU). Explain how it performs arithmetic and logical operations within a computer system.",
-    "subject": "Computer organization and microprocessor",
-    "type": "IMP",
-    "unit": "1.Computer evolution and performance",
-    "frequency": 1,
-    "tags": ["ALU"]
-  },
+    {
+      "question": "Multiply the following using Booth’ algorithm. Multiplicand = + 22 Multiplier = – 5",
+      "subject": "Computer organization and microprocessor",
+      "type": "IMP",
+      "unit": "1.Computer evolution and performance",
+      "frequency": 1,
+      "tags": ["booth algorithm"]
+    },
+    {
+      "question": "Multiply the following using Booth’ algorithm. Multiplicand = + 11 Multiplier = – 6",
+      "subject": "Computer organization and microprocessor",
+      "type": "IMP",
+      "unit": "1.Computer evolution and performance",
+      "frequency": 1,
+      "tags": ["booth algorithm"]
+    },
+    {
+      "question": "Explain Booth’s multiplication Algorithm with a suitable example.",
+      "subject": "Computer organization and microprocessor",
+      "type": "IMP",
+      "unit": "1.Computer evolution and performance",
+      "frequency": 1,
+      "tags": ["booth algorithm"]
+    },
+    {
+      "question": "Describe the top-level view of computer function and interconnection structures",
+      "subject": "Computer organization and microprocessor",
+      "type": "IMP",
+      "unit": "1.Computer evolution and performance",
+      "frequency": 1,
+      "tags": ["computer organization"]
+    },
+    {
+      "question": "Compare and contrast the Von Neumann and Harvard architectures",
+      "subject": "Computer organization and microprocessor",
+      "type": "IMP",
+      "unit": "1.Computer evolution and performance",
+      "frequency": 1,
+      "tags": ["architecture"]
+    },
+    {
+      "question": "Explain Von Neumann architecture with suitable diagram.",
+      "subject": "Computer organization and microprocessor",
+      "type": "IMP",
+      "unit": "1.Computer evolution and performance",
+      "frequency": 1,
+      "tags": ["architecture"]
+    },
+    {
+      "question": "Describe the structure and function of the Arithmetic and Logic Unit (ALU). Explain how it performs arithmetic and logical operations within a computer system.",
+      "subject": "Computer organization and microprocessor",
+      "type": "IMP",
+      "unit": "1.Computer evolution and performance",
+      "frequency": 1,
+      "tags": ["ALU"]
+    },
 
-  {
-    "question": "Explain the various types of Memory based on methods of accessing units of data.",
-    "subject": "Computer organization and microprocessor",
-    "type": "IMP",
-    "unit": "2.Memory Management",
-    "frequency": 1,
-    "tags": ["memory"]
-  },
-  {
-    "question": "Explain performance parameters of memory.",
-    "subject": "Computer organization and microprocessor",
-    "type": "IMP",
-    "unit": "2.Memory Management",
-    "frequency": 1,
-    "tags": ["memory"]
-  },
-  {
-    "question": "Draw and explain memory hierarchy in computer systems. Why is Memory Hierarchy Required in the System?",
-    "subject": "Computer organization and microprocessor",
-    "type": "IMP",
-    "unit": "2.Memory Management",
-    "frequency": 1,
-    "tags": ["memory hierarchy"]
-  },
-  {
-    "question": "Explain cache read operation with flowchart.",
-    "subject": "Computer organization and microprocessor",
-    "type": "IMP",
-    "unit": "2.Memory Management",
-    "frequency": 1,
-    "tags": ["cache"]
-  },
-  {
-    "question": "With the help of a neat diagram, explain typical cache organization.",
-    "subject": "Computer organization and microprocessor",
-    "type": "IMP",
-    "unit": "2.Memory Management",
-    "frequency": 1,
-    "tags": ["cache"]
-  },
-  {
-    "question": "Define virtual memory. Also, explain logical and physical cache.",
-    "subject": "Computer organization and microprocessor",
-    "type": "IMP",
-    "unit": "2.Memory Management",
-    "frequency": 1,
-    "tags": ["virtual memory"]
-  },
-  {
-    "question": "Explain the following main memory mapping techniques along with their merits and demerits: a) Direct, b) Associative, c) Set Associative.",
-    "subject": "Computer organization and microprocessor",
-    "type": "IMP",
-    "unit": "2.Memory Management",
-    "frequency": 1,
-    "tags": ["cache mapping"]
-  },
-  {
-    "question": "Explain the following cache updating policies: (i) Write through, (ii) Write back.",
-    "subject": "Computer organization and microprocessor",
-    "type": "IMP",
-    "unit": "2.Memory Management",
-    "frequency": 1,
-    "tags": ["cache"]
-  },
-  {
-    "question": "Distinguish between SRAM and DRAM.",
-    "subject": "Computer organization and microprocessor",
-    "type": "IMP",
-    "unit": "2.Memory Management",
-    "frequency": 1,
-    "tags": ["memory"]
-  },
-  {
-    "question": "Explain RAID levels with their advantages, disadvantages, and applications.",
-    "subject": "Computer organization and microprocessor",
-    "type": "IMP",
-    "unit": "2.Memory Management",
-    "frequency": 1,
-    "tags": ["RAID"]
-  },
-  {
-    "question": "What is cache memory? Define cache hit and cache miss.",
-    "subject": "Computer organization and microprocessor",
-    "type": "IMP",
-    "unit": "2.Memory Management",
-    "frequency": 1,
-    "tags": ["cache"]
-  },
+    {
+      "question": "Explain the various types of Memory based on methods of accessing units of data.",
+      "subject": "Computer organization and microprocessor",
+      "type": "IMP",
+      "unit": "2.Memory Management",
+      "frequency": 1,
+      "tags": ["memory"]
+    },
+    {
+      "question": "Explain performance parameters of memory.",
+      "subject": "Computer organization and microprocessor",
+      "type": "IMP",
+      "unit": "2.Memory Management",
+      "frequency": 1,
+      "tags": ["memory"]
+    },
+    {
+      "question": "Draw and explain memory hierarchy in computer systems. Why is Memory Hierarchy Required in the System?",
+      "subject": "Computer organization and microprocessor",
+      "type": "IMP",
+      "unit": "2.Memory Management",
+      "frequency": 1,
+      "tags": ["memory hierarchy"]
+    },
+    {
+      "question": "Explain cache read operation with flowchart.",
+      "subject": "Computer organization and microprocessor",
+      "type": "IMP",
+      "unit": "2.Memory Management",
+      "frequency": 1,
+      "tags": ["cache"]
+    },
+    {
+      "question": "With the help of a neat diagram, explain typical cache organization.",
+      "subject": "Computer organization and microprocessor",
+      "type": "IMP",
+      "unit": "2.Memory Management",
+      "frequency": 1,
+      "tags": ["cache"]
+    },
+    {
+      "question": "Define virtual memory. Also, explain logical and physical cache.",
+      "subject": "Computer organization and microprocessor",
+      "type": "IMP",
+      "unit": "2.Memory Management",
+      "frequency": 1,
+      "tags": ["virtual memory"]
+    },
+    {
+      "question": "Explain the following main memory mapping techniques along with their merits and demerits: a) Direct, b) Associative, c) Set Associative.",
+      "subject": "Computer organization and microprocessor",
+      "type": "IMP",
+      "unit": "2.Memory Management",
+      "frequency": 1,
+      "tags": ["cache mapping"]
+    },
+    {
+      "question": "Explain the following cache updating policies: (i) Write through, (ii) Write back.",
+      "subject": "Computer organization and microprocessor",
+      "type": "IMP",
+      "unit": "2.Memory Management",
+      "frequency": 1,
+      "tags": ["cache"]
+    },
+    {
+      "question": "Distinguish between SRAM and DRAM.",
+      "subject": "Computer organization and microprocessor",
+      "type": "IMP",
+      "unit": "2.Memory Management",
+      "frequency": 1,
+      "tags": ["memory"]
+    },
+    {
+      "question": "Explain RAID levels with their advantages, disadvantages, and applications.",
+      "subject": "Computer organization and microprocessor",
+      "type": "IMP",
+      "unit": "2.Memory Management",
+      "frequency": 1,
+      "tags": ["RAID"]
+    },
+    {
+      "question": "What is cache memory? Define cache hit and cache miss.",
+      "subject": "Computer organization and microprocessor",
+      "type": "IMP",
+      "unit": "2.Memory Management",
+      "frequency": 1,
+      "tags": ["cache"]
+    },
 
-  {
-    "question": "Explain the basic features of the Intel 8086 microprocessor.",
-    "subject": "Computer organization and microprocessor",
-    "type": "IMP",
-    "unit": "3.Introduction to 8086 Microprocessor",
-    "frequency": 1,
-    "tags": ["8086"]
-  },
-  {
-    "question": "Explain the architecture of the 8086 microprocessor with a neat diagram.",
-    "subject": "Computer organization and microprocessor",
-    "type": "IMP",
-    "unit": "3.Introduction to 8086 Microprocessor",
-    "frequency": 1,
-    "tags": ["architecture"]
-  },
-  {
-    "question": "Draw and explain the pin configuration of the 8086 microprocessor.",
-    "subject": "Computer organization and microprocessor",
-    "type": "IMP",
-    "unit": "3.Introduction to 8086 Microprocessor",
-    "frequency": 1,
-    "tags": ["pins"]
-  },
-  {
-    "question": "List and describe the registers of the 8086 microprocessor (Programmer's Model).",
-    "subject": "Computer organization and microprocessor",
-    "type": "IMP",
-    "unit": "3.Introduction to 8086 Microprocessor",
-    "frequency": 1,
-    "tags": ["registers"]
-  },
-  {
-    "question": "Explain the Flag register in detail.",
-    "subject": "Computer organization and microprocessor",
-    "type": "IMP",
-    "unit": "3.Introduction to 8086 Microprocessor",
-    "frequency": 1,
-    "tags": ["flags"]
-  },
-  {
-    "question": "Describe the following addressing modes with examples: Index, Direct, Indirect, Immediate, Register, and Based indexed mode.",
-    "subject": "Computer organization and microprocessor",
-    "type": "IMP",
-    "unit": "3.Introduction to 8086 Microprocessor",
-    "frequency": 1,
-    "tags": ["addressing modes"]
-  },
-  {
-    "question": "Explain Data Movement Instructions of 8086.",
-    "subject": "Computer organization and microprocessor",
-    "type": "IMP",
-    "unit": "3.Introduction to 8086 Microprocessor",
-    "frequency": 1,
-    "tags": ["instructions"]
-  },
-  {
-    "question": "Explain String and Arithmetic Instructions of 8086.",
-    "subject": "Computer organization and microprocessor",
-    "type": "IMP",
-    "unit": "3.Introduction to 8086 Microprocessor",
-    "frequency": 1,
-    "tags": ["instructions"]
-  },
-  {
-    "question": "Explain Conditional Branch and Non-Conditional Branch Instructions.",
-    "subject": "Computer organization and microprocessor",
-    "type": "IMP",
-    "unit": "3.Introduction to 8086 Microprocessor",
-    "frequency": 1,
-    "tags": ["branch"]
-  }
-]
+    {
+      "question": "Explain the basic features of the Intel 8086 microprocessor.",
+      "subject": "Computer organization and microprocessor",
+      "type": "IMP",
+      "unit": "3.Introduction to 8086 Microprocessor",
+      "frequency": 1,
+      "tags": ["8086"]
+    },
+    {
+      "question": "Explain the architecture of the 8086 microprocessor with a neat diagram.",
+      "subject": "Computer organization and microprocessor",
+      "type": "IMP",
+      "unit": "3.Introduction to 8086 Microprocessor",
+      "frequency": 1,
+      "tags": ["architecture"]
+    },
+    {
+      "question": "Draw and explain the pin configuration of the 8086 microprocessor.",
+      "subject": "Computer organization and microprocessor",
+      "type": "IMP",
+      "unit": "3.Introduction to 8086 Microprocessor",
+      "frequency": 1,
+      "tags": ["pins"]
+    },
+    {
+      "question": "List and describe the registers of the 8086 microprocessor (Programmer's Model).",
+      "subject": "Computer organization and microprocessor",
+      "type": "IMP",
+      "unit": "3.Introduction to 8086 Microprocessor",
+      "frequency": 1,
+      "tags": ["registers"]
+    },
+    {
+      "question": "Explain the Flag register in detail.",
+      "subject": "Computer organization and microprocessor",
+      "type": "IMP",
+      "unit": "3.Introduction to 8086 Microprocessor",
+      "frequency": 1,
+      "tags": ["flags"]
+    },
+    {
+      "question": "Describe the following addressing modes with examples: Index, Direct, Indirect, Immediate, Register, and Based indexed mode.",
+      "subject": "Computer organization and microprocessor",
+      "type": "IMP",
+      "unit": "3.Introduction to 8086 Microprocessor",
+      "frequency": 1,
+      "tags": ["addressing modes"]
+    },
+    {
+      "question": "Explain Data Movement Instructions of 8086.",
+      "subject": "Computer organization and microprocessor",
+      "type": "IMP",
+      "unit": "3.Introduction to 8086 Microprocessor",
+      "frequency": 1,
+      "tags": ["instructions"]
+    },
+    {
+      "question": "Explain String and Arithmetic Instructions of 8086.",
+      "subject": "Computer organization and microprocessor",
+      "type": "IMP",
+      "unit": "3.Introduction to 8086 Microprocessor",
+      "frequency": 1,
+      "tags": ["instructions"]
+    },
+    {
+      "question": "Explain Conditional Branch and Non-Conditional Branch Instructions.",
+      "subject": "Computer organization and microprocessor",
+      "type": "IMP",
+      "unit": "3.Introduction to 8086 Microprocessor",
+      "frequency": 1,
+      "tags": ["branch"]
+    }
+
+  ]
+
+}

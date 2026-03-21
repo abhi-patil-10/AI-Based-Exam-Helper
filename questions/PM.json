@@ -1,186 +1,188 @@
-[
-  {
-    "question": "Explain organizational structures and their characteristics.",
-    "subject": "Project Management",
-    "type": "PYQ",
-    "years": [2022, 2023, 2024, 2025],
-    "frequency": 7,
-    "tags": ["organization"]
-  },
-  {
-    "question": "Explain team management and roles/responsibilities of project team members.",
-    "subject": "Project Management",
-    "type": "PYQ",
-    "years": [2022, 2023, 2024],
-    "frequency": 6,
-    "tags": ["team management"]
-  },
-  {
-    "question": "Explain leadership styles and diversity management.",
-    "subject": "Project Management",
-    "type": "PYQ",
-    "years": [2023, 2024, 2025],
-    "frequency": 5,
-    "tags": ["leadership"]
-  },
-  {
-    "question": "Explain PERT technique with example.",
-    "subject": "Project Management",
-    "type": "PYQ",
-    "years": [2023, 2024, 2025],
-    "frequency": 6,
-    "tags": ["PERT"]
-  },
-  {
-    "question": "Explain CPM (Critical Path Method) and critical path determination.",
-    "subject": "Project Management",
-    "type": "PYQ",
-    "years": [2023, 2024, 2025],
-    "frequency": 6,
-    "tags": ["CPM"]
-  },
-  {
-    "question": "Construct network diagram and calculate ES, EF, LS, LF and critical path.",
-    "subject": "Project Management",
-    "type": "PYQ",
-    "years": [2023, 2024, 2025],
-    "frequency": 7,
-    "tags": ["network diagram"]
-  },
-  {
-    "question": "Explain AOA and AON networks with comparison.",
-    "subject": "Project Management",
-    "type": "PYQ",
-    "years": [2022, 2023, 2024],
-    "frequency": 5,
-    "tags": ["AOA", "AON"]
-  },
-  {
-    "question": "Explain Gantt chart and project scheduling techniques.",
-    "subject": "Project Management",
-    "type": "PYQ",
-    "years": [2022, 2023, 2024],
-    "frequency": 4,
-    "tags": ["Gantt chart"]
-  },
-  {
-    "question": "Explain resource allocation in project management.",
-    "subject": "Project Management",
-    "type": "PYQ",
-    "years": [2023, 2024, 2025],
-    "frequency": 5,
-    "tags": ["resource"]
-  },
-  {
-    "question": "Explain risk management process.",
-    "subject": "Project Management",
-    "type": "PYQ",
-    "years": [2022, 2023, 2024, 2025],
-    "frequency": 7,
-    "tags": ["risk"]
-  },
-  {
-    "question": "Explain risk analysis and types of risks.",
-    "subject": "Project Management",
-    "type": "PYQ",
-    "years": [2022, 2023, 2024, 2025],
-    "frequency": 6,
-    "tags": ["risk analysis"]
-  },
-  {
-    "question": "Explain project financial management and financial analysis.",
-    "subject": "Project Management",
-    "type": "PYQ",
-    "years": [2022, 2023, 2024, 2025],
-    "frequency": 6,
-    "tags": ["finance"]
-  },
-  {
-    "question": "Explain break-even analysis with example.",
-    "subject": "Project Management",
-    "type": "PYQ",
-    "years": [2022, 2023, 2024],
-    "frequency": 4,
-    "tags": ["break-even"]
-  },
-  {
-    "question": "Explain project cost estimation and budgeting.",
-    "subject": "Project Management",
-    "type": "PYQ",
-    "years": [2023, 2024, 2025],
-    "frequency": 5,
-    "tags": ["cost"]
-  },
-  {
-    "question": "Explain product development process.",
-    "subject": "Project Management",
-    "type": "PYQ",
-    "years": [2022, 2023, 2024, 2025],
-    "frequency": 7,
-    "tags": ["product development"]
-  },
-  {
-    "question": "Explain entrepreneurship and characteristics of successful entrepreneur.",
-    "subject": "Project Management",
-    "type": "PYQ",
-    "years": [2022, 2023, 2024, 2025],
-    "frequency": 7,
-    "tags": ["entrepreneurship"]
-  },
-  {
-    "question": "Explain legal aspects (patent, copyright, trademark, licensing).",
-    "subject": "Project Management",
-    "type": "PYQ",
-    "years": [2022, 2023, 2024, 2025],
-    "frequency": 6,
-    "tags": ["legal"]
-  },
-  {
-    "question": "Explain customer needs in product development.",
-    "subject": "Project Management",
-    "type": "PYQ",
-    "years": [2023, 2024],
-    "frequency": 3,
-    "tags": ["customer needs"]
-  },
-  {
-    "question": "Explain project life cycle and phases.",
-    "subject": "Project Management",
-    "type": "PYQ",
-    "years": [2024],
-    "frequency": 1,
-    "tags": ["life cycle"]
-  },
-  {
-    "question": "Explain work breakdown structure (WBS).",
-    "subject": "Project Management",
-    "type": "PYQ",
-    "years": [2024],
-    "frequency": 1,
-    "tags": ["WBS"]
-  },
-  {
-    "question": "Explain project planning and methods.",
-    "subject": "Project Management",
-    "type": "PYQ",
-    "years": [2022, 2023],
-    "frequency": 2,
-    "tags": ["planning"]
-  },
-  {
-    "question": "Explain conflict management and resolution strategies.",
-    "subject": "Project Management",
-    "type": "PYQ",
-    "years": [2023, 2025],
-    "frequency": 3,
-    "tags": ["conflict"]
-  },
-  {
-    "question": "Explain project management tools (JIRA, Trello).",
-    "subject": "Project Management",
-    "type": "PYQ",
-    "years": [2023, 2024, 2025],
-    "frequency": 4,
-    "tags": ["tools"]
-  }
-]
+{
+  "chunks": [
+    {
+      "question": "Explain organizational structures and their characteristics.",
+      "subject": "Project Management",
+      "type": "PYQ",
+      "years": [2022, 2023, 2024, 2025],
+      "frequency": 7,
+      "tags": ["organization"]
+    },
+    {
+      "question": "Explain team management and roles/responsibilities of project team members.",
+      "subject": "Project Management",
+      "type": "PYQ",
+      "years": [2022, 2023, 2024],
+      "frequency": 6,
+      "tags": ["team management"]
+    },
+    {
+      "question": "Explain leadership styles and diversity management.",
+      "subject": "Project Management",
+      "type": "PYQ",
+      "years": [2023, 2024, 2025],
+      "frequency": 5,
+      "tags": ["leadership"]
+    },
+    {
+      "question": "Explain PERT technique with example.",
+      "subject": "Project Management",
+      "type": "PYQ",
+      "years": [2023, 2024, 2025],
+      "frequency": 6,
+      "tags": ["PERT"]
+    },
+    {
+      "question": "Explain CPM (Critical Path Method) and critical path determination.",
+      "subject": "Project Management",
+      "type": "PYQ",
+      "years": [2023, 2024, 2025],
+      "frequency": 6,
+      "tags": ["CPM"]
+    },
+    {
+      "question": "Construct network diagram and calculate ES, EF, LS, LF and critical path.",
+      "subject": "Project Management",
+      "type": "PYQ",
+      "years": [2023, 2024, 2025],
+      "frequency": 7,
+      "tags": ["network diagram"]
+    },
+    {
+      "question": "Explain AOA and AON networks with comparison.",
+      "subject": "Project Management",
+      "type": "PYQ",
+      "years": [2022, 2023, 2024],
+      "frequency": 5,
+      "tags": ["AOA", "AON"]
+    },
+    {
+      "question": "Explain Gantt chart and project scheduling techniques.",
+      "subject": "Project Management",
+      "type": "PYQ",
+      "years": [2022, 2023, 2024],
+      "frequency": 4,
+      "tags": ["Gantt chart"]
+    },
+    {
+      "question": "Explain resource allocation in project management.",
+      "subject": "Project Management",
+      "type": "PYQ",
+      "years": [2023, 2024, 2025],
+      "frequency": 5,
+      "tags": ["resource"]
+    },
+    {
+      "question": "Explain risk management process.",
+      "subject": "Project Management",
+      "type": "PYQ",
+      "years": [2022, 2023, 2024, 2025],
+      "frequency": 7,
+      "tags": ["risk"]
+    },
+    {
+      "question": "Explain risk analysis and types of risks.",
+      "subject": "Project Management",
+      "type": "PYQ",
+      "years": [2022, 2023, 2024, 2025],
+      "frequency": 6,
+      "tags": ["risk analysis"]
+    },
+    {
+      "question": "Explain project financial management and financial analysis.",
+      "subject": "Project Management",
+      "type": "PYQ",
+      "years": [2022, 2023, 2024, 2025],
+      "frequency": 6,
+      "tags": ["finance"]
+    },
+    {
+      "question": "Explain break-even analysis with example.",
+      "subject": "Project Management",
+      "type": "PYQ",
+      "years": [2022, 2023, 2024],
+      "frequency": 4,
+      "tags": ["break-even"]
+    },
+    {
+      "question": "Explain project cost estimation and budgeting.",
+      "subject": "Project Management",
+      "type": "PYQ",
+      "years": [2023, 2024, 2025],
+      "frequency": 5,
+      "tags": ["cost"]
+    },
+    {
+      "question": "Explain product development process.",
+      "subject": "Project Management",
+      "type": "PYQ",
+      "years": [2022, 2023, 2024, 2025],
+      "frequency": 7,
+      "tags": ["product development"]
+    },
+    {
+      "question": "Explain entrepreneurship and characteristics of successful entrepreneur.",
+      "subject": "Project Management",
+      "type": "PYQ",
+      "years": [2022, 2023, 2024, 2025],
+      "frequency": 7,
+      "tags": ["entrepreneurship"]
+    },
+    {
+      "question": "Explain legal aspects (patent, copyright, trademark, licensing).",
+      "subject": "Project Management",
+      "type": "PYQ",
+      "years": [2022, 2023, 2024, 2025],
+      "frequency": 6,
+      "tags": ["legal"]
+    },
+    {
+      "question": "Explain customer needs in product development.",
+      "subject": "Project Management",
+      "type": "PYQ",
+      "years": [2023, 2024],
+      "frequency": 3,
+      "tags": ["customer needs"]
+    },
+    {
+      "question": "Explain project life cycle and phases.",
+      "subject": "Project Management",
+      "type": "PYQ",
+      "years": [2024],
+      "frequency": 1,
+      "tags": ["life cycle"]
+    },
+    {
+      "question": "Explain work breakdown structure (WBS).",
+      "subject": "Project Management",
+      "type": "PYQ",
+      "years": [2024],
+      "frequency": 1,
+      "tags": ["WBS"]
+    },
+    {
+      "question": "Explain project planning and methods.",
+      "subject": "Project Management",
+      "type": "PYQ",
+      "years": [2022, 2023],
+      "frequency": 2,
+      "tags": ["planning"]
+    },
+    {
+      "question": "Explain conflict management and resolution strategies.",
+      "subject": "Project Management",
+      "type": "PYQ",
+      "years": [2023, 2025],
+      "frequency": 3,
+      "tags": ["conflict"]
+    },
+    {
+      "question": "Explain project management tools (JIRA, Trello).",
+      "subject": "Project Management",
+      "type": "PYQ",
+      "years": [2023, 2024, 2025],
+      "frequency": 4,
+      "tags": ["tools"]
+    }
+  ]
+}

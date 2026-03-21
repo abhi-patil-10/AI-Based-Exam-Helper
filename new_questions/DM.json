@@ -1,0 +1,330 @@
+{
+    "chunks": [
+        {
+            "text": "Question : Explain set operations and laws with examples.,          Subject : Discrete Mathematics,          type : PYQ,                  tags :sets",
+            "metadata": {
+                "question": "Explain set operations and laws with examples.",
+                "subject": "Discrete Mathematics",
+                "type": "PYQ",
+                "years": [
+                    2022,
+                    2023,
+                    2024,
+                    2025
+                ],
+                "frequency": 6,
+                "tags": [
+                    "sets"
+                ]
+            }
+        },
+        {
+            "text": "Question : Explain relations and their properties.,          Subject : Discrete Mathematics,          type : PYQ,                  tags :relations",
+            "metadata": {
+                "question": "Explain relations and their properties.",
+                "subject": "Discrete Mathematics",
+                "type": "PYQ",
+                "years": [
+                    2022,
+                    2023,
+                    2024,
+                    2025
+                ],
+                "frequency": 6,
+                "tags": [
+                    "relations"
+                ]
+            }
+        },
+        {
+            "text": "Question : Explain functions and types of functions.,          Subject : Discrete Mathematics,          type : PYQ,                  tags :functions",
+            "metadata": {
+                "question": "Explain functions and types of functions.",
+                "subject": "Discrete Mathematics",
+                "type": "PYQ",
+                "years": [
+                    2022,
+                    2023,
+                    2024
+                ],
+                "frequency": 4,
+                "tags": [
+                    "functions"
+                ]
+            }
+        },
+        {
+            "text": "Question : Explain equivalence relation and partition.,          Subject : Discrete Mathematics,          type : PYQ,                  tags :equivalence",
+            "metadata": {
+                "question": "Explain equivalence relation and partition.",
+                "subject": "Discrete Mathematics",
+                "type": "PYQ",
+                "years": [
+                    2023,
+                    2024,
+                    2025
+                ],
+                "frequency": 5,
+                "tags": [
+                    "equivalence"
+                ]
+            }
+        },
+        {
+            "text": "Question : Explain poset and Hasse diagram.,          Subject : Discrete Mathematics,          type : PYQ,                  tags :poset",
+            "metadata": {
+                "question": "Explain poset and Hasse diagram.",
+                "subject": "Discrete Mathematics",
+                "type": "PYQ",
+                "years": [
+                    2023,
+                    2024,
+                    2025
+                ],
+                "frequency": 5,
+                "tags": [
+                    "poset"
+                ]
+            }
+        },
+        {
+            "text": "Question : Explain propositional logic and logical connectives.,          Subject : Discrete Mathematics,          type : PYQ,                  tags :logic",
+            "metadata": {
+                "question": "Explain propositional logic and logical connectives.",
+                "subject": "Discrete Mathematics",
+                "type": "PYQ",
+                "years": [
+                    2022,
+                    2023,
+                    2024,
+                    2025
+                ],
+                "frequency": 6,
+                "tags": [
+                    "logic"
+                ]
+            }
+        },
+        {
+            "text": "Question : Construct truth tables and verify logical equivalence.,          Subject : Discrete Mathematics,          type : PYQ,                  tags :truth table",
+            "metadata": {
+                "question": "Construct truth tables and verify logical equivalence.",
+                "subject": "Discrete Mathematics",
+                "type": "PYQ",
+                "years": [
+                    2022,
+                    2023,
+                    2024,
+                    2025
+                ],
+                "frequency": 7,
+                "tags": [
+                    "truth table"
+                ]
+            }
+        },
+        {
+            "text": "Question : Explain predicate logic and quantifiers.,          Subject : Discrete Mathematics,          type : PYQ,                  tags :predicate logic",
+            "metadata": {
+                "question": "Explain predicate logic and quantifiers.",
+                "subject": "Discrete Mathematics",
+                "type": "PYQ",
+                "years": [
+                    2023,
+                    2024,
+                    2025
+                ],
+                "frequency": 5,
+                "tags": [
+                    "predicate logic"
+                ]
+            }
+        },
+        {
+            "text": "Question : Explain normal forms (CNF and DNF).,          Subject : Discrete Mathematics,          type : PYQ,                  tags :normal forms",
+            "metadata": {
+                "question": "Explain normal forms (CNF and DNF).",
+                "subject": "Discrete Mathematics",
+                "type": "PYQ",
+                "years": [
+                    2023,
+                    2024,
+                    2025
+                ],
+                "frequency": 5,
+                "tags": [
+                    "normal forms"
+                ]
+            }
+        },
+        {
+            "text": "Question : Explain recurrence relations and solve them.,          Subject : Discrete Mathematics,          type : PYQ,                  tags :recurrence",
+            "metadata": {
+                "question": "Explain recurrence relations and solve them.",
+                "subject": "Discrete Mathematics",
+                "type": "PYQ",
+                "years": [
+                    2023,
+                    2024,
+                    2025
+                ],
+                "frequency": 5,
+                "tags": [
+                    "recurrence"
+                ]
+            }
+        },
+        {
+            "text": "Question : Explain generating functions.,          Subject : Discrete Mathematics,          type : PYQ,                  tags :generating function",
+            "metadata": {
+                "question": "Explain generating functions.",
+                "subject": "Discrete Mathematics",
+                "type": "PYQ",
+                "years": [
+                    2024,
+                    2025
+                ],
+                "frequency": 2,
+                "tags": [
+                    "generating function"
+                ]
+            }
+        },
+        {
+            "text": "Question : Explain graph terminology and types of graphs.,          Subject : Discrete Mathematics,          type : PYQ,                  tags :graphs",
+            "metadata": {
+                "question": "Explain graph terminology and types of graphs.",
+                "subject": "Discrete Mathematics",
+                "type": "PYQ",
+                "years": [
+                    2022,
+                    2023,
+                    2024,
+                    2025
+                ],
+                "frequency": 6,
+                "tags": [
+                    "graphs"
+                ]
+            }
+        },
+        {
+            "text": "Question : Explain tree and its properties.,          Subject : Discrete Mathematics,          type : PYQ,                  tags :trees",
+            "metadata": {
+                "question": "Explain tree and its properties.",
+                "subject": "Discrete Mathematics",
+                "type": "PYQ",
+                "years": [
+                    2022,
+                    2023,
+                    2024,
+                    2025
+                ],
+                "frequency": 6,
+                "tags": [
+                    "trees"
+                ]
+            }
+        },
+        {
+            "text": "Question : Explain spanning tree and its properties.,          Subject : Discrete Mathematics,          type : PYQ,                  tags :spanning tree",
+            "metadata": {
+                "question": "Explain spanning tree and its properties.",
+                "subject": "Discrete Mathematics",
+                "type": "PYQ",
+                "years": [
+                    2023,
+                    2024,
+                    2025
+                ],
+                "frequency": 4,
+                "tags": [
+                    "spanning tree"
+                ]
+            }
+        },
+        {
+            "text": "Question : Explain graph traversal techniques (BFS and DFS).,          Subject : Discrete Mathematics,          type : PYQ,                  tags :BFS, DFS",
+            "metadata": {
+                "question": "Explain graph traversal techniques (BFS and DFS).",
+                "subject": "Discrete Mathematics",
+                "type": "PYQ",
+                "years": [
+                    2023,
+                    2024,
+                    2025
+                ],
+                "frequency": 4,
+                "tags": [
+                    "BFS",
+                    "DFS"
+                ]
+            }
+        },
+        {
+            "text": "Question : Explain planar graphs and graph coloring.,          Subject : Discrete Mathematics,          type : PYQ,                  tags :planar graph",
+            "metadata": {
+                "question": "Explain planar graphs and graph coloring.",
+                "subject": "Discrete Mathematics",
+                "type": "PYQ",
+                "years": [
+                    2024,
+                    2025
+                ],
+                "frequency": 2,
+                "tags": [
+                    "planar graph"
+                ]
+            }
+        },
+        {
+            "text": "Question : Explain combinatorics (permutations and combinations).,          Subject : Discrete Mathematics,          type : PYQ,                  tags :combinatorics",
+            "metadata": {
+                "question": "Explain combinatorics (permutations and combinations).",
+                "subject": "Discrete Mathematics",
+                "type": "PYQ",
+                "years": [
+                    2022,
+                    2023,
+                    2024
+                ],
+                "frequency": 3,
+                "tags": [
+                    "combinatorics"
+                ]
+            }
+        },
+        {
+            "text": "Question : Explain pigeonhole principle with examples.,          Subject : Discrete Mathematics,          type : PYQ,                  tags :pigeonhole",
+            "metadata": {
+                "question": "Explain pigeonhole principle with examples.",
+                "subject": "Discrete Mathematics",
+                "type": "PYQ",
+                "years": [
+                    2023,
+                    2024
+                ],
+                "frequency": 2,
+                "tags": [
+                    "pigeonhole"
+                ]
+            }
+        },
+        {
+            "text": "Question : Explain mathematical induction with examples.,          Subject : Discrete Mathematics,          type : PYQ,                  tags :induction",
+            "metadata": {
+                "question": "Explain mathematical induction with examples.",
+                "subject": "Discrete Mathematics",
+                "type": "PYQ",
+                "years": [
+                    2022,
+                    2023
+                ],
+                "frequency": 2,
+                "tags": [
+                    "induction"
+                ]
+            }
+        }
+    ]
+}

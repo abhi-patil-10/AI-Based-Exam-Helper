@@ -1,154 +1,157 @@
-[
-  {
-    "question": "Explain set operations and laws with examples.",
-    "subject": "Discrete Mathematics",
-    "type": "PYQ",
-    "years": [2022, 2023, 2024, 2025],
-    "frequency": 6,
-    "tags": ["sets"]
-  },
-  {
-    "question": "Explain relations and their properties.",
-    "subject": "Discrete Mathematics",
-    "type": "PYQ",
-    "years": [2022, 2023, 2024, 2025],
-    "frequency": 6,
-    "tags": ["relations"]
-  },
-  {
-    "question": "Explain functions and types of functions.",
-    "subject": "Discrete Mathematics",
-    "type": "PYQ",
-    "years": [2022, 2023, 2024],
-    "frequency": 4,
-    "tags": ["functions"]
-  },
-  {
-    "question": "Explain equivalence relation and partition.",
-    "subject": "Discrete Mathematics",
-    "type": "PYQ",
-    "years": [2023, 2024, 2025],
-    "frequency": 5,
-    "tags": ["equivalence"]
-  },
-  {
-    "question": "Explain poset and Hasse diagram.",
-    "subject": "Discrete Mathematics",
-    "type": "PYQ",
-    "years": [2023, 2024, 2025],
-    "frequency": 5,
-    "tags": ["poset"]
-  },
-  {
-    "question": "Explain propositional logic and logical connectives.",
-    "subject": "Discrete Mathematics",
-    "type": "PYQ",
-    "years": [2022, 2023, 2024, 2025],
-    "frequency": 6,
-    "tags": ["logic"]
-  },
-  {
-    "question": "Construct truth tables and verify logical equivalence.",
-    "subject": "Discrete Mathematics",
-    "type": "PYQ",
-    "years": [2022, 2023, 2024, 2025],
-    "frequency": 7,
-    "tags": ["truth table"]
-  },
-  {
-    "question": "Explain predicate logic and quantifiers.",
-    "subject": "Discrete Mathematics",
-    "type": "PYQ",
-    "years": [2023, 2024, 2025],
-    "frequency": 5,
-    "tags": ["predicate logic"]
-  },
-  {
-    "question": "Explain normal forms (CNF and DNF).",
-    "subject": "Discrete Mathematics",
-    "type": "PYQ",
-    "years": [2023, 2024, 2025],
-    "frequency": 5,
-    "tags": ["normal forms"]
-  },
-  {
-    "question": "Explain recurrence relations and solve them.",
-    "subject": "Discrete Mathematics",
-    "type": "PYQ",
-    "years": [2023, 2024, 2025],
-    "frequency": 5,
-    "tags": ["recurrence"]
-  },
-  {
-    "question": "Explain generating functions.",
-    "subject": "Discrete Mathematics",
-    "type": "PYQ",
-    "years": [2024, 2025],
-    "frequency": 2,
-    "tags": ["generating function"]
-  },
-  {
-    "question": "Explain graph terminology and types of graphs.",
-    "subject": "Discrete Mathematics",
-    "type": "PYQ",
-    "years": [2022, 2023, 2024, 2025],
-    "frequency": 6,
-    "tags": ["graphs"]
-  },
-  {
-    "question": "Explain tree and its properties.",
-    "subject": "Discrete Mathematics",
-    "type": "PYQ",
-    "years": [2022, 2023, 2024, 2025],
-    "frequency": 6,
-    "tags": ["trees"]
-  },
-  {
-    "question": "Explain spanning tree and its properties.",
-    "subject": "Discrete Mathematics",
-    "type": "PYQ",
-    "years": [2023, 2024, 2025],
-    "frequency": 4,
-    "tags": ["spanning tree"]
-  },
-  {
-    "question": "Explain graph traversal techniques (BFS and DFS).",
-    "subject": "Discrete Mathematics",
-    "type": "PYQ",
-    "years": [2023, 2024, 2025],
-    "frequency": 4,
-    "tags": ["BFS", "DFS"]
-  },
-  {
-    "question": "Explain planar graphs and graph coloring.",
-    "subject": "Discrete Mathematics",
-    "type": "PYQ",
-    "years": [2024, 2025],
-    "frequency": 2,
-    "tags": ["planar graph"]
-  },
-  {
-    "question": "Explain combinatorics (permutations and combinations).",
-    "subject": "Discrete Mathematics",
-    "type": "PYQ",
-    "years": [2022, 2023, 2024],
-    "frequency": 3,
-    "tags": ["combinatorics"]
-  },
-  {
-    "question": "Explain pigeonhole principle with examples.",
-    "subject": "Discrete Mathematics",
-    "type": "PYQ",
-    "years": [2023, 2024],
-    "frequency": 2,
-    "tags": ["pigeonhole"]
-  },
-  {
-    "question": "Explain mathematical induction with examples.",
-    "subject": "Discrete Mathematics",
-    "type": "PYQ",
-    "years": [2022, 2023],
-    "frequency": 2,
-    "tags": ["induction"]
-  }
-]
+{
+  "chunks": [
+    {
+      "question": "Explain set operations and laws with examples.",
+      "subject": "Discrete Mathematics",
+      "type": "PYQ",
+      "years": [2022, 2023, 2024, 2025],
+      "frequency": 6,
+      "tags": ["sets"]
+    },
+    {
+      "question": "Explain relations and their properties.",
+      "subject": "Discrete Mathematics",
+      "type": "PYQ",
+      "years": [2022, 2023, 2024, 2025],
+      "frequency": 6,
+      "tags": ["relations"]
+    },
+    {
+      "question": "Explain functions and types of functions.",
+      "subject": "Discrete Mathematics",
+      "type": "PYQ",
+      "years": [2022, 2023, 2024],
+      "frequency": 4,
+      "tags": ["functions"]
+    },
+    {
+      "question": "Explain equivalence relation and partition.",
+      "subject": "Discrete Mathematics",
+      "type": "PYQ",
+      "years": [2023, 2024, 2025],
+      "frequency": 5,
+      "tags": ["equivalence"]
+    },
+    {
+      "question": "Explain poset and Hasse diagram.",
+      "subject": "Discrete Mathematics",
+      "type": "PYQ",
+      "years": [2023, 2024, 2025],
+      "frequency": 5,
+      "tags": ["poset"]
+    },
+    {
+      "question": "Explain propositional logic and logical connectives.",
+      "subject": "Discrete Mathematics",
+      "type": "PYQ",
+      "years": [2022, 2023, 2024, 2025],
+      "frequency": 6,
+      "tags": ["logic"]
+    },
+    {
+      "question": "Construct truth tables and verify logical equivalence.",
+      "subject": "Discrete Mathematics",
+      "type": "PYQ",
+      "years": [2022, 2023, 2024, 2025],
+      "frequency": 7,
+      "tags": ["truth table"]
+    },
+    {
+      "question": "Explain predicate logic and quantifiers.",
+      "subject": "Discrete Mathematics",
+      "type": "PYQ",
+      "years": [2023, 2024, 2025],
+      "frequency": 5,
+      "tags": ["predicate logic"]
+    },
+    {
+      "question": "Explain normal forms (CNF and DNF).",
+      "subject": "Discrete Mathematics",
+      "type": "PYQ",
+      "years": [2023, 2024, 2025],
+      "frequency": 5,
+      "tags": ["normal forms"]
+    },
+    {
+      "question": "Explain recurrence relations and solve them.",
+      "subject": "Discrete Mathematics",
+      "type": "PYQ",
+      "years": [2023, 2024, 2025],
+      "frequency": 5,
+      "tags": ["recurrence"]
+    },
+    {
+      "question": "Explain generating functions.",
+      "subject": "Discrete Mathematics",
+      "type": "PYQ",
+      "years": [2024, 2025],
+      "frequency": 2,
+      "tags": ["generating function"]
+    },
+    {
+      "question": "Explain graph terminology and types of graphs.",
+      "subject": "Discrete Mathematics",
+      "type": "PYQ",
+      "years": [2022, 2023, 2024, 2025],
+      "frequency": 6,
+      "tags": ["graphs"]
+    },
+    {
+      "question": "Explain tree and its properties.",
+      "subject": "Discrete Mathematics",
+      "type": "PYQ",
+      "years": [2022, 2023, 2024, 2025],
+      "frequency": 6,
+      "tags": ["trees"]
+    },
+    {
+      "question": "Explain spanning tree and its properties.",
+      "subject": "Discrete Mathematics",
+      "type": "PYQ",
+      "years": [2023, 2024, 2025],
+      "frequency": 4,
+      "tags": ["spanning tree"]
+    },
+    {
+      "question": "Explain graph traversal techniques (BFS and DFS).",
+      "subject": "Discrete Mathematics",
+      "type": "PYQ",
+      "years": [2023, 2024, 2025],
+      "frequency": 4,
+      "tags": ["BFS", "DFS"]
+    },
+    {
+      "question": "Explain planar graphs and graph coloring.",
+      "subject": "Discrete Mathematics",
+      "type": "PYQ",
+      "years": [2024, 2025],
+      "frequency": 2,
+      "tags": ["planar graph"]
+    },
+    {
+      "question": "Explain combinatorics (permutations and combinations).",
+      "subject": "Discrete Mathematics",
+      "type": "PYQ",
+      "years": [2022, 2023, 2024],
+      "frequency": 3,
+      "tags": ["combinatorics"]
+    },
+    {
+      "question": "Explain pigeonhole principle with examples.",
+      "subject": "Discrete Mathematics",
+      "type": "PYQ",
+      "years": [2023, 2024],
+      "frequency": 2,
+      "tags": ["pigeonhole"]
+    },
+    {
+      "question": "Explain mathematical induction with examples.",
+      "subject": "Discrete Mathematics",
+      "type": "PYQ",
+      "years": [2022, 2023],
+      "frequency": 2,
+      "tags": ["induction"]
+    }
+  ]
+
+}

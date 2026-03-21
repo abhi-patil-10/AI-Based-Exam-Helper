@@ -1,0 +1,408 @@
+{
+    "chunks": [
+        {
+            "text": "Question : Explain IoT design methodology with steps.,          Subject : Internet of Things and Embedded Systems,          type : PYQ,                  tags :IoT design",
+            "metadata": {
+                "question": "Explain IoT design methodology with steps.",
+                "subject": "Internet of Things and Embedded Systems",
+                "type": "PYQ",
+                "years": [
+                    2023,
+                    2024,
+                    2025
+                ],
+                "frequency": 4,
+                "tags": [
+                    "IoT design"
+                ]
+            }
+        },
+        {
+            "text": "Question : Explain IoT communication models.,          Subject : Internet of Things and Embedded Systems,          type : PYQ,                  tags :communication models",
+            "metadata": {
+                "question": "Explain IoT communication models.",
+                "subject": "Internet of Things and Embedded Systems",
+                "type": "PYQ",
+                "years": [
+                    2023,
+                    2024,
+                    2025
+                ],
+                "frequency": 4,
+                "tags": [
+                    "communication models"
+                ]
+            }
+        },
+        {
+            "text": "Question : Explain M2M communication.,          Subject : Internet of Things and Embedded Systems,          type : PYQ,                  tags :M2M",
+            "metadata": {
+                "question": "Explain M2M communication.",
+                "subject": "Internet of Things and Embedded Systems",
+                "type": "PYQ",
+                "years": [
+                    2024,
+                    2025
+                ],
+                "frequency": 2,
+                "tags": [
+                    "M2M"
+                ]
+            }
+        },
+        {
+            "text": "Question : Explain RFID and its IoT applications.,          Subject : Internet of Things and Embedded Systems,          type : PYQ,                  tags :RFID",
+            "metadata": {
+                "question": "Explain RFID and its IoT applications.",
+                "subject": "Internet of Things and Embedded Systems",
+                "type": "PYQ",
+                "years": [
+                    2023,
+                    2024,
+                    2025
+                ],
+                "frequency": 4,
+                "tags": [
+                    "RFID"
+                ]
+            }
+        },
+        {
+            "text": "Question : Explain IoT communication protocols (MQTT, MODBUS, etc.).,          Subject : Internet of Things and Embedded Systems,          type : PYQ,                  tags :protocols",
+            "metadata": {
+                "question": "Explain IoT communication protocols (MQTT, MODBUS, etc.).",
+                "subject": "Internet of Things and Embedded Systems",
+                "type": "PYQ",
+                "years": [
+                    2023,
+                    2024,
+                    2025
+                ],
+                "frequency": 6,
+                "tags": [
+                    "protocols"
+                ]
+            }
+        },
+        {
+            "text": "Question : Explain 6LoWPAN and IoT standardization.,          Subject : Internet of Things and Embedded Systems,          type : PYQ,                  tags :6LoWPAN",
+            "metadata": {
+                "question": "Explain 6LoWPAN and IoT standardization.",
+                "subject": "Internet of Things and Embedded Systems",
+                "type": "PYQ",
+                "years": [
+                    2024
+                ],
+                "frequency": 1,
+                "tags": [
+                    "6LoWPAN"
+                ]
+            }
+        },
+        {
+            "text": "Question : Explain SCADA protocol and its role in IoT.,          Subject : Internet of Things and Embedded Systems,          type : PYQ,                  tags :SCADA",
+            "metadata": {
+                "question": "Explain SCADA protocol and its role in IoT.",
+                "subject": "Internet of Things and Embedded Systems",
+                "type": "PYQ",
+                "years": [
+                    2024,
+                    2025
+                ],
+                "frequency": 3,
+                "tags": [
+                    "SCADA"
+                ]
+            }
+        },
+        {
+            "text": "Question : Explain LoRa and its use in IoT applications.,          Subject : Internet of Things and Embedded Systems,          type : PYQ,                  tags :LoRa",
+            "metadata": {
+                "question": "Explain LoRa and its use in IoT applications.",
+                "subject": "Internet of Things and Embedded Systems",
+                "type": "PYQ",
+                "years": [
+                    2023,
+                    2024
+                ],
+                "frequency": 2,
+                "tags": [
+                    "LoRa"
+                ]
+            }
+        },
+        {
+            "text": "Question : Explain ZigBee and compare with Wi-Fi and Bluetooth.,          Subject : Internet of Things and Embedded Systems,          type : PYQ,                  tags :ZigBee",
+            "metadata": {
+                "question": "Explain ZigBee and compare with Wi-Fi and Bluetooth.",
+                "subject": "Internet of Things and Embedded Systems",
+                "type": "PYQ",
+                "years": [
+                    2024,
+                    2025
+                ],
+                "frequency": 2,
+                "tags": [
+                    "ZigBee"
+                ]
+            }
+        },
+        {
+            "text": "Question : Explain IoT applications (smart irrigation, home automation, etc.).,          Subject : Internet of Things and Embedded Systems,          type : PYQ,                  tags :applications",
+            "metadata": {
+                "question": "Explain IoT applications (smart irrigation, home automation, etc.).",
+                "subject": "Internet of Things and Embedded Systems",
+                "type": "PYQ",
+                "years": [
+                    2023,
+                    2024,
+                    2025
+                ],
+                "frequency": 6,
+                "tags": [
+                    "applications"
+                ]
+            }
+        },
+        {
+            "text": "Question : Explain IoT architecture and generic block diagram.,          Subject : Internet of Things and Embedded Systems,          type : PYQ,                  tags :architecture",
+            "metadata": {
+                "question": "Explain IoT architecture and generic block diagram.",
+                "subject": "Internet of Things and Embedded Systems",
+                "type": "PYQ",
+                "years": [
+                    2023,
+                    2024
+                ],
+                "frequency": 3,
+                "tags": [
+                    "architecture"
+                ]
+            }
+        },
+        {
+            "text": "Question : Explain pillars of IoT.,          Subject : Internet of Things and Embedded Systems,          type : PYQ,                  tags :basics",
+            "metadata": {
+                "question": "Explain pillars of IoT.",
+                "subject": "Internet of Things and Embedded Systems",
+                "type": "PYQ",
+                "years": [
+                    2023
+                ],
+                "frequency": 1,
+                "tags": [
+                    "basics"
+                ]
+            }
+        },
+        {
+            "text": "Question : Explain connectivity technologies in IoT.,          Subject : Internet of Things and Embedded Systems,          type : PYQ,                  tags :connectivity",
+            "metadata": {
+                "question": "Explain connectivity technologies in IoT.",
+                "subject": "Internet of Things and Embedded Systems",
+                "type": "PYQ",
+                "years": [
+                    2023,
+                    2025
+                ],
+                "frequency": 2,
+                "tags": [
+                    "connectivity"
+                ]
+            }
+        },
+        {
+            "text": "Question : Explain cloud computing as IoT enabling technology.,          Subject : Internet of Things and Embedded Systems,          type : PYQ,                  tags :cloud",
+            "metadata": {
+                "question": "Explain cloud computing as IoT enabling technology.",
+                "subject": "Internet of Things and Embedded Systems",
+                "type": "PYQ",
+                "years": [
+                    2023,
+                    2024,
+                    2025
+                ],
+                "frequency": 4,
+                "tags": [
+                    "cloud"
+                ]
+            }
+        },
+        {
+            "text": "Question : Explain SDN architecture.,          Subject : Internet of Things and Embedded Systems,          type : PYQ,                  tags :SDN",
+            "metadata": {
+                "question": "Explain SDN architecture.",
+                "subject": "Internet of Things and Embedded Systems",
+                "type": "PYQ",
+                "years": [
+                    2024
+                ],
+                "frequency": 1,
+                "tags": [
+                    "SDN"
+                ]
+            }
+        },
+        {
+            "text": "Question : Explain Django framework for IoT applications.,          Subject : Internet of Things and Embedded Systems,          type : PYQ,                  tags :Django",
+            "metadata": {
+                "question": "Explain Django framework for IoT applications.",
+                "subject": "Internet of Things and Embedded Systems",
+                "type": "PYQ",
+                "years": [
+                    2024,
+                    2025
+                ],
+                "frequency": 2,
+                "tags": [
+                    "Django"
+                ]
+            }
+        },
+        {
+            "text": "Question : Explain Amazon cloud services for IoT.,          Subject : Internet of Things and Embedded Systems,          type : PYQ,                  tags :AWS",
+            "metadata": {
+                "question": "Explain Amazon cloud services for IoT.",
+                "subject": "Internet of Things and Embedded Systems",
+                "type": "PYQ",
+                "years": [
+                    2024,
+                    2025
+                ],
+                "frequency": 2,
+                "tags": [
+                    "AWS"
+                ]
+            }
+        },
+        {
+            "text": "Question : Explain IoT security, vulnerabilities and threats.,          Subject : Internet of Things and Embedded Systems,          type : PYQ,                  tags :security",
+            "metadata": {
+                "question": "Explain IoT security, vulnerabilities and threats.",
+                "subject": "Internet of Things and Embedded Systems",
+                "type": "PYQ",
+                "years": [
+                    2023,
+                    2024,
+                    2025
+                ],
+                "frequency": 6,
+                "tags": [
+                    "security"
+                ]
+            }
+        },
+        {
+            "text": "Question : Explain threat modeling and security requirements in IoT.,          Subject : Internet of Things and Embedded Systems,          type : PYQ,                  tags :security",
+            "metadata": {
+                "question": "Explain threat modeling and security requirements in IoT.",
+                "subject": "Internet of Things and Embedded Systems",
+                "type": "PYQ",
+                "years": [
+                    2024,
+                    2025
+                ],
+                "frequency": 3,
+                "tags": [
+                    "security"
+                ]
+            }
+        },
+        {
+            "text": "Question : Explain challenges in designing IoT applications.,          Subject : Internet of Things and Embedded Systems,          type : PYQ,                  tags :challenges",
+            "metadata": {
+                "question": "Explain challenges in designing IoT applications.",
+                "subject": "Internet of Things and Embedded Systems",
+                "type": "PYQ",
+                "years": [
+                    2023,
+                    2024,
+                    2025
+                ],
+                "frequency": 4,
+                "tags": [
+                    "challenges"
+                ]
+            }
+        },
+        {
+            "text": "Question : Explain embedded system concepts and characteristics.,          Subject : Internet of Things and Embedded Systems,          type : PYQ,                  tags :embedded systems",
+            "metadata": {
+                "question": "Explain embedded system concepts and characteristics.",
+                "subject": "Internet of Things and Embedded Systems",
+                "type": "PYQ",
+                "years": [
+                    2023,
+                    2024
+                ],
+                "frequency": 3,
+                "tags": [
+                    "embedded systems"
+                ]
+            }
+        },
+        {
+            "text": "Question : Explain real-time systems and types.,          Subject : Internet of Things and Embedded Systems,          type : PYQ,                  tags :real-time",
+            "metadata": {
+                "question": "Explain real-time systems and types.",
+                "subject": "Internet of Things and Embedded Systems",
+                "type": "PYQ",
+                "years": [
+                    2023,
+                    2024
+                ],
+                "frequency": 2,
+                "tags": [
+                    "real-time"
+                ]
+            }
+        },
+        {
+            "text": "Question : Explain System on Chip (SoC).,          Subject : Internet of Things and Embedded Systems,          type : PYQ,                  tags :SoC",
+            "metadata": {
+                "question": "Explain System on Chip (SoC).",
+                "subject": "Internet of Things and Embedded Systems",
+                "type": "PYQ",
+                "years": [
+                    2024
+                ],
+                "frequency": 1,
+                "tags": [
+                    "SoC"
+                ]
+            }
+        },
+        {
+            "text": "Question : Explain IoT levels and deployment models.,          Subject : Internet of Things and Embedded Systems,          type : PYQ,                  tags :IoT levels",
+            "metadata": {
+                "question": "Explain IoT levels and deployment models.",
+                "subject": "Internet of Things and Embedded Systems",
+                "type": "PYQ",
+                "years": [
+                    2023,
+                    2024
+                ],
+                "frequency": 2,
+                "tags": [
+                    "IoT levels"
+                ]
+            }
+        },
+        {
+            "text": "Question : Explain publish-subscribe communication model.,          Subject : Internet of Things and Embedded Systems,          type : PYQ,                  tags :communication",
+            "metadata": {
+                "question": "Explain publish-subscribe communication model.",
+                "subject": "Internet of Things and Embedded Systems",
+                "type": "PYQ",
+                "years": [
+                    2023,
+                    2024
+                ],
+                "frequency": 2,
+                "tags": [
+                    "communication"
+                ]
+            }
+        }
+    ]
+}

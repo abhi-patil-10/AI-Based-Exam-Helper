@@ -1,341 +1,343 @@
 
-[
-  {
-    "question": "Explain DBMS architecture (three level architecture).",
-    "subject": "Database Management System",
-    "type": "PYQ",
-    "years": [2023, 2024, 2025],
-    "frequency": 4,
-    "tags": ["architecture"]
-  },
-  {
-    "question": "Explain data models with types.",
-    "subject": "Database Management System",
-    "type": "PYQ",
-    "years": [2023, 2024],
-    "frequency": 3,
-    "tags": ["data model"]
-  },
-  {
-    "question": "Explain ER diagram with example.",
-    "subject": "Database Management System",
-    "type": "PYQ",
-    "years": [2023, 2024, 2025],
-    "frequency": 5,
-    "tags": ["ER model"]
-  },
-  {
-    "question": "Explain relational algebra operations.",
-    "subject": "Database Management System",
-    "type": "PYQ",
-    "years": [2023, 2024, 2025],
-    "frequency": 6,
-    "tags": ["relational algebra"]
-  },
-  {
-    "question": "Explain normalization with different normal forms.",
-    "subject": "Database Management System",
-    "type": "PYQ",
-    "years": [2023, 2024, 2025],
-    "frequency": 6,
-    "tags": ["normalization"]
-  },
-  {
-    "question": "Explain functional dependency and its types.",
-    "subject": "Database Management System",
-    "type": "PYQ",
-    "years": [2023, 2024, 2025],
-    "frequency": 5,
-    "tags": ["functional dependency"]
-  },
-  {
-    "question": "Explain keys in DBMS (primary, foreign, candidate, etc.).",
-    "subject": "Database Management System",
-    "type": "PYQ",
-    "years": [2023, 2024],
-    "frequency": 3,
-    "tags": ["keys"]
-  },
-  {
-    "question": "Explain SQL queries (DDL, DML, TCL, DCL).",
-    "subject": "Database Management System",
-    "type": "PYQ",
-    "years": [2023, 2024, 2025],
-    "frequency": 6,
-    "tags": ["SQL"]
-  },
-  {
-    "question": "Write SQL queries for given conditions (joins, subqueries).",
-    "subject": "Database Management System",
-    "type": "PYQ",
-    "years": [2023, 2024, 2025],
-    "frequency": 7,
-    "tags": ["SQL queries"]
-  },
-  {
-    "question": "Explain different types of joins.",
-    "subject": "Database Management System",
-    "type": "PYQ",
-    "years": [2023, 2024, 2025],
-    "frequency": 5,
-    "tags": ["joins"]
-  },
-  {
-    "question": "Explain transactions and ACID properties.",
-    "subject": "Database Management System",
-    "type": "PYQ",
-    "years": [2023, 2024, 2025],
-    "frequency": 5,
-    "tags": ["transactions"]
-  },
-  {
-    "question": "Explain concurrency control techniques.",
-    "subject": "Database Management System",
-    "type": "PYQ",
-    "years": [2024, 2025],
-    "frequency": 3,
-    "tags": ["concurrency"]
-  },
-  {
-    "question": "Explain deadlock handling in DBMS.",
-    "subject": "Database Management System",
-    "type": "PYQ",
-    "years": [2024, 2025],
-    "frequency": 2,
-    "tags": ["deadlock"]
-  },
-  {
-    "question": "Explain indexing and types of indexes.",
-    "subject": "Database Management System",
-    "type": "PYQ",
-    "years": [2023, 2024, 2025],
-    "frequency": 4,
-    "tags": ["indexing"]
-  },
-  {
-    "question": "Explain file organization methods.",
-    "subject": "Database Management System",
-    "type": "PYQ",
-    "years": [2023, 2024],
-    "frequency": 2,
-    "tags": ["file organization"]
-  },
-  {
-    "question": "Explain query processing and optimization.",
-    "subject": "Database Management System",
-    "type": "PYQ",
-    "years": [2024, 2025],
-    "frequency": 2,
-    "tags": ["query processing"]
-  },
-  {
-    "question": "Explain database security and authorization.",
-    "subject": "Database Management System",
-    "type": "PYQ",
-    "years": [2023, 2024],
-    "frequency": 2,
-    "tags": ["security"]
-  },
-  {
-    "question": "Explain backup and recovery techniques.",
-    "subject": "Database Management System",
-    "type": "PYQ",
-    "years": [2024, 2025],
-    "frequency": 3,
-    "tags": ["recovery"]
-  },
-  {
-    "question": "Explain view and its advantages.",
-    "subject": "Database Management System",
-    "type": "PYQ",
-    "years": [2023, 2024],
-    "frequency": 2,
-    "tags": ["view"]
-  },
-  {
-    "question": "Explain triggers and stored procedures.",
-    "subject": "Database Management System",
-    "type": "PYQ",
-    "years": [2024, 2025],
-    "frequency": 2,
-    "tags": ["triggers"]
-  },
-  {
-    "question": "Define DBMS. List any four advantages of DBMS over the file system.",
-    "subject": "Database Management System",
-    "type": "IMP",
-    "unit": "1.Introduction To Database Management System And ER Model",
-    "frequency": 1,
-    "tags": ["DBMS"]
-  },
-  {
-    "question": "What is an entity? Explain with suitable example.",
-    "subject": "Database Management System",
-    "type": "IMP",
-    "unit": "1.Introduction To Database Management System And ER Model",
-    "frequency": 1,
-    "tags": ["entity"]
-  },
-  {
-    "question": "Differentiate between primary key and candidate key.",
-    "subject": "Database Management System",
-    "type": "IMP",
-    "unit": "1.Introduction To Database Management System And ER Model",
-    "frequency": 1,
-    "tags": ["keys"]
-  },
-  {
-    "question": "What is a data model? Name any three data models.",
-    "subject": "Database Management System",
-    "type": "IMP",
-    "unit": "1.Introduction To Database Management System And ER Model",
-    "frequency": 1,
-    "tags": ["data model"]
-  },
-  {
-    "question": "Explain composite and multivalued attributes with examples.",
-    "subject": "Database Management System",
-    "type": "IMP",
-    "unit": "1.Introduction To Database Management System And ER Model",
-    "frequency": 1,
-    "tags": ["attributes"]
-  },
-  {
-    "question": "Explain the three-schema architecture of DBMS with a neat diagram.",
-    "subject": "Database Management System",
-    "type": "IMP",
-    "unit": "1.Introduction To Database Management System And ER Model",
-    "frequency": 1,
-    "tags": ["architecture"]
-  },
-  {
-    "question": "Discuss different types of relationships (1:1, 1:N, M:N) with examples.",
-    "subject": "Database Management System",
-    "type": "IMP",
-    "unit": "1.Introduction To Database Management System And ER Model",
-    "frequency": 1,
-    "tags": ["relationships"]
-  },
-  {
-    "question": "Explain the ER diagram design process with steps.",
-    "subject": "Database Management System",
-    "type": "IMP",
-    "unit": "1.Introduction To Database Management System And ER Model",
-    "frequency": 1,
-    "tags": ["ER model"]
-  },
-  {
-    "question": "What are enterprise constraints? Explain key, domain, and referential integrity constraints.",
-    "subject": "Database Management System",
-    "type": "IMP",
-    "unit": "1.Introduction To Database Management System And ER Model",
-    "frequency": 1,
-    "tags": ["constraints"]
-  },
-  {
-    "question": "Explain specialization and generalization in EER with examples.",
-    "subject": "Database Management System",
-    "type": "IMP",
-    "unit": "1.Introduction To Database Management System And ER Model",
-    "frequency": 1,
-    "tags": ["EER"]
-  },
+{
+  "chunks": [
+    {
+      "question": "Explain DBMS architecture (three level architecture).",
+      "subject": "Database Management System",
+      "type": "PYQ",
+      "years": [2023, 2024, 2025],
+      "frequency": 4,
+      "tags": ["architecture"]
+    },
+    {
+      "question": "Explain data models with types.",
+      "subject": "Database Management System",
+      "type": "PYQ",
+      "years": [2023, 2024],
+      "frequency": 3,
+      "tags": ["data model"]
+    },
+    {
+      "question": "Explain ER diagram with example.",
+      "subject": "Database Management System",
+      "type": "PYQ",
+      "years": [2023, 2024, 2025],
+      "frequency": 5,
+      "tags": ["ER model"]
+    },
+    {
+      "question": "Explain relational algebra operations.",
+      "subject": "Database Management System",
+      "type": "PYQ",
+      "years": [2023, 2024, 2025],
+      "frequency": 6,
+      "tags": ["relational algebra"]
+    },
+    {
+      "question": "Explain normalization with different normal forms.",
+      "subject": "Database Management System",
+      "type": "PYQ",
+      "years": [2023, 2024, 2025],
+      "frequency": 6,
+      "tags": ["normalization"]
+    },
+    {
+      "question": "Explain functional dependency and its types.",
+      "subject": "Database Management System",
+      "type": "PYQ",
+      "years": [2023, 2024, 2025],
+      "frequency": 5,
+      "tags": ["functional dependency"]
+    },
+    {
+      "question": "Explain keys in DBMS (primary, foreign, candidate, etc.).",
+      "subject": "Database Management System",
+      "type": "PYQ",
+      "years": [2023, 2024],
+      "frequency": 3,
+      "tags": ["keys"]
+    },
+    {
+      "question": "Explain SQL queries (DDL, DML, TCL, DCL).",
+      "subject": "Database Management System",
+      "type": "PYQ",
+      "years": [2023, 2024, 2025],
+      "frequency": 6,
+      "tags": ["SQL"]
+    },
+    {
+      "question": "Write SQL queries for given conditions (joins, subqueries).",
+      "subject": "Database Management System",
+      "type": "PYQ",
+      "years": [2023, 2024, 2025],
+      "frequency": 7,
+      "tags": ["SQL queries"]
+    },
+    {
+      "question": "Explain different types of joins.",
+      "subject": "Database Management System",
+      "type": "PYQ",
+      "years": [2023, 2024, 2025],
+      "frequency": 5,
+      "tags": ["joins"]
+    },
+    {
+      "question": "Explain transactions and ACID properties.",
+      "subject": "Database Management System",
+      "type": "PYQ",
+      "years": [2023, 2024, 2025],
+      "frequency": 5,
+      "tags": ["transactions"]
+    },
+    {
+      "question": "Explain concurrency control techniques.",
+      "subject": "Database Management System",
+      "type": "PYQ",
+      "years": [2024, 2025],
+      "frequency": 3,
+      "tags": ["concurrency"]
+    },
+    {
+      "question": "Explain deadlock handling in DBMS.",
+      "subject": "Database Management System",
+      "type": "PYQ",
+      "years": [2024, 2025],
+      "frequency": 2,
+      "tags": ["deadlock"]
+    },
+    {
+      "question": "Explain indexing and types of indexes.",
+      "subject": "Database Management System",
+      "type": "PYQ",
+      "years": [2023, 2024, 2025],
+      "frequency": 4,
+      "tags": ["indexing"]
+    },
+    {
+      "question": "Explain file organization methods.",
+      "subject": "Database Management System",
+      "type": "PYQ",
+      "years": [2023, 2024],
+      "frequency": 2,
+      "tags": ["file organization"]
+    },
+    {
+      "question": "Explain query processing and optimization.",
+      "subject": "Database Management System",
+      "type": "PYQ",
+      "years": [2024, 2025],
+      "frequency": 2,
+      "tags": ["query processing"]
+    },
+    {
+      "question": "Explain database security and authorization.",
+      "subject": "Database Management System",
+      "type": "PYQ",
+      "years": [2023, 2024],
+      "frequency": 2,
+      "tags": ["security"]
+    },
+    {
+      "question": "Explain backup and recovery techniques.",
+      "subject": "Database Management System",
+      "type": "PYQ",
+      "years": [2024, 2025],
+      "frequency": 3,
+      "tags": ["recovery"]
+    },
+    {
+      "question": "Explain view and its advantages.",
+      "subject": "Database Management System",
+      "type": "PYQ",
+      "years": [2023, 2024],
+      "frequency": 2,
+      "tags": ["view"]
+    },
+    {
+      "question": "Explain triggers and stored procedures.",
+      "subject": "Database Management System",
+      "type": "PYQ",
+      "years": [2024, 2025],
+      "frequency": 2,
+      "tags": ["triggers"]
+    },
+    {
+      "question": "Define DBMS. List any four advantages of DBMS over the file system.",
+      "subject": "Database Management System",
+      "type": "IMP",
+      "unit": "1.Introduction To Database Management System And ER Model",
+      "frequency": 1,
+      "tags": ["DBMS"]
+    },
+    {
+      "question": "What is an entity? Explain with suitable example.",
+      "subject": "Database Management System",
+      "type": "IMP",
+      "unit": "1.Introduction To Database Management System And ER Model",
+      "frequency": 1,
+      "tags": ["entity"]
+    },
+    {
+      "question": "Differentiate between primary key and candidate key.",
+      "subject": "Database Management System",
+      "type": "IMP",
+      "unit": "1.Introduction To Database Management System And ER Model",
+      "frequency": 1,
+      "tags": ["keys"]
+    },
+    {
+      "question": "What is a data model? Name any three data models.",
+      "subject": "Database Management System",
+      "type": "IMP",
+      "unit": "1.Introduction To Database Management System And ER Model",
+      "frequency": 1,
+      "tags": ["data model"]
+    },
+    {
+      "question": "Explain composite and multivalued attributes with examples.",
+      "subject": "Database Management System",
+      "type": "IMP",
+      "unit": "1.Introduction To Database Management System And ER Model",
+      "frequency": 1,
+      "tags": ["attributes"]
+    },
+    {
+      "question": "Explain the three-schema architecture of DBMS with a neat diagram.",
+      "subject": "Database Management System",
+      "type": "IMP",
+      "unit": "1.Introduction To Database Management System And ER Model",
+      "frequency": 1,
+      "tags": ["architecture"]
+    },
+    {
+      "question": "Discuss different types of relationships (1:1, 1:N, M:N) with examples.",
+      "subject": "Database Management System",
+      "type": "IMP",
+      "unit": "1.Introduction To Database Management System And ER Model",
+      "frequency": 1,
+      "tags": ["relationships"]
+    },
+    {
+      "question": "Explain the ER diagram design process with steps.",
+      "subject": "Database Management System",
+      "type": "IMP",
+      "unit": "1.Introduction To Database Management System And ER Model",
+      "frequency": 1,
+      "tags": ["ER model"]
+    },
+    {
+      "question": "What are enterprise constraints? Explain key, domain, and referential integrity constraints.",
+      "subject": "Database Management System",
+      "type": "IMP",
+      "unit": "1.Introduction To Database Management System And ER Model",
+      "frequency": 1,
+      "tags": ["constraints"]
+    },
+    {
+      "question": "Explain specialization and generalization in EER with examples.",
+      "subject": "Database Management System",
+      "type": "IMP",
+      "unit": "1.Introduction To Database Management System And ER Model",
+      "frequency": 1,
+      "tags": ["EER"]
+    },
 
-  {
-    "question": "Define DDL and DML commands. Give two examples of each.",
-    "subject": "Database Management System",
-    "type": "IMP",
-    "unit": "2.SQL and PL/SQL",
-    "frequency": 1,
-    "tags": ["SQL"]
-  },
-  {
-    "question": "Write a SELECT query to display all columns from a table Student where the Age is greater than 20.",
-    "subject": "Database Management System",
-    "type": "IMP",
-    "unit": "2.SQL and PL/SQL",
-    "frequency": 1,
-    "tags": ["SQL"]
-  },
-  {
-    "question": "Explain the use of string functions in SQL with two examples.",
-    "subject": "Database Management System",
-    "type": "IMP",
-    "unit": "2.SQL and PL/SQL",
-    "frequency": 1,
-    "tags": ["SQL"]
-  },
-  {
-    "question": "Define a database trigger. Give one example scenario where it can be used.",
-    "subject": "Database Management System",
-    "type": "IMP",
-    "unit": "2.SQL and PL/SQL",
-    "frequency": 1,
-    "tags": ["trigger"]
-  },
-  {
-    "question": "What is the difference between COMMIT and ROLLBACK in SQL?",
-    "subject": "Database Management System",
-    "type": "IMP",
-    "unit": "2.SQL and PL/SQL",
-    "frequency": 1,
-    "tags": ["SQL"]
-  },
-  {
-    "question": "Explain the use of JOIN queries in SQL. Write a query to display student names along with the course name they enrolled in using INNER JOIN.",
-    "subject": "Database Management System",
-    "type": "IMP",
-    "unit": "2.SQL and PL/SQL",
-    "frequency": 1,
-    "tags": ["joins"]
-  },
+    {
+      "question": "Define DDL and DML commands. Give two examples of each.",
+      "subject": "Database Management System",
+      "type": "IMP",
+      "unit": "2.SQL and PL/SQL",
+      "frequency": 1,
+      "tags": ["SQL"]
+    },
+    {
+      "question": "Write a SELECT query to display all columns from a table Student where the Age is greater than 20.",
+      "subject": "Database Management System",
+      "type": "IMP",
+      "unit": "2.SQL and PL/SQL",
+      "frequency": 1,
+      "tags": ["SQL"]
+    },
+    {
+      "question": "Explain the use of string functions in SQL with two examples.",
+      "subject": "Database Management System",
+      "type": "IMP",
+      "unit": "2.SQL and PL/SQL",
+      "frequency": 1,
+      "tags": ["SQL"]
+    },
+    {
+      "question": "Define a database trigger. Give one example scenario where it can be used.",
+      "subject": "Database Management System",
+      "type": "IMP",
+      "unit": "2.SQL and PL/SQL",
+      "frequency": 1,
+      "tags": ["trigger"]
+    },
+    {
+      "question": "What is the difference between COMMIT and ROLLBACK in SQL?",
+      "subject": "Database Management System",
+      "type": "IMP",
+      "unit": "2.SQL and PL/SQL",
+      "frequency": 1,
+      "tags": ["SQL"]
+    },
+    {
+      "question": "Explain the use of JOIN queries in SQL. Write a query to display student names along with the course name they enrolled in using INNER JOIN.",
+      "subject": "Database Management System",
+      "type": "IMP",
+      "unit": "2.SQL and PL/SQL",
+      "frequency": 1,
+      "tags": ["joins"]
+    },
 
-  {
-    "question": "Define the relational model. Explain attributes and domains with examples.",
-    "subject": "Database Management System",
-    "type": "IMP",
-    "unit": "3.Relational Database Design",
-    "frequency": 1,
-    "tags": ["relational model"]
-  },
-  {
-    "question": "What are Codd's 12 rules? Explain any four briefly.",
-    "subject": "Database Management System",
-    "type": "IMP",
-    "unit": "3.Relational Database Design",
-    "frequency": 1,
-    "tags": ["rules"]
-  },
-  {
-    "question": "Define relational integrity constraints. Give examples of domain and key constraints.",
-    "subject": "Database Management System",
-    "type": "IMP",
-    "unit": "3.Relational Database Design",
-    "frequency": 1,
-    "tags": ["constraints"]
-  },
-  {
-    "question": "What is referential integrity? Give an example using two tables.",
-    "subject": "Database Management System",
-    "type": "IMP",
-    "unit": "3.Relational Database Design",
-    "frequency": 1,
-    "tags": ["integrity"]
-  },
-  {
-    "question": "Explain the concept of first normal form (1NF) with an example.",
-    "subject": "Database Management System",
-    "type": "IMP",
-    "unit": "3.Relational Database Design",
-    "frequency": 1,
-    "tags": ["normalization"]
-  },
-  {
-    "question": "Explain functional dependency and its role in database design.",
-    "subject": "Database Management System",
-    "type": "IMP",
-    "unit": "3.Relational Database Design",
-    "frequency": 1,
-    "tags": ["FD"]
-  }
-]
+    {
+      "question": "Define the relational model. Explain attributes and domains with examples.",
+      "subject": "Database Management System",
+      "type": "IMP",
+      "unit": "3.Relational Database Design",
+      "frequency": 1,
+      "tags": ["relational model"]
+    },
+    {
+      "question": "What are Codd's 12 rules? Explain any four briefly.",
+      "subject": "Database Management System",
+      "type": "IMP",
+      "unit": "3.Relational Database Design",
+      "frequency": 1,
+      "tags": ["rules"]
+    },
+    {
+      "question": "Define relational integrity constraints. Give examples of domain and key constraints.",
+      "subject": "Database Management System",
+      "type": "IMP",
+      "unit": "3.Relational Database Design",
+      "frequency": 1,
+      "tags": ["constraints"]
+    },
+    {
+      "question": "What is referential integrity? Give an example using two tables.",
+      "subject": "Database Management System",
+      "type": "IMP",
+      "unit": "3.Relational Database Design",
+      "frequency": 1,
+      "tags": ["integrity"]
+    },
+    {
+      "question": "Explain the concept of first normal form (1NF) with an example.",
+      "subject": "Database Management System",
+      "type": "IMP",
+      "unit": "3.Relational Database Design",
+      "frequency": 1,
+      "tags": ["normalization"]
+    },
+    {
+      "question": "Explain functional dependency and its role in database design.",
+      "subject": "Database Management System",
+      "type": "IMP",
+      "unit": "3.Relational Database Design",
+      "frequency": 1,
+      "tags": ["FD"]
+    }
+  ]
+}

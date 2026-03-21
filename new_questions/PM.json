@@ -1,0 +1,396 @@
+{
+    "chunks": [
+        {
+            "text": "Question : Explain organizational structures and their characteristics.,          Subject : Project Management,          type : PYQ,                  tags :organization",
+            "metadata": {
+                "question": "Explain organizational structures and their characteristics.",
+                "subject": "Project Management",
+                "type": "PYQ",
+                "years": [
+                    2022,
+                    2023,
+                    2024,
+                    2025
+                ],
+                "frequency": 7,
+                "tags": [
+                    "organization"
+                ]
+            }
+        },
+        {
+            "text": "Question : Explain team management and roles/responsibilities of project team members.,          Subject : Project Management,          type : PYQ,                  tags :team management",
+            "metadata": {
+                "question": "Explain team management and roles/responsibilities of project team members.",
+                "subject": "Project Management",
+                "type": "PYQ",
+                "years": [
+                    2022,
+                    2023,
+                    2024
+                ],
+                "frequency": 6,
+                "tags": [
+                    "team management"
+                ]
+            }
+        },
+        {
+            "text": "Question : Explain leadership styles and diversity management.,          Subject : Project Management,          type : PYQ,                  tags :leadership",
+            "metadata": {
+                "question": "Explain leadership styles and diversity management.",
+                "subject": "Project Management",
+                "type": "PYQ",
+                "years": [
+                    2023,
+                    2024,
+                    2025
+                ],
+                "frequency": 5,
+                "tags": [
+                    "leadership"
+                ]
+            }
+        },
+        {
+            "text": "Question : Explain PERT technique with example.,          Subject : Project Management,          type : PYQ,                  tags :PERT",
+            "metadata": {
+                "question": "Explain PERT technique with example.",
+                "subject": "Project Management",
+                "type": "PYQ",
+                "years": [
+                    2023,
+                    2024,
+                    2025
+                ],
+                "frequency": 6,
+                "tags": [
+                    "PERT"
+                ]
+            }
+        },
+        {
+            "text": "Question : Explain CPM (Critical Path Method) and critical path determination.,          Subject : Project Management,          type : PYQ,                  tags :CPM",
+            "metadata": {
+                "question": "Explain CPM (Critical Path Method) and critical path determination.",
+                "subject": "Project Management",
+                "type": "PYQ",
+                "years": [
+                    2023,
+                    2024,
+                    2025
+                ],
+                "frequency": 6,
+                "tags": [
+                    "CPM"
+                ]
+            }
+        },
+        {
+            "text": "Question : Construct network diagram and calculate ES, EF, LS, LF and critical path.,          Subject : Project Management,          type : PYQ,                  tags :network diagram",
+            "metadata": {
+                "question": "Construct network diagram and calculate ES, EF, LS, LF and critical path.",
+                "subject": "Project Management",
+                "type": "PYQ",
+                "years": [
+                    2023,
+                    2024,
+                    2025
+                ],
+                "frequency": 7,
+                "tags": [
+                    "network diagram"
+                ]
+            }
+        },
+        {
+            "text": "Question : Explain AOA and AON networks with comparison.,          Subject : Project Management,          type : PYQ,                  tags :AOA, AON",
+            "metadata": {
+                "question": "Explain AOA and AON networks with comparison.",
+                "subject": "Project Management",
+                "type": "PYQ",
+                "years": [
+                    2022,
+                    2023,
+                    2024
+                ],
+                "frequency": 5,
+                "tags": [
+                    "AOA",
+                    "AON"
+                ]
+            }
+        },
+        {
+            "text": "Question : Explain Gantt chart and project scheduling techniques.,          Subject : Project Management,          type : PYQ,                  tags :Gantt chart",
+            "metadata": {
+                "question": "Explain Gantt chart and project scheduling techniques.",
+                "subject": "Project Management",
+                "type": "PYQ",
+                "years": [
+                    2022,
+                    2023,
+                    2024
+                ],
+                "frequency": 4,
+                "tags": [
+                    "Gantt chart"
+                ]
+            }
+        },
+        {
+            "text": "Question : Explain resource allocation in project management.,          Subject : Project Management,          type : PYQ,                  tags :resource",
+            "metadata": {
+                "question": "Explain resource allocation in project management.",
+                "subject": "Project Management",
+                "type": "PYQ",
+                "years": [
+                    2023,
+                    2024,
+                    2025
+                ],
+                "frequency": 5,
+                "tags": [
+                    "resource"
+                ]
+            }
+        },
+        {
+            "text": "Question : Explain risk management process.,          Subject : Project Management,          type : PYQ,                  tags :risk",
+            "metadata": {
+                "question": "Explain risk management process.",
+                "subject": "Project Management",
+                "type": "PYQ",
+                "years": [
+                    2022,
+                    2023,
+                    2024,
+                    2025
+                ],
+                "frequency": 7,
+                "tags": [
+                    "risk"
+                ]
+            }
+        },
+        {
+            "text": "Question : Explain risk analysis and types of risks.,          Subject : Project Management,          type : PYQ,                  tags :risk analysis",
+            "metadata": {
+                "question": "Explain risk analysis and types of risks.",
+                "subject": "Project Management",
+                "type": "PYQ",
+                "years": [
+                    2022,
+                    2023,
+                    2024,
+                    2025
+                ],
+                "frequency": 6,
+                "tags": [
+                    "risk analysis"
+                ]
+            }
+        },
+        {
+            "text": "Question : Explain project financial management and financial analysis.,          Subject : Project Management,          type : PYQ,                  tags :finance",
+            "metadata": {
+                "question": "Explain project financial management and financial analysis.",
+                "subject": "Project Management",
+                "type": "PYQ",
+                "years": [
+                    2022,
+                    2023,
+                    2024,
+                    2025
+                ],
+                "frequency": 6,
+                "tags": [
+                    "finance"
+                ]
+            }
+        },
+        {
+            "text": "Question : Explain break-even analysis with example.,          Subject : Project Management,          type : PYQ,                  tags :break-even",
+            "metadata": {
+                "question": "Explain break-even analysis with example.",
+                "subject": "Project Management",
+                "type": "PYQ",
+                "years": [
+                    2022,
+                    2023,
+                    2024
+                ],
+                "frequency": 4,
+                "tags": [
+                    "break-even"
+                ]
+            }
+        },
+        {
+            "text": "Question : Explain project cost estimation and budgeting.,          Subject : Project Management,          type : PYQ,                  tags :cost",
+            "metadata": {
+                "question": "Explain project cost estimation and budgeting.",
+                "subject": "Project Management",
+                "type": "PYQ",
+                "years": [
+                    2023,
+                    2024,
+                    2025
+                ],
+                "frequency": 5,
+                "tags": [
+                    "cost"
+                ]
+            }
+        },
+        {
+            "text": "Question : Explain product development process.,          Subject : Project Management,          type : PYQ,                  tags :product development",
+            "metadata": {
+                "question": "Explain product development process.",
+                "subject": "Project Management",
+                "type": "PYQ",
+                "years": [
+                    2022,
+                    2023,
+                    2024,
+                    2025
+                ],
+                "frequency": 7,
+                "tags": [
+                    "product development"
+                ]
+            }
+        },
+        {
+            "text": "Question : Explain entrepreneurship and characteristics of successful entrepreneur.,          Subject : Project Management,          type : PYQ,                  tags :entrepreneurship",
+            "metadata": {
+                "question": "Explain entrepreneurship and characteristics of successful entrepreneur.",
+                "subject": "Project Management",
+                "type": "PYQ",
+                "years": [
+                    2022,
+                    2023,
+                    2024,
+                    2025
+                ],
+                "frequency": 7,
+                "tags": [
+                    "entrepreneurship"
+                ]
+            }
+        },
+        {
+            "text": "Question : Explain legal aspects (patent, copyright, trademark, licensing).,          Subject : Project Management,          type : PYQ,                  tags :legal",
+            "metadata": {
+                "question": "Explain legal aspects (patent, copyright, trademark, licensing).",
+                "subject": "Project Management",
+                "type": "PYQ",
+                "years": [
+                    2022,
+                    2023,
+                    2024,
+                    2025
+                ],
+                "frequency": 6,
+                "tags": [
+                    "legal"
+                ]
+            }
+        },
+        {
+            "text": "Question : Explain customer needs in product development.,          Subject : Project Management,          type : PYQ,                  tags :customer needs",
+            "metadata": {
+                "question": "Explain customer needs in product development.",
+                "subject": "Project Management",
+                "type": "PYQ",
+                "years": [
+                    2023,
+                    2024
+                ],
+                "frequency": 3,
+                "tags": [
+                    "customer needs"
+                ]
+            }
+        },
+        {
+            "text": "Question : Explain project life cycle and phases.,          Subject : Project Management,          type : PYQ,                  tags :life cycle",
+            "metadata": {
+                "question": "Explain project life cycle and phases.",
+                "subject": "Project Management",
+                "type": "PYQ",
+                "years": [
+                    2024
+                ],
+                "frequency": 1,
+                "tags": [
+                    "life cycle"
+                ]
+            }
+        },
+        {
+            "text": "Question : Explain work breakdown structure (WBS).,          Subject : Project Management,          type : PYQ,                  tags :WBS",
+            "metadata": {
+                "question": "Explain work breakdown structure (WBS).",
+                "subject": "Project Management",
+                "type": "PYQ",
+                "years": [
+                    2024
+                ],
+                "frequency": 1,
+                "tags": [
+                    "WBS"
+                ]
+            }
+        },
+        {
+            "text": "Question : Explain project planning and methods.,          Subject : Project Management,          type : PYQ,                  tags :planning",
+            "metadata": {
+                "question": "Explain project planning and methods.",
+                "subject": "Project Management",
+                "type": "PYQ",
+                "years": [
+                    2022,
+                    2023
+                ],
+                "frequency": 2,
+                "tags": [
+                    "planning"
+                ]
+            }
+        },
+        {
+            "text": "Question : Explain conflict management and resolution strategies.,          Subject : Project Management,          type : PYQ,                  tags :conflict",
+            "metadata": {
+                "question": "Explain conflict management and resolution strategies.",
+                "subject": "Project Management",
+                "type": "PYQ",
+                "years": [
+                    2023,
+                    2025
+                ],
+                "frequency": 3,
+                "tags": [
+                    "conflict"
+                ]
+            }
+        },
+        {
+            "text": "Question : Explain project management tools (JIRA, Trello).,          Subject : Project Management,          type : PYQ,                  tags :tools",
+            "metadata": {
+                "question": "Explain project management tools (JIRA, Trello).",
+                "subject": "Project Management",
+                "type": "PYQ",
+                "years": [
+                    2023,
+                    2024,
+                    2025
+                ],
+                "frequency": 4,
+                "tags": [
+                    "tools"
+                ]
+            }
+        }
+    ]
+}
