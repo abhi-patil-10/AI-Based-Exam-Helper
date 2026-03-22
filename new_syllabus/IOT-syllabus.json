@@ -1,0 +1,136 @@
+{
+    "units": [
+        {
+            "text": "Internet of Things (IoT) - Unit 1 : Introduction to IoT  include topics : Definition of IoT, Characteristics of IoT, Evolution of IoT, Convergence of IoT, IoT Challenges, Machine to Machine Communication (M2M), Things in IoT, IoT Protocols, IoT Ecosystem Functional Blocks, Communication Models, Communication APIs, Wireless Sensor Networks, Cloud Computing, Big Data Analytics, Embedded Systems, IoT Applications Overview",
+            "metadata": {
+                "unit": "Unit 1",
+                "subject": "Internet of Things (IoT)",
+                "title": "Introduction to IoT",
+                "type": "SYLLABUS",
+                "topics": [
+                    "Definition of IoT",
+                    "Characteristics of IoT",
+                    "Evolution of IoT",
+                    "Convergence of IoT",
+                    "IoT Challenges",
+                    "Machine to Machine Communication (M2M)",
+                    "Things in IoT",
+                    "IoT Protocols",
+                    "IoT Ecosystem Functional Blocks",
+                    "Communication Models",
+                    "Communication APIs",
+                    "Wireless Sensor Networks",
+                    "Cloud Computing",
+                    "Big Data Analytics",
+                    "Embedded Systems",
+                    "IoT Applications Overview"
+                ]
+            }
+        },
+        {
+            "text": "Internet of Things (IoT) - Unit 2 : Sensors and Actuators  include topics : Sensors Definition, Sensor Principles, Sensor Classification, Types of Sensors, Sensor Characteristics, Sensor Specifications, Actuators Definition, Actuator Principles, Actuator Classification, Types of Actuators, Actuator Characteristics, Actuator Specifications, Arduino Board, Arduino IDE, Raspberry Pi, NodeMCU, ESP32, Beaglebone",
+            "metadata": {
+                "unit": "Unit 2",
+                "subject": "Internet of Things (IoT)",
+                "title": "Sensors and Actuators",
+                "type": "SYLLABUS",
+                "topics": [
+                    "Sensors Definition",
+                    "Sensor Principles",
+                    "Sensor Classification",
+                    "Types of Sensors",
+                    "Sensor Characteristics",
+                    "Sensor Specifications",
+                    "Actuators Definition",
+                    "Actuator Principles",
+                    "Actuator Classification",
+                    "Types of Actuators",
+                    "Actuator Characteristics",
+                    "Actuator Specifications",
+                    "Arduino Board",
+                    "Arduino IDE",
+                    "Raspberry Pi",
+                    "NodeMCU",
+                    "ESP32",
+                    "Beaglebone"
+                ]
+            }
+        },
+        {
+            "text": "Internet of Things (IoT) - Unit 3 : IoT Protocols  include topics : IoT Access Technologies, Physical Layer, MAC Layer, IEEE 802.15.4, IEEE 802.11ah, LoRaWAN, IPv4, IPv6, 6LoWPAN, CoAP Protocol, MQTT Protocol, Zigbee, Bluetooth, BLE, Z-Wave",
+            "metadata": {
+                "unit": "Unit 3",
+                "subject": "Internet of Things (IoT)",
+                "title": "IoT Protocols",
+                "type": "SYLLABUS",
+                "topics": [
+                    "IoT Access Technologies",
+                    "Physical Layer",
+                    "MAC Layer",
+                    "IEEE 802.15.4",
+                    "IEEE 802.11ah",
+                    "LoRaWAN",
+                    "IPv4",
+                    "IPv6",
+                    "6LoWPAN",
+                    "CoAP Protocol",
+                    "MQTT Protocol",
+                    "Zigbee",
+                    "Bluetooth",
+                    "BLE",
+                    "Z-Wave"
+                ]
+            }
+        },
+        {
+            "text": "Internet of Things (IoT) - Unit 4 : Cloud for IoT  include topics : Cloud Computing Fundamentals, Types of Cloud Services, AWS, Microsoft Azure, Adafruit IO, IoT with Cloud, Cloud Challenges, Cloud Selection for IoT",
+            "metadata": {
+                "unit": "Unit 4",
+                "subject": "Internet of Things (IoT)",
+                "title": "Cloud for IoT",
+                "type": "SYLLABUS",
+                "topics": [
+                    "Cloud Computing Fundamentals",
+                    "Types of Cloud Services",
+                    "AWS",
+                    "Microsoft Azure",
+                    "Adafruit IO",
+                    "IoT with Cloud",
+                    "Cloud Challenges",
+                    "Cloud Selection for IoT"
+                ]
+            }
+        },
+        {
+            "text": "Internet of Things (IoT) - Unit 5 : IoT Applications  include topics : Smart Cities, Smart Parking, Smart Lighting, Smart Roads, Structural Health Monitoring, Surveillance Systems, Smart Grids, Renewable Energy Systems, Weather Monitoring, Air Pollution Monitoring, Noise Pollution Monitoring, Forest Fire Detection, Flood Detection, Smart Irrigation, Greenhouse Control, Industrial Monitoring, Machine Diagnostics, Indoor Air Quality Monitoring, Health Monitoring, Wearable Devices",
+            "metadata": {
+                "unit": "Unit 5",
+                "subject": "Internet of Things (IoT)",
+                "title": "IoT Applications",
+                "type": "SYLLABUS",
+                "topics": [
+                    "Smart Cities",
+                    "Smart Parking",
+                    "Smart Lighting",
+                    "Smart Roads",
+                    "Structural Health Monitoring",
+                    "Surveillance Systems",
+                    "Smart Grids",
+                    "Renewable Energy Systems",
+                    "Weather Monitoring",
+                    "Air Pollution Monitoring",
+                    "Noise Pollution Monitoring",
+                    "Forest Fire Detection",
+                    "Flood Detection",
+                    "Smart Irrigation",
+                    "Greenhouse Control",
+                    "Industrial Monitoring",
+                    "Machine Diagnostics",
+                    "Indoor Air Quality Monitoring",
+                    "Health Monitoring",
+                    "Wearable Devices"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,144 @@
+{
+    "units": [
+        {
+            "text": "Discrete Mathematics - Unit 1 : Set and Propositions  include topics : Introduction to Discrete Mathematics, Significance of Discrete Mathematics, Propositional Logic, Logical Statements, Propositional Equivalences, Translating English Sentences to Logic, Mathematical Induction, Strong Mathematical Induction, Naive Set Theory, Cantorian Set Theory, Axiomatic Set Theory, Set Operations, Cardinality of Sets, Inclusion Exclusion Principle, Bounded and Unbounded Sets, Diagonalization Argument, Countable Sets, Uncountable Sets, Finite and Infinite Sets, Countably Infinite Sets, Uncountably Infinite Sets, Power Set",
+            "metadata": {
+                "unit": "Unit 1",
+                "subject": "Discrete Mathematics",
+                "title": "Set and Propositions",
+                "type": "SYLLABUS",
+                "topics": [
+                    "Introduction to Discrete Mathematics",
+                    "Significance of Discrete Mathematics",
+                    "Propositional Logic",
+                    "Logical Statements",
+                    "Propositional Equivalences",
+                    "Translating English Sentences to Logic",
+                    "Mathematical Induction",
+                    "Strong Mathematical Induction",
+                    "Naive Set Theory",
+                    "Cantorian Set Theory",
+                    "Axiomatic Set Theory",
+                    "Set Operations",
+                    "Cardinality of Sets",
+                    "Inclusion Exclusion Principle",
+                    "Bounded and Unbounded Sets",
+                    "Diagonalization Argument",
+                    "Countable Sets",
+                    "Uncountable Sets",
+                    "Finite and Infinite Sets",
+                    "Countably Infinite Sets",
+                    "Uncountably Infinite Sets",
+                    "Power Set"
+                ]
+            }
+        },
+        {
+            "text": "Discrete Mathematics - Unit 2 : Relations and Functions  include topics : Relations, Properties of Relations, Matrix Representation of Relations, Digraph Representation, Equivalence Relations, Partial Order Relations, Partitions, Hasse Diagram, Lattices, Chains and Antichains, Transitive Closure, Warshall Algorithm, Functions, Injective Functions, Surjective Functions, Bijective Functions, Function Composition, Inverse Functions, Recursive Functions, Counting Functions, Growth of Functions",
+            "metadata": {
+                "unit": "Unit 2",
+                "subject": "Discrete Mathematics",
+                "title": "Relations and Functions",
+                "type": "SYLLABUS",
+                "topics": [
+                    "Relations",
+                    "Properties of Relations",
+                    "Matrix Representation of Relations",
+                    "Digraph Representation",
+                    "Equivalence Relations",
+                    "Partial Order Relations",
+                    "Partitions",
+                    "Hasse Diagram",
+                    "Lattices",
+                    "Chains and Antichains",
+                    "Transitive Closure",
+                    "Warshall Algorithm",
+                    "Functions",
+                    "Injective Functions",
+                    "Surjective Functions",
+                    "Bijective Functions",
+                    "Function Composition",
+                    "Inverse Functions",
+                    "Recursive Functions",
+                    "Counting Functions",
+                    "Growth of Functions"
+                ]
+            }
+        },
+        {
+            "text": "Discrete Mathematics - Unit 3 : Trees  include topics : Introduction to Trees, Properties of Trees, Decision Trees, Prefix Codes, Huffman Coding, Tree Applications in File Systems, Cut Sets, Max Flow Min Cut Theorem, Minimum Spanning Tree, Prim's Algorithm, Kruskal's Algorithm",
+            "metadata": {
+                "unit": "Unit 3",
+                "subject": "Discrete Mathematics",
+                "title": "Trees",
+                "type": "SYLLABUS",
+                "topics": [
+                    "Introduction to Trees",
+                    "Properties of Trees",
+                    "Decision Trees",
+                    "Prefix Codes",
+                    "Huffman Coding",
+                    "Tree Applications in File Systems",
+                    "Cut Sets",
+                    "Max Flow Min Cut Theorem",
+                    "Minimum Spanning Tree",
+                    "Prim's Algorithm",
+                    "Kruskal's Algorithm"
+                ]
+            }
+        },
+        {
+            "text": "Discrete Mathematics - Unit 4 : Graph Theory  include topics : Graph Terminology, Types of Graphs, Graph Representation, Graph Isomorphism, Graph Connectivity, Euler Paths, Hamiltonian Paths, Handshaking Lemma, Dijkstra Algorithm, Shortest Path, Planar Graphs, Graph Coloring",
+            "metadata": {
+                "unit": "Unit 4",
+                "subject": "Discrete Mathematics",
+                "title": "Graph Theory",
+                "type": "SYLLABUS",
+                "topics": [
+                    "Graph Terminology",
+                    "Types of Graphs",
+                    "Graph Representation",
+                    "Graph Isomorphism",
+                    "Graph Connectivity",
+                    "Euler Paths",
+                    "Hamiltonian Paths",
+                    "Handshaking Lemma",
+                    "Dijkstra Algorithm",
+                    "Shortest Path",
+                    "Planar Graphs",
+                    "Graph Coloring"
+                ]
+            }
+        },
+        {
+            "text": "Discrete Mathematics - Unit 5 : Counting and Algebraic Structures  include topics : Addition Principle, Multiplication Principle, Permutations, Combinations, Binomial Coefficients, Pascal's Triangle, Pigeonhole Principle, Inclusion Exclusion Principle, Generating Functions, Algebraic Systems, Semigroups, Monoids, Groups, Homomorphism, Normal Subgroups, Congruence Relations, Rings, Integral Domains, Fields",
+            "metadata": {
+                "unit": "Unit 5",
+                "subject": "Discrete Mathematics",
+                "title": "Counting and Algebraic Structures",
+                "type": "SYLLABUS",
+                "topics": [
+                    "Addition Principle",
+                    "Multiplication Principle",
+                    "Permutations",
+                    "Combinations",
+                    "Binomial Coefficients",
+                    "Pascal's Triangle",
+                    "Pigeonhole Principle",
+                    "Inclusion Exclusion Principle",
+                    "Generating Functions",
+                    "Algebraic Systems",
+                    "Semigroups",
+                    "Monoids",
+                    "Groups",
+                    "Homomorphism",
+                    "Normal Subgroups",
+                    "Congruence Relations",
+                    "Rings",
+                    "Integral Domains",
+                    "Fields"
+                ]
+            }
+        }
+    ]
+}

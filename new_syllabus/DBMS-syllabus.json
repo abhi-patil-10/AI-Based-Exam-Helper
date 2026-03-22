@@ -1,0 +1,133 @@
+{
+    "units": [
+        {
+            "text": "DBMS - Unit 1 : Introduction to Database Management System  include topics : Introduction to DBMS, Purpose of Database Systems, Database System Applications, View of Data, Database Languages, Database System Structure, Enterprise Constraints, Data Models, Entity, Attributes, Relationships, Constraints, Keys, Design Process, Entity Relationship Model, ER Diagram, Design Issues, Extended ER Features, Conversion of ER and EER diagrams into tables",
+            "metadata": {
+                "unit": "Unit 1",
+                "subject": "DBMS",
+                "title": "Introduction to Database Management System",
+                "type": "SYLLABUS",
+                "topics": [
+                    "Introduction to DBMS",
+                    "Purpose of Database Systems",
+                    "Database System Applications",
+                    "View of Data",
+                    "Database Languages",
+                    "Database System Structure",
+                    "Enterprise Constraints",
+                    "Data Models",
+                    "Entity",
+                    "Attributes",
+                    "Relationships",
+                    "Constraints",
+                    "Keys",
+                    "Design Process",
+                    "Entity Relationship Model",
+                    "ER Diagram",
+                    "Design Issues",
+                    "Extended ER Features",
+                    "Conversion of ER and EER diagrams into tables"
+                ]
+            }
+        },
+        {
+            "text": "DBMS - Unit 2 : SQL and PL/SQL  include topics : DDL, DML, Select Queries, String Functions, Date Functions, Numerical Functions, Aggregate Functions, Views, Indexes, Group By Clause, Having Clause, Join Queries, Set Operations, Set Membership, Nested Queries, DCL, TCL, Control Statements, Cursor, Stored Procedures, Functions, Triggers",
+            "metadata": {
+                "unit": "Unit 2",
+                "subject": "DBMS",
+                "title": "SQL and PL/SQL",
+                "type": "SYLLABUS",
+                "topics": [
+                    "DDL",
+                    "DML",
+                    "Select Queries",
+                    "String Functions",
+                    "Date Functions",
+                    "Numerical Functions",
+                    "Aggregate Functions",
+                    "Views",
+                    "Indexes",
+                    "Group By Clause",
+                    "Having Clause",
+                    "Join Queries",
+                    "Set Operations",
+                    "Set Membership",
+                    "Nested Queries",
+                    "DCL",
+                    "TCL",
+                    "Control Statements",
+                    "Cursor",
+                    "Stored Procedures",
+                    "Functions",
+                    "Triggers"
+                ]
+            }
+        },
+        {
+            "text": "DBMS - Unit 3 : Relational Database Design  include topics : Relational Model, Attributes and Domains, Codd's Rules, Relational Integrity, Referential Integrity, Features of Good Relational Design, Normalization, Atomic Domains, First Normal Form (1NF), Functional Dependencies, Second Normal Form (2NF), Third Normal Form (3NF), Boyce-Codd Normal Form (BCNF)",
+            "metadata": {
+                "unit": "Unit 3",
+                "subject": "DBMS",
+                "title": "Relational Database Design",
+                "type": "SYLLABUS",
+                "topics": [
+                    "Relational Model",
+                    "Attributes and Domains",
+                    "Codd's Rules",
+                    "Relational Integrity",
+                    "Referential Integrity",
+                    "Features of Good Relational Design",
+                    "Normalization",
+                    "Atomic Domains",
+                    "First Normal Form (1NF)",
+                    "Functional Dependencies",
+                    "Second Normal Form (2NF)",
+                    "Third Normal Form (3NF)",
+                    "Boyce-Codd Normal Form (BCNF)"
+                ]
+            }
+        },
+        {
+            "text": "DBMS - Unit 4 : Database Transactions  include topics : Transaction Basics, Transaction Management, ACID Properties, Schedules, Serial Schedule, Serializability (Conflict and View), Cascaded Aborts, Recoverable Schedules, Non-recoverable Schedules, Concurrency Control, Locking Methods",
+            "metadata": {
+                "unit": "Unit 4",
+                "subject": "DBMS",
+                "title": "Database Transactions",
+                "type": "SYLLABUS",
+                "topics": [
+                    "Transaction Basics",
+                    "Transaction Management",
+                    "ACID Properties",
+                    "Schedules",
+                    "Serial Schedule",
+                    "Serializability (Conflict and View)",
+                    "Cascaded Aborts",
+                    "Recoverable Schedules",
+                    "Non-recoverable Schedules",
+                    "Concurrency Control",
+                    "Locking Methods"
+                ]
+            }
+        },
+        {
+            "text": "DBMS - Unit 5 : NoSQL Database  include topics : Introduction to NoSQL, NoSQL Data Models, CAP Theorem, BASE Properties, SQL vs NoSQL Comparison, MongoDB, CRUD Operations, Indexing, Aggregation",
+            "metadata": {
+                "unit": "Unit 5",
+                "subject": "DBMS",
+                "title": "NoSQL Database",
+                "type": "SYLLABUS",
+                "topics": [
+                    "Introduction to NoSQL",
+                    "NoSQL Data Models",
+                    "CAP Theorem",
+                    "BASE Properties",
+                    "SQL vs NoSQL Comparison",
+                    "MongoDB",
+                    "CRUD Operations",
+                    "Indexing",
+                    "Aggregation"
+                ]
+            }
+        }
+    ]
+}

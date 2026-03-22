@@ -1,0 +1,144 @@
+{
+    "units": [
+        {
+            "text": "Computer Organization and Microprocessor - Unit 1 : Computer Evolution and Performance  include topics : History of Computers, Von Neumann Architecture, Harvard Architecture, Performance Design, Evolution of Intel Processors (4-bit to 64-bit), Performance Assessment, Computer Functions and Interconnection, Computer Components, Bus Interconnection, Arithmetic Logic Unit (ALU), Signed Number Addition and Subtraction, Adder Design, Fast Adder, Carry Look Ahead Adder, Binary Multiplication, Signed Multiplication, Booth's Algorithm",
+            "metadata": {
+                "unit": "Unit 1",
+                "subject": "Computer Organization and Microprocessor",
+                "title": "Computer Evolution and Performance",
+                "type": "SYLLABUS",
+                "topics": [
+                    "History of Computers",
+                    "Von Neumann Architecture",
+                    "Harvard Architecture",
+                    "Performance Design",
+                    "Evolution of Intel Processors (4-bit to 64-bit)",
+                    "Performance Assessment",
+                    "Computer Functions and Interconnection",
+                    "Computer Components",
+                    "Bus Interconnection",
+                    "Arithmetic Logic Unit (ALU)",
+                    "Signed Number Addition and Subtraction",
+                    "Adder Design",
+                    "Fast Adder",
+                    "Carry Look Ahead Adder",
+                    "Binary Multiplication",
+                    "Signed Multiplication",
+                    "Booth's Algorithm"
+                ]
+            }
+        },
+        {
+            "text": "Computer Organization and Microprocessor - Unit 2 : Memory Management  include topics : Memory System Characteristics, Memory Hierarchy, Cache Memory Principles, Cache Design Elements, Cache Addressing, Cache Size, Mapping Techniques, Replacement Algorithms, Write Policies, Cache Line Size, Single Level Cache, Two Level Cache, Cache Performance and Locality, Semiconductor Memory, DRAM Organization, Hard Disk Organization, RAID Levels (1 to 6)",
+            "metadata": {
+                "unit": "Unit 2",
+                "subject": "Computer Organization and Microprocessor",
+                "title": "Memory Management",
+                "type": "SYLLABUS",
+                "topics": [
+                    "Memory System Characteristics",
+                    "Memory Hierarchy",
+                    "Cache Memory Principles",
+                    "Cache Design Elements",
+                    "Cache Addressing",
+                    "Cache Size",
+                    "Mapping Techniques",
+                    "Replacement Algorithms",
+                    "Write Policies",
+                    "Cache Line Size",
+                    "Single Level Cache",
+                    "Two Level Cache",
+                    "Cache Performance and Locality",
+                    "Semiconductor Memory",
+                    "DRAM Organization",
+                    "Hard Disk Organization",
+                    "RAID Levels (1 to 6)"
+                ]
+            }
+        },
+        {
+            "text": "Computer Organization and Microprocessor - Unit 3 : 8086 Microprocessor  include topics : Introduction to 8086, 16-bit Microprocessor, 8086 Architecture, Pin Diagram of 8086, Registers of 8086, Immediate Addressing, Register Addressing, Direct Addressing, Indirect Addressing, Indexed Addressing, Based Addressing, Based Indexed Addressing, Data Movement Instructions, Arithmetic Instructions, Logical Instructions, Control Transfer Instructions, String Instructions, Input Output Instructions, Flag Control Instructions, Process Control Instructions",
+            "metadata": {
+                "unit": "Unit 3",
+                "subject": "Computer Organization and Microprocessor",
+                "title": "8086 Microprocessor",
+                "type": "SYLLABUS",
+                "topics": [
+                    "Introduction to 8086",
+                    "16-bit Microprocessor",
+                    "8086 Architecture",
+                    "Pin Diagram of 8086",
+                    "Registers of 8086",
+                    "Immediate Addressing",
+                    "Register Addressing",
+                    "Direct Addressing",
+                    "Indirect Addressing",
+                    "Indexed Addressing",
+                    "Based Addressing",
+                    "Based Indexed Addressing",
+                    "Data Movement Instructions",
+                    "Arithmetic Instructions",
+                    "Logical Instructions",
+                    "Control Transfer Instructions",
+                    "String Instructions",
+                    "Input Output Instructions",
+                    "Flag Control Instructions",
+                    "Process Control Instructions"
+                ]
+            }
+        },
+        {
+            "text": "Computer Organization and Microprocessor - Unit 4 : Memory Organization and Interrupts  include topics : Memory Segmentation, Logical to Physical Address Translation, Even and Odd Memory Banks, Read Write Cycle Timing, Address Mapping, Memory Decoding, Memory Mapped I/O, I/O Mapped I/O, Interrupts, Interrupt Control Registers, Status Registers, Interrupt Vector Table (IVT), Interrupt Service Routine (ISR), Hardware Interrupts, Software Interrupts, 8259 Interrupt Controller, 8259 Features, 8259 Block Diagram",
+            "metadata": {
+                "unit": "Unit 4",
+                "subject": "Computer Organization and Microprocessor",
+                "title": "Memory Organization and Interrupts",
+                "type": "SYLLABUS",
+                "topics": [
+                    "Memory Segmentation",
+                    "Logical to Physical Address Translation",
+                    "Even and Odd Memory Banks",
+                    "Read Write Cycle Timing",
+                    "Address Mapping",
+                    "Memory Decoding",
+                    "Memory Mapped I/O",
+                    "I/O Mapped I/O",
+                    "Interrupts",
+                    "Interrupt Control Registers",
+                    "Status Registers",
+                    "Interrupt Vector Table (IVT)",
+                    "Interrupt Service Routine (ISR)",
+                    "Hardware Interrupts",
+                    "Software Interrupts",
+                    "8259 Interrupt Controller",
+                    "8259 Features",
+                    "8259 Block Diagram"
+                ]
+            }
+        },
+        {
+            "text": "Computer Organization and Microprocessor - Unit 5 : Parallel Organization  include topics : Multiprocessors, Clusters, Flynn's Taxonomy, Closely Coupled Systems, Loosely Coupled Systems, Symmetric Multiprocessing (SMP), Uniform Memory Access (UMA), Non-Uniform Memory Access (NUMA), RISC Architecture, Instruction Execution Characteristics, Register Optimization, Pipelining, RISC vs CISC",
+            "metadata": {
+                "unit": "Unit 5",
+                "subject": "Computer Organization and Microprocessor",
+                "title": "Parallel Organization",
+                "type": "SYLLABUS",
+                "topics": [
+                    "Multiprocessors",
+                    "Clusters",
+                    "Flynn's Taxonomy",
+                    "Closely Coupled Systems",
+                    "Loosely Coupled Systems",
+                    "Symmetric Multiprocessing (SMP)",
+                    "Uniform Memory Access (UMA)",
+                    "Non-Uniform Memory Access (NUMA)",
+                    "RISC Architecture",
+                    "Instruction Execution Characteristics",
+                    "Register Optimization",
+                    "Pipelining",
+                    "RISC vs CISC"
+                ]
+            }
+        }
+    ]
+}

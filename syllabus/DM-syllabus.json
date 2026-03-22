@@ -1,9 +1,10 @@
 
-    {
-  "subject": "Discrete Mathematics",
+{
+  
   "units": [
     {
       "unit": "Unit 1",
+      "subject": "Discrete Mathematics",
       "title": "Set and Propositions",
       "topics": [
         "Introduction to Discrete Mathematics",
@@ -32,6 +33,7 @@
     },
     {
       "unit": "Unit 2",
+      "subject": "Discrete Mathematics",
       "title": "Relations and Functions",
       "topics": [
         "Relations",
@@ -59,6 +61,7 @@
     },
     {
       "unit": "Unit 3",
+      "subject": "Discrete Mathematics",
       "title": "Trees",
       "topics": [
         "Introduction to Trees",
@@ -76,6 +79,7 @@
     },
     {
       "unit": "Unit 4",
+      "subject": "Discrete Mathematics",
       "title": "Graph Theory",
       "topics": [
         "Graph Terminology",
@@ -94,6 +98,7 @@
     },
     {
       "unit": "Unit 5",
+      "subject": "Discrete Mathematics",
       "title": "Counting and Algebraic Structures",
       "topics": [
         "Addition Principle",

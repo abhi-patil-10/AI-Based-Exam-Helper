@@ -1,10 +1,11 @@
 
 
-    {
-  "subject": "Computer Organization and Microprocessor",
+{
+ 
   "units": [
     {
       "unit": "Unit 1",
+      "subject": "Computer Organization and Microprocessor",
       "title": "Computer Evolution and Performance",
       "topics": [
         "History of Computers",
@@ -28,6 +29,7 @@
     },
     {
       "unit": "Unit 2",
+      "subject": "Computer Organization and Microprocessor",
       "title": "Memory Management",
       "topics": [
         "Memory System Characteristics",
@@ -51,6 +53,7 @@
     },
     {
       "unit": "Unit 3",
+      "subject": "Computer Organization and Microprocessor",
       "title": "8086 Microprocessor",
       "topics": [
         "Introduction to 8086",
@@ -77,6 +80,7 @@
     },
     {
       "unit": "Unit 4",
+      "subject": "Computer Organization and Microprocessor",
       "title": "Memory Organization and Interrupts",
       "topics": [
         "Memory Segmentation",
@@ -101,6 +105,7 @@
     },
     {
       "unit": "Unit 5",
+      "subject": "Computer Organization and Microprocessor",
       "title": "Parallel Organization",
       "topics": [
         "Multiprocessors",
