@@ -1,0 +1,3110 @@
+[
+    {
+        "text": "Question : Explain the architecture of the 80386 microprocessor with diagram.,          Subject : Computer organization and microprocessor,          type : PYQ,                  tags :80386, architecture",
+        "metadata": {
+            "question": "Explain the architecture of the 80386 microprocessor with diagram.",
+            "subject": "Computer organization and microprocessor",
+            "type": "PYQ",
+            "years": [
+                2023,
+                2024
+            ],
+            "frequency": 3,
+            "tags": [
+                "80386",
+                "architecture"
+            ]
+        }
+    },
+    {
+        "text": "Question : Explain various addressing modes of 80386 with examples.,          Subject : Computer organization and microprocessor,          type : PYQ,                  tags :addressing modes, 80386",
+        "metadata": {
+            "question": "Explain various addressing modes of 80386 with examples.",
+            "subject": "Computer organization and microprocessor",
+            "type": "PYQ",
+            "years": [
+                2023,
+                2024
+            ],
+            "frequency": 5,
+            "tags": [
+                "addressing modes",
+                "80386"
+            ]
+        }
+    },
+    {
+        "text": "Question : Explain data movement instructions of 80386 with examples.,          Subject : Computer organization and microprocessor,          type : PYQ,                  tags :instructions, data movement",
+        "metadata": {
+            "question": "Explain data movement instructions of 80386 with examples.",
+            "subject": "Computer organization and microprocessor",
+            "type": "PYQ",
+            "years": [
+                2023,
+                2024
+            ],
+            "frequency": 2,
+            "tags": [
+                "instructions",
+                "data movement"
+            ]
+        }
+    },
+    {
+        "text": "Question : Explain operating modes of 80386.,          Subject : Computer organization and microprocessor,          type : PYQ,                  tags :operating modes",
+        "metadata": {
+            "question": "Explain operating modes of 80386.",
+            "subject": "Computer organization and microprocessor",
+            "type": "PYQ",
+            "years": [
+                2023
+            ],
+            "frequency": 1,
+            "tags": [
+                "operating modes"
+            ]
+        }
+    },
+    {
+        "text": "Question : Explain general and segment registers of 80386.,          Subject : Computer organization and microprocessor,          type : PYQ,                  tags :registers",
+        "metadata": {
+            "question": "Explain general and segment registers of 80386.",
+            "subject": "Computer organization and microprocessor",
+            "type": "PYQ",
+            "years": [
+                2023
+            ],
+            "frequency": 1,
+            "tags": [
+                "registers"
+            ]
+        }
+    },
+    {
+        "text": "Question : Explain processor state after reset in 80386.,          Subject : Computer organization and microprocessor,          type : PYQ,                  tags :reset state",
+        "metadata": {
+            "question": "Explain processor state after reset in 80386.",
+            "subject": "Computer organization and microprocessor",
+            "type": "PYQ",
+            "years": [
+                2023,
+                2024
+            ],
+            "frequency": 2,
+            "tags": [
+                "reset state"
+            ]
+        }
+    },
+    {
+        "text": "Question : Explain read and write cycles with non-pipelined timing.,          Subject : Computer organization and microprocessor,          type : PYQ,                  tags :timing diagram",
+        "metadata": {
+            "question": "Explain read and write cycles with non-pipelined timing.",
+            "subject": "Computer organization and microprocessor",
+            "type": "PYQ",
+            "years": [
+                2023,
+                2024
+            ],
+            "frequency": 4,
+            "tags": [
+                "timing diagram"
+            ]
+        }
+    },
+    {
+        "text": "Question : Explain control registers of 80386.,          Subject : Computer organization and microprocessor,          type : PYQ,                  tags :control registers",
+        "metadata": {
+            "question": "Explain control registers of 80386.",
+            "subject": "Computer organization and microprocessor",
+            "type": "PYQ",
+            "years": [
+                2023,
+                2024
+            ],
+            "frequency": 2,
+            "tags": [
+                "control registers"
+            ]
+        }
+    },
+    {
+        "text": "Question : Explain signals of 80386.,          Subject : Computer organization and microprocessor,          type : PYQ,                  tags :signals",
+        "metadata": {
+            "question": "Explain signals of 80386.",
+            "subject": "Computer organization and microprocessor",
+            "type": "PYQ",
+            "years": [
+                2023,
+                2024
+            ],
+            "frequency": 2,
+            "tags": [
+                "signals"
+            ]
+        }
+    },
+    {
+        "text": "Question : Explain page translation process in 80386.,          Subject : Computer organization and microprocessor,          type : PYQ,                  tags :paging, memory management",
+        "metadata": {
+            "question": "Explain page translation process in 80386.",
+            "subject": "Computer organization and microprocessor",
+            "type": "PYQ",
+            "years": [
+                2022,
+                2023,
+                2024,
+                2025
+            ],
+            "frequency": 8,
+            "tags": [
+                "paging",
+                "memory management"
+            ]
+        }
+    },
+    {
+        "text": "Question : Explain segment translation process in 80386.,          Subject : Computer organization and microprocessor,          type : PYQ,                  tags :segmentation",
+        "metadata": {
+            "question": "Explain segment translation process in 80386.",
+            "subject": "Computer organization and microprocessor",
+            "type": "PYQ",
+            "years": [
+                2022,
+                2023,
+                2024,
+                2025
+            ],
+            "frequency": 7,
+            "tags": [
+                "segmentation"
+            ]
+        }
+    },
+    {
+        "text": "Question : Explain logical, linear and physical address.,          Subject : Computer organization and microprocessor,          type : PYQ,                  tags :addressing",
+        "metadata": {
+            "question": "Explain logical, linear and physical address.",
+            "subject": "Computer organization and microprocessor",
+            "type": "PYQ",
+            "years": [
+                2022
+            ],
+            "frequency": 1,
+            "tags": [
+                "addressing"
+            ]
+        }
+    },
+    {
+        "text": "Question : Explain descriptor types in 80386.,          Subject : Computer organization and microprocessor,          type : PYQ,                  tags :descriptors",
+        "metadata": {
+            "question": "Explain descriptor types in 80386.",
+            "subject": "Computer organization and microprocessor",
+            "type": "PYQ",
+            "years": [
+                2022,
+                2023,
+                2024
+            ],
+            "frequency": 6,
+            "tags": [
+                "descriptors"
+            ]
+        }
+    },
+    {
+        "text": "Question : Explain GDTR, LDTR and IDTR.,          Subject : Computer organization and microprocessor,          type : PYQ,                  tags :registers",
+        "metadata": {
+            "question": "Explain GDTR, LDTR and IDTR.",
+            "subject": "Computer organization and microprocessor",
+            "type": "PYQ",
+            "years": [
+                2022,
+                2023,
+                2024
+            ],
+            "frequency": 6,
+            "tags": [
+                "registers"
+            ]
+        }
+    },
+    {
+        "text": "Question : Explain general descriptor and selector format.,          Subject : Computer organization and microprocessor,          type : PYQ,                  tags :descriptor",
+        "metadata": {
+            "question": "Explain general descriptor and selector format.",
+            "subject": "Computer organization and microprocessor",
+            "type": "PYQ",
+            "years": [
+                2022,
+                2023,
+                2024
+            ],
+            "frequency": 6,
+            "tags": [
+                "descriptor"
+            ]
+        }
+    },
+    {
+        "text": "Question : Explain protection mechanism in 80386.,          Subject : Computer organization and microprocessor,          type : PYQ,                  tags :protection",
+        "metadata": {
+            "question": "Explain protection mechanism in 80386.",
+            "subject": "Computer organization and microprocessor",
+            "type": "PYQ",
+            "years": [
+                2022,
+                2023,
+                2024,
+                2025
+            ],
+            "frequency": 8,
+            "tags": [
+                "protection"
+            ]
+        }
+    },
+    {
+        "text": "Question : Explain CPL, DPL, RPL and IOPL.,          Subject : Computer organization and microprocessor,          type : PYQ,                  tags :privilege levels",
+        "metadata": {
+            "question": "Explain CPL, DPL, RPL and IOPL.",
+            "subject": "Computer organization and microprocessor",
+            "type": "PYQ",
+            "years": [
+                2022,
+                2023,
+                2024,
+                2025
+            ],
+            "frequency": 7,
+            "tags": [
+                "privilege levels"
+            ]
+        }
+    },
+    {
+        "text": "Question : Explain privilege instructions.,          Subject : Computer organization and microprocessor,          type : PYQ,                  tags :instructions",
+        "metadata": {
+            "question": "Explain privilege instructions.",
+            "subject": "Computer organization and microprocessor",
+            "type": "PYQ",
+            "years": [
+                2022,
+                2023,
+                2024,
+                2025
+            ],
+            "frequency": 6,
+            "tags": [
+                "instructions"
+            ]
+        }
+    },
+    {
+        "text": "Question : Explain call gate and its use.,          Subject : Computer organization and microprocessor,          type : PYQ,                  tags :call gate",
+        "metadata": {
+            "question": "Explain call gate and its use.",
+            "subject": "Computer organization and microprocessor",
+            "type": "PYQ",
+            "years": [
+                2022,
+                2023,
+                2024,
+                2025
+            ],
+            "frequency": 6,
+            "tags": [
+                "call gate"
+            ]
+        }
+    },
+    {
+        "text": "Question : Explain task state segment (TSS).,          Subject : Computer organization and microprocessor,          type : PYQ,                  tags :TSS",
+        "metadata": {
+            "question": "Explain task state segment (TSS).",
+            "subject": "Computer organization and microprocessor",
+            "type": "PYQ",
+            "years": [
+                2022,
+                2023,
+                2024,
+                2025
+            ],
+            "frequency": 7,
+            "tags": [
+                "TSS"
+            ]
+        }
+    },
+    {
+        "text": "Question : Explain task switching in 80386.,          Subject : Computer organization and microprocessor,          type : PYQ,                  tags :task switching",
+        "metadata": {
+            "question": "Explain task switching in 80386.",
+            "subject": "Computer organization and microprocessor",
+            "type": "PYQ",
+            "years": [
+                2022,
+                2023,
+                2024,
+                2025
+            ],
+            "frequency": 5,
+            "tags": [
+                "task switching"
+            ]
+        }
+    },
+    {
+        "text": "Question : Explain virtual 8086 mode and its features.,          Subject : Computer organization and microprocessor,          type : PYQ,                  tags :virtual mode",
+        "metadata": {
+            "question": "Explain virtual 8086 mode and its features.",
+            "subject": "Computer organization and microprocessor",
+            "type": "PYQ",
+            "years": [
+                2022,
+                2023,
+                2024,
+                2025
+            ],
+            "frequency": 6,
+            "tags": [
+                "virtual mode"
+            ]
+        }
+    },
+    {
+        "text": "Question : Explain interrupt handling in 80386.,          Subject : Computer organization and microprocessor,          type : PYQ,                  tags :interrupts",
+        "metadata": {
+            "question": "Explain interrupt handling in 80386.",
+            "subject": "Computer organization and microprocessor",
+            "type": "PYQ",
+            "years": [
+                2022,
+                2023,
+                2024,
+                2025
+            ],
+            "frequency": 6,
+            "tags": [
+                "interrupts"
+            ]
+        }
+    },
+    {
+        "text": "Question : Explain exceptions in 80386.,          Subject : Computer organization and microprocessor,          type : PYQ,                  tags :exceptions",
+        "metadata": {
+            "question": "Explain exceptions in 80386.",
+            "subject": "Computer organization and microprocessor",
+            "type": "PYQ",
+            "years": [
+                2022,
+                2023,
+                2024,
+                2025
+            ],
+            "frequency": 6,
+            "tags": [
+                "exceptions"
+            ]
+        }
+    },
+    {
+        "text": "Question : Differentiate between microprocessor and microcontroller.,          Subject : Computer organization and microprocessor,          type : PYQ,                  tags :comparison",
+        "metadata": {
+            "question": "Differentiate between microprocessor and microcontroller.",
+            "subject": "Computer organization and microprocessor",
+            "type": "PYQ",
+            "years": [
+                2022,
+                2023,
+                2024,
+                2025
+            ],
+            "frequency": 5,
+            "tags": [
+                "comparison"
+            ]
+        }
+    },
+    {
+        "text": "Question : Explain architecture of a typical microcontroller.,          Subject : Computer organization and microprocessor,          type : PYQ,                  tags :microcontroller",
+        "metadata": {
+            "question": "Explain architecture of a typical microcontroller.",
+            "subject": "Computer organization and microprocessor",
+            "type": "PYQ",
+            "years": [
+                2022,
+                2023,
+                2024,
+                2025
+            ],
+            "frequency": 5,
+            "tags": [
+                "microcontroller"
+            ]
+        }
+    },
+    {
+        "text": "Question : Explain features of 8051 microcontroller.,          Subject : Computer organization and microprocessor,          type : PYQ,                  tags :8051",
+        "metadata": {
+            "question": "Explain features of 8051 microcontroller.",
+            "subject": "Computer organization and microprocessor",
+            "type": "PYQ",
+            "years": [
+                2023,
+                2024
+            ],
+            "frequency": 3,
+            "tags": [
+                "8051"
+            ]
+        }
+    },
+    {
+        "text": "Question : List applications of microcontrollers.,          Subject : Computer organization and microprocessor,          type : PYQ,                  tags :applications",
+        "metadata": {
+            "question": "List applications of microcontrollers.",
+            "subject": "Computer organization and microprocessor",
+            "type": "PYQ",
+            "years": [
+                2023,
+                2024
+            ],
+            "frequency": 2,
+            "tags": [
+                "applications"
+            ]
+        }
+    },
+    {
+        "text": "Question : Multiply the following using Booth\u00e2\u20ac\u2122 algorithm. Multiplicand = + 22 Multiplier = \u00e2\u20ac\u201c 5,          Subject : Computer organization and microprocessor,          type : IMP,                  tags :booth algorithm",
+        "metadata": {
+            "question": "Multiply the following using Booth\u00e2\u20ac\u2122 algorithm. Multiplicand = + 22 Multiplier = \u00e2\u20ac\u201c 5",
+            "subject": "Computer organization and microprocessor",
+            "type": "IMP",
+            "unit": "1.Computer evolution and performance",
+            "frequency": 1,
+            "tags": [
+                "booth algorithm"
+            ]
+        }
+    },
+    {
+        "text": "Question : Multiply the following using Booth\u00e2\u20ac\u2122 algorithm. Multiplicand = + 11 Multiplier = \u00e2\u20ac\u201c 6,          Subject : Computer organization and microprocessor,          type : IMP,                  tags :booth algorithm",
+        "metadata": {
+            "question": "Multiply the following using Booth\u00e2\u20ac\u2122 algorithm. Multiplicand = + 11 Multiplier = \u00e2\u20ac\u201c 6",
+            "subject": "Computer organization and microprocessor",
+            "type": "IMP",
+            "unit": "1.Computer evolution and performance",
+            "frequency": 1,
+            "tags": [
+                "booth algorithm"
+            ]
+        }
+    },
+    {
+        "text": "Question : Explain Booth\u00e2\u20ac\u2122s multiplication Algorithm with a suitable example.,          Subject : Computer organization and microprocessor,          type : IMP,                  tags :booth algorithm",
+        "metadata": {
+            "question": "Explain Booth\u00e2\u20ac\u2122s multiplication Algorithm with a suitable example.",
+            "subject": "Computer organization and microprocessor",
+            "type": "IMP",
+            "unit": "1.Computer evolution and performance",
+            "frequency": 1,
+            "tags": [
+                "booth algorithm"
+            ]
+        }
+    },
+    {
+        "text": "Question : Describe the top-level view of computer function and interconnection structures,          Subject : Computer organization and microprocessor,          type : IMP,                  tags :computer organization",
+        "metadata": {
+            "question": "Describe the top-level view of computer function and interconnection structures",
+            "subject": "Computer organization and microprocessor",
+            "type": "IMP",
+            "unit": "1.Computer evolution and performance",
+            "frequency": 1,
+            "tags": [
+                "computer organization"
+            ]
+        }
+    },
+    {
+        "text": "Question : Compare and contrast the Von Neumann and Harvard architectures,          Subject : Computer organization and microprocessor,          type : IMP,                  tags :architecture",
+        "metadata": {
+            "question": "Compare and contrast the Von Neumann and Harvard architectures",
+            "subject": "Computer organization and microprocessor",
+            "type": "IMP",
+            "unit": "1.Computer evolution and performance",
+            "frequency": 1,
+            "tags": [
+                "architecture"
+            ]
+        }
+    },
+    {
+        "text": "Question : Explain Von Neumann architecture with suitable diagram.,          Subject : Computer organization and microprocessor,          type : IMP,                  tags :architecture",
+        "metadata": {
+            "question": "Explain Von Neumann architecture with suitable diagram.",
+            "subject": "Computer organization and microprocessor",
+            "type": "IMP",
+            "unit": "1.Computer evolution and performance",
+            "frequency": 1,
+            "tags": [
+                "architecture"
+            ]
+        }
+    },
+    {
+        "text": "Question : Describe the structure and function of the Arithmetic and Logic Unit (ALU). Explain how it performs arithmetic and logical operations within a computer system.,          Subject : Computer organization and microprocessor,          type : IMP,                  tags :ALU",
+        "metadata": {
+            "question": "Describe the structure and function of the Arithmetic and Logic Unit (ALU). Explain how it performs arithmetic and logical operations within a computer system.",
+            "subject": "Computer organization and microprocessor",
+            "type": "IMP",
+            "unit": "1.Computer evolution and performance",
+            "frequency": 1,
+            "tags": [
+                "ALU"
+            ]
+        }
+    },
+    {
+        "text": "Question : Explain the various types of Memory based on methods of accessing units of data.,          Subject : Computer organization and microprocessor,          type : IMP,                  tags :memory",
+        "metadata": {
+            "question": "Explain the various types of Memory based on methods of accessing units of data.",
+            "subject": "Computer organization and microprocessor",
+            "type": "IMP",
+            "unit": "2.Memory Management",
+            "frequency": 1,
+            "tags": [
+                "memory"
+            ]
+        }
+    },
+    {
+        "text": "Question : Explain performance parameters of memory.,          Subject : Computer organization and microprocessor,          type : IMP,                  tags :memory",
+        "metadata": {
+            "question": "Explain performance parameters of memory.",
+            "subject": "Computer organization and microprocessor",
+            "type": "IMP",
+            "unit": "2.Memory Management",
+            "frequency": 1,
+            "tags": [
+                "memory"
+            ]
+        }
+    },
+    {
+        "text": "Question : Draw and explain memory hierarchy in computer systems. Why is Memory Hierarchy Required in the System?,          Subject : Computer organization and microprocessor,          type : IMP,                  tags :memory hierarchy",
+        "metadata": {
+            "question": "Draw and explain memory hierarchy in computer systems. Why is Memory Hierarchy Required in the System?",
+            "subject": "Computer organization and microprocessor",
+            "type": "IMP",
+            "unit": "2.Memory Management",
+            "frequency": 1,
+            "tags": [
+                "memory hierarchy"
+            ]
+        }
+    },
+    {
+        "text": "Question : Explain cache read operation with flowchart.,          Subject : Computer organization and microprocessor,          type : IMP,                  tags :cache",
+        "metadata": {
+            "question": "Explain cache read operation with flowchart.",
+            "subject": "Computer organization and microprocessor",
+            "type": "IMP",
+            "unit": "2.Memory Management",
+            "frequency": 1,
+            "tags": [
+                "cache"
+            ]
+        }
+    },
+    {
+        "text": "Question : With the help of a neat diagram, explain typical cache organization.,          Subject : Computer organization and microprocessor,          type : IMP,                  tags :cache",
+        "metadata": {
+            "question": "With the help of a neat diagram, explain typical cache organization.",
+            "subject": "Computer organization and microprocessor",
+            "type": "IMP",
+            "unit": "2.Memory Management",
+            "frequency": 1,
+            "tags": [
+                "cache"
+            ]
+        }
+    },
+    {
+        "text": "Question : Define virtual memory. Also, explain logical and physical cache.,          Subject : Computer organization and microprocessor,          type : IMP,                  tags :virtual memory",
+        "metadata": {
+            "question": "Define virtual memory. Also, explain logical and physical cache.",
+            "subject": "Computer organization and microprocessor",
+            "type": "IMP",
+            "unit": "2.Memory Management",
+            "frequency": 1,
+            "tags": [
+                "virtual memory"
+            ]
+        }
+    },
+    {
+        "text": "Question : Explain the following main memory mapping techniques along with their merits and demerits: a) Direct, b) Associative, c) Set Associative.,          Subject : Computer organization and microprocessor,          type : IMP,                  tags :cache mapping",
+        "metadata": {
+            "question": "Explain the following main memory mapping techniques along with their merits and demerits: a) Direct, b) Associative, c) Set Associative.",
+            "subject": "Computer organization and microprocessor",
+            "type": "IMP",
+            "unit": "2.Memory Management",
+            "frequency": 1,
+            "tags": [
+                "cache mapping"
+            ]
+        }
+    },
+    {
+        "text": "Question : Explain the following cache updating policies: (i) Write through, (ii) Write back.,          Subject : Computer organization and microprocessor,          type : IMP,                  tags :cache",
+        "metadata": {
+            "question": "Explain the following cache updating policies: (i) Write through, (ii) Write back.",
+            "subject": "Computer organization and microprocessor",
+            "type": "IMP",
+            "unit": "2.Memory Management",
+            "frequency": 1,
+            "tags": [
+                "cache"
+            ]
+        }
+    },
+    {
+        "text": "Question : Distinguish between SRAM and DRAM.,          Subject : Computer organization and microprocessor,          type : IMP,                  tags :memory",
+        "metadata": {
+            "question": "Distinguish between SRAM and DRAM.",
+            "subject": "Computer organization and microprocessor",
+            "type": "IMP",
+            "unit": "2.Memory Management",
+            "frequency": 1,
+            "tags": [
+                "memory"
+            ]
+        }
+    },
+    {
+        "text": "Question : Explain RAID levels with their advantages, disadvantages, and applications.,          Subject : Computer organization and microprocessor,          type : IMP,                  tags :RAID",
+        "metadata": {
+            "question": "Explain RAID levels with their advantages, disadvantages, and applications.",
+            "subject": "Computer organization and microprocessor",
+            "type": "IMP",
+            "unit": "2.Memory Management",
+            "frequency": 1,
+            "tags": [
+                "RAID"
+            ]
+        }
+    },
+    {
+        "text": "Question : What is cache memory? Define cache hit and cache miss.,          Subject : Computer organization and microprocessor,          type : IMP,                  tags :cache",
+        "metadata": {
+            "question": "What is cache memory? Define cache hit and cache miss.",
+            "subject": "Computer organization and microprocessor",
+            "type": "IMP",
+            "unit": "2.Memory Management",
+            "frequency": 1,
+            "tags": [
+                "cache"
+            ]
+        }
+    },
+    {
+        "text": "Question : Explain the basic features of the Intel 8086 microprocessor.,          Subject : Computer organization and microprocessor,          type : IMP,                  tags :8086",
+        "metadata": {
+            "question": "Explain the basic features of the Intel 8086 microprocessor.",
+            "subject": "Computer organization and microprocessor",
+            "type": "IMP",
+            "unit": "3.Introduction to 8086 Microprocessor",
+            "frequency": 1,
+            "tags": [
+                "8086"
+            ]
+        }
+    },
+    {
+        "text": "Question : Explain the architecture of the 8086 microprocessor with a neat diagram.,          Subject : Computer organization and microprocessor,          type : IMP,                  tags :architecture",
+        "metadata": {
+            "question": "Explain the architecture of the 8086 microprocessor with a neat diagram.",
+            "subject": "Computer organization and microprocessor",
+            "type": "IMP",
+            "unit": "3.Introduction to 8086 Microprocessor",
+            "frequency": 1,
+            "tags": [
+                "architecture"
+            ]
+        }
+    },
+    {
+        "text": "Question : Draw and explain the pin configuration of the 8086 microprocessor.,          Subject : Computer organization and microprocessor,          type : IMP,                  tags :pins",
+        "metadata": {
+            "question": "Draw and explain the pin configuration of the 8086 microprocessor.",
+            "subject": "Computer organization and microprocessor",
+            "type": "IMP",
+            "unit": "3.Introduction to 8086 Microprocessor",
+            "frequency": 1,
+            "tags": [
+                "pins"
+            ]
+        }
+    },
+    {
+        "text": "Question : List and describe the registers of the 8086 microprocessor (Programmer's Model).,          Subject : Computer organization and microprocessor,          type : IMP,                  tags :registers",
+        "metadata": {
+            "question": "List and describe the registers of the 8086 microprocessor (Programmer's Model).",
+            "subject": "Computer organization and microprocessor",
+            "type": "IMP",
+            "unit": "3.Introduction to 8086 Microprocessor",
+            "frequency": 1,
+            "tags": [
+                "registers"
+            ]
+        }
+    },
+    {
+        "text": "Question : Explain the Flag register in detail.,          Subject : Computer organization and microprocessor,          type : IMP,                  tags :flags",
+        "metadata": {
+            "question": "Explain the Flag register in detail.",
+            "subject": "Computer organization and microprocessor",
+            "type": "IMP",
+            "unit": "3.Introduction to 8086 Microprocessor",
+            "frequency": 1,
+            "tags": [
+                "flags"
+            ]
+        }
+    },
+    {
+        "text": "Question : Describe the following addressing modes with examples: Index, Direct, Indirect, Immediate, Register, and Based indexed mode.,          Subject : Computer organization and microprocessor,          type : IMP,                  tags :addressing modes",
+        "metadata": {
+            "question": "Describe the following addressing modes with examples: Index, Direct, Indirect, Immediate, Register, and Based indexed mode.",
+            "subject": "Computer organization and microprocessor",
+            "type": "IMP",
+            "unit": "3.Introduction to 8086 Microprocessor",
+            "frequency": 1,
+            "tags": [
+                "addressing modes"
+            ]
+        }
+    },
+    {
+        "text": "Question : Explain Data Movement Instructions of 8086.,          Subject : Computer organization and microprocessor,          type : IMP,                  tags :instructions",
+        "metadata": {
+            "question": "Explain Data Movement Instructions of 8086.",
+            "subject": "Computer organization and microprocessor",
+            "type": "IMP",
+            "unit": "3.Introduction to 8086 Microprocessor",
+            "frequency": 1,
+            "tags": [
+                "instructions"
+            ]
+        }
+    },
+    {
+        "text": "Question : Explain String and Arithmetic Instructions of 8086.,          Subject : Computer organization and microprocessor,          type : IMP,                  tags :instructions",
+        "metadata": {
+            "question": "Explain String and Arithmetic Instructions of 8086.",
+            "subject": "Computer organization and microprocessor",
+            "type": "IMP",
+            "unit": "3.Introduction to 8086 Microprocessor",
+            "frequency": 1,
+            "tags": [
+                "instructions"
+            ]
+        }
+    },
+    {
+        "text": "Question : Explain Conditional Branch and Non-Conditional Branch Instructions.,          Subject : Computer organization and microprocessor,          type : IMP,                  tags :branch",
+        "metadata": {
+            "question": "Explain Conditional Branch and Non-Conditional Branch Instructions.",
+            "subject": "Computer organization and microprocessor",
+            "type": "IMP",
+            "unit": "3.Introduction to 8086 Microprocessor",
+            "frequency": 1,
+            "tags": [
+                "branch"
+            ]
+        }
+    },
+    {
+        "text": "Question : Explain DBMS architecture (three level architecture).,          Subject : Database Management System,          type : PYQ,                  tags :architecture",
+        "metadata": {
+            "question": "Explain DBMS architecture (three level architecture).",
+            "subject": "Database Management System",
+            "type": "PYQ",
+            "years": [
+                2023,
+                2024,
+                2025
+            ],
+            "frequency": 4,
+            "tags": [
+                "architecture"
+            ]
+        }
+    },
+    {
+        "text": "Question : Explain data models with types.,          Subject : Database Management System,          type : PYQ,                  tags :data model",
+        "metadata": {
+            "question": "Explain data models with types.",
+            "subject": "Database Management System",
+            "type": "PYQ",
+            "years": [
+                2023,
+                2024
+            ],
+            "frequency": 3,
+            "tags": [
+                "data model"
+            ]
+        }
+    },
+    {
+        "text": "Question : Explain ER diagram with example.,          Subject : Database Management System,          type : PYQ,                  tags :ER model",
+        "metadata": {
+            "question": "Explain ER diagram with example.",
+            "subject": "Database Management System",
+            "type": "PYQ",
+            "years": [
+                2023,
+                2024,
+                2025
+            ],
+            "frequency": 5,
+            "tags": [
+                "ER model"
+            ]
+        }
+    },
+    {
+        "text": "Question : Explain relational algebra operations.,          Subject : Database Management System,          type : PYQ,                  tags :relational algebra",
+        "metadata": {
+            "question": "Explain relational algebra operations.",
+            "subject": "Database Management System",
+            "type": "PYQ",
+            "years": [
+                2023,
+                2024,
+                2025
+            ],
+            "frequency": 6,
+            "tags": [
+                "relational algebra"
+            ]
+        }
+    },
+    {
+        "text": "Question : Explain normalization with different normal forms.,          Subject : Database Management System,          type : PYQ,                  tags :normalization",
+        "metadata": {
+            "question": "Explain normalization with different normal forms.",
+            "subject": "Database Management System",
+            "type": "PYQ",
+            "years": [
+                2023,
+                2024,
+                2025
+            ],
+            "frequency": 6,
+            "tags": [
+                "normalization"
+            ]
+        }
+    },
+    {
+        "text": "Question : Explain functional dependency and its types.,          Subject : Database Management System,          type : PYQ,                  tags :functional dependency",
+        "metadata": {
+            "question": "Explain functional dependency and its types.",
+            "subject": "Database Management System",
+            "type": "PYQ",
+            "years": [
+                2023,
+                2024,
+                2025
+            ],
+            "frequency": 5,
+            "tags": [
+                "functional dependency"
+            ]
+        }
+    },
+    {
+        "text": "Question : Explain keys in DBMS (primary, foreign, candidate, etc.).,          Subject : Database Management System,          type : PYQ,                  tags :keys",
+        "metadata": {
+            "question": "Explain keys in DBMS (primary, foreign, candidate, etc.).",
+            "subject": "Database Management System",
+            "type": "PYQ",
+            "years": [
+                2023,
+                2024
+            ],
+            "frequency": 3,
+            "tags": [
+                "keys"
+            ]
+        }
+    },
+    {
+        "text": "Question : Explain SQL queries (DDL, DML, TCL, DCL).,          Subject : Database Management System,          type : PYQ,                  tags :SQL",
+        "metadata": {
+            "question": "Explain SQL queries (DDL, DML, TCL, DCL).",
+            "subject": "Database Management System",
+            "type": "PYQ",
+            "years": [
+                2023,
+                2024,
+                2025
+            ],
+            "frequency": 6,
+            "tags": [
+                "SQL"
+            ]
+        }
+    },
+    {
+        "text": "Question : Write SQL queries for given conditions (joins, subqueries).,          Subject : Database Management System,          type : PYQ,                  tags :SQL queries",
+        "metadata": {
+            "question": "Write SQL queries for given conditions (joins, subqueries).",
+            "subject": "Database Management System",
+            "type": "PYQ",
+            "years": [
+                2023,
+                2024,
+                2025
+            ],
+            "frequency": 7,
+            "tags": [
+                "SQL queries"
+            ]
+        }
+    },
+    {
+        "text": "Question : Explain different types of joins.,          Subject : Database Management System,          type : PYQ,                  tags :joins",
+        "metadata": {
+            "question": "Explain different types of joins.",
+            "subject": "Database Management System",
+            "type": "PYQ",
+            "years": [
+                2023,
+                2024,
+                2025
+            ],
+            "frequency": 5,
+            "tags": [
+                "joins"
+            ]
+        }
+    },
+    {
+        "text": "Question : Explain transactions and ACID properties.,          Subject : Database Management System,          type : PYQ,                  tags :transactions",
+        "metadata": {
+            "question": "Explain transactions and ACID properties.",
+            "subject": "Database Management System",
+            "type": "PYQ",
+            "years": [
+                2023,
+                2024,
+                2025
+            ],
+            "frequency": 5,
+            "tags": [
+                "transactions"
+            ]
+        }
+    },
+    {
+        "text": "Question : Explain concurrency control techniques.,          Subject : Database Management System,          type : PYQ,                  tags :concurrency",
+        "metadata": {
+            "question": "Explain concurrency control techniques.",
+            "subject": "Database Management System",
+            "type": "PYQ",
+            "years": [
+                2024,
+                2025
+            ],
+            "frequency": 3,
+            "tags": [
+                "concurrency"
+            ]
+        }
+    },
+    {
+        "text": "Question : Explain deadlock handling in DBMS.,          Subject : Database Management System,          type : PYQ,                  tags :deadlock",
+        "metadata": {
+            "question": "Explain deadlock handling in DBMS.",
+            "subject": "Database Management System",
+            "type": "PYQ",
+            "years": [
+                2024,
+                2025
+            ],
+            "frequency": 2,
+            "tags": [
+                "deadlock"
+            ]
+        }
+    },
+    {
+        "text": "Question : Explain indexing and types of indexes.,          Subject : Database Management System,          type : PYQ,                  tags :indexing",
+        "metadata": {
+            "question": "Explain indexing and types of indexes.",
+            "subject": "Database Management System",
+            "type": "PYQ",
+            "years": [
+                2023,
+                2024,
+                2025
+            ],
+            "frequency": 4,
+            "tags": [
+                "indexing"
+            ]
+        }
+    },
+    {
+        "text": "Question : Explain file organization methods.,          Subject : Database Management System,          type : PYQ,                  tags :file organization",
+        "metadata": {
+            "question": "Explain file organization methods.",
+            "subject": "Database Management System",
+            "type": "PYQ",
+            "years": [
+                2023,
+                2024
+            ],
+            "frequency": 2,
+            "tags": [
+                "file organization"
+            ]
+        }
+    },
+    {
+        "text": "Question : Explain query processing and optimization.,          Subject : Database Management System,          type : PYQ,                  tags :query processing",
+        "metadata": {
+            "question": "Explain query processing and optimization.",
+            "subject": "Database Management System",
+            "type": "PYQ",
+            "years": [
+                2024,
+                2025
+            ],
+            "frequency": 2,
+            "tags": [
+                "query processing"
+            ]
+        }
+    },
+    {
+        "text": "Question : Explain database security and authorization.,          Subject : Database Management System,          type : PYQ,                  tags :security",
+        "metadata": {
+            "question": "Explain database security and authorization.",
+            "subject": "Database Management System",
+            "type": "PYQ",
+            "years": [
+                2023,
+                2024
+            ],
+            "frequency": 2,
+            "tags": [
+                "security"
+            ]
+        }
+    },
+    {
+        "text": "Question : Explain backup and recovery techniques.,          Subject : Database Management System,          type : PYQ,                  tags :recovery",
+        "metadata": {
+            "question": "Explain backup and recovery techniques.",
+            "subject": "Database Management System",
+            "type": "PYQ",
+            "years": [
+                2024,
+                2025
+            ],
+            "frequency": 3,
+            "tags": [
+                "recovery"
+            ]
+        }
+    },
+    {
+        "text": "Question : Explain view and its advantages.,          Subject : Database Management System,          type : PYQ,                  tags :view",
+        "metadata": {
+            "question": "Explain view and its advantages.",
+            "subject": "Database Management System",
+            "type": "PYQ",
+            "years": [
+                2023,
+                2024
+            ],
+            "frequency": 2,
+            "tags": [
+                "view"
+            ]
+        }
+    },
+    {
+        "text": "Question : Explain triggers and stored procedures.,          Subject : Database Management System,          type : PYQ,                  tags :triggers",
+        "metadata": {
+            "question": "Explain triggers and stored procedures.",
+            "subject": "Database Management System",
+            "type": "PYQ",
+            "years": [
+                2024,
+                2025
+            ],
+            "frequency": 2,
+            "tags": [
+                "triggers"
+            ]
+        }
+    },
+    {
+        "text": "Question : Define DBMS. List any four advantages of DBMS over the file system.,          Subject : Database Management System,          type : IMP,                  tags :DBMS",
+        "metadata": {
+            "question": "Define DBMS. List any four advantages of DBMS over the file system.",
+            "subject": "Database Management System",
+            "type": "IMP",
+            "unit": "1.Introduction To Database Management System And ER Model",
+            "frequency": 1,
+            "tags": [
+                "DBMS"
+            ]
+        }
+    },
+    {
+        "text": "Question : What is an entity? Explain with suitable example.,          Subject : Database Management System,          type : IMP,                  tags :entity",
+        "metadata": {
+            "question": "What is an entity? Explain with suitable example.",
+            "subject": "Database Management System",
+            "type": "IMP",
+            "unit": "1.Introduction To Database Management System And ER Model",
+            "frequency": 1,
+            "tags": [
+                "entity"
+            ]
+        }
+    },
+    {
+        "text": "Question : Differentiate between primary key and candidate key.,          Subject : Database Management System,          type : IMP,                  tags :keys",
+        "metadata": {
+            "question": "Differentiate between primary key and candidate key.",
+            "subject": "Database Management System",
+            "type": "IMP",
+            "unit": "1.Introduction To Database Management System And ER Model",
+            "frequency": 1,
+            "tags": [
+                "keys"
+            ]
+        }
+    },
+    {
+        "text": "Question : What is a data model? Name any three data models.,          Subject : Database Management System,          type : IMP,                  tags :data model",
+        "metadata": {
+            "question": "What is a data model? Name any three data models.",
+            "subject": "Database Management System",
+            "type": "IMP",
+            "unit": "1.Introduction To Database Management System And ER Model",
+            "frequency": 1,
+            "tags": [
+                "data model"
+            ]
+        }
+    },
+    {
+        "text": "Question : Explain composite and multivalued attributes with examples.,          Subject : Database Management System,          type : IMP,                  tags :attributes",
+        "metadata": {
+            "question": "Explain composite and multivalued attributes with examples.",
+            "subject": "Database Management System",
+            "type": "IMP",
+            "unit": "1.Introduction To Database Management System And ER Model",
+            "frequency": 1,
+            "tags": [
+                "attributes"
+            ]
+        }
+    },
+    {
+        "text": "Question : Explain the three-schema architecture of DBMS with a neat diagram.,          Subject : Database Management System,          type : IMP,                  tags :architecture",
+        "metadata": {
+            "question": "Explain the three-schema architecture of DBMS with a neat diagram.",
+            "subject": "Database Management System",
+            "type": "IMP",
+            "unit": "1.Introduction To Database Management System And ER Model",
+            "frequency": 1,
+            "tags": [
+                "architecture"
+            ]
+        }
+    },
+    {
+        "text": "Question : Discuss different types of relationships (1:1, 1:N, M:N) with examples.,          Subject : Database Management System,          type : IMP,                  tags :relationships",
+        "metadata": {
+            "question": "Discuss different types of relationships (1:1, 1:N, M:N) with examples.",
+            "subject": "Database Management System",
+            "type": "IMP",
+            "unit": "1.Introduction To Database Management System And ER Model",
+            "frequency": 1,
+            "tags": [
+                "relationships"
+            ]
+        }
+    },
+    {
+        "text": "Question : Explain the ER diagram design process with steps.,          Subject : Database Management System,          type : IMP,                  tags :ER model",
+        "metadata": {
+            "question": "Explain the ER diagram design process with steps.",
+            "subject": "Database Management System",
+            "type": "IMP",
+            "unit": "1.Introduction To Database Management System And ER Model",
+            "frequency": 1,
+            "tags": [
+                "ER model"
+            ]
+        }
+    },
+    {
+        "text": "Question : What are enterprise constraints? Explain key, domain, and referential integrity constraints.,          Subject : Database Management System,          type : IMP,                  tags :constraints",
+        "metadata": {
+            "question": "What are enterprise constraints? Explain key, domain, and referential integrity constraints.",
+            "subject": "Database Management System",
+            "type": "IMP",
+            "unit": "1.Introduction To Database Management System And ER Model",
+            "frequency": 1,
+            "tags": [
+                "constraints"
+            ]
+        }
+    },
+    {
+        "text": "Question : Explain specialization and generalization in EER with examples.,          Subject : Database Management System,          type : IMP,                  tags :EER",
+        "metadata": {
+            "question": "Explain specialization and generalization in EER with examples.",
+            "subject": "Database Management System",
+            "type": "IMP",
+            "unit": "1.Introduction To Database Management System And ER Model",
+            "frequency": 1,
+            "tags": [
+                "EER"
+            ]
+        }
+    },
+    {
+        "text": "Question : Define DDL and DML commands. Give two examples of each.,          Subject : Database Management System,          type : IMP,                  tags :SQL",
+        "metadata": {
+            "question": "Define DDL and DML commands. Give two examples of each.",
+            "subject": "Database Management System",
+            "type": "IMP",
+            "unit": "2.SQL and PL/SQL",
+            "frequency": 1,
+            "tags": [
+                "SQL"
+            ]
+        }
+    },
+    {
+        "text": "Question : Write a SELECT query to display all columns from a table Student where the Age is greater than 20.,          Subject : Database Management System,          type : IMP,                  tags :SQL",
+        "metadata": {
+            "question": "Write a SELECT query to display all columns from a table Student where the Age is greater than 20.",
+            "subject": "Database Management System",
+            "type": "IMP",
+            "unit": "2.SQL and PL/SQL",
+            "frequency": 1,
+            "tags": [
+                "SQL"
+            ]
+        }
+    },
+    {
+        "text": "Question : Explain the use of string functions in SQL with two examples.,          Subject : Database Management System,          type : IMP,                  tags :SQL",
+        "metadata": {
+            "question": "Explain the use of string functions in SQL with two examples.",
+            "subject": "Database Management System",
+            "type": "IMP",
+            "unit": "2.SQL and PL/SQL",
+            "frequency": 1,
+            "tags": [
+                "SQL"
+            ]
+        }
+    },
+    {
+        "text": "Question : Define a database trigger. Give one example scenario where it can be used.,          Subject : Database Management System,          type : IMP,                  tags :trigger",
+        "metadata": {
+            "question": "Define a database trigger. Give one example scenario where it can be used.",
+            "subject": "Database Management System",
+            "type": "IMP",
+            "unit": "2.SQL and PL/SQL",
+            "frequency": 1,
+            "tags": [
+                "trigger"
+            ]
+        }
+    },
+    {
+        "text": "Question : What is the difference between COMMIT and ROLLBACK in SQL?,          Subject : Database Management System,          type : IMP,                  tags :SQL",
+        "metadata": {
+            "question": "What is the difference between COMMIT and ROLLBACK in SQL?",
+            "subject": "Database Management System",
+            "type": "IMP",
+            "unit": "2.SQL and PL/SQL",
+            "frequency": 1,
+            "tags": [
+                "SQL"
+            ]
+        }
+    },
+    {
+        "text": "Question : Explain the use of JOIN queries in SQL. Write a query to display student names along with the course name they enrolled in using INNER JOIN.,          Subject : Database Management System,          type : IMP,                  tags :joins",
+        "metadata": {
+            "question": "Explain the use of JOIN queries in SQL. Write a query to display student names along with the course name they enrolled in using INNER JOIN.",
+            "subject": "Database Management System",
+            "type": "IMP",
+            "unit": "2.SQL and PL/SQL",
+            "frequency": 1,
+            "tags": [
+                "joins"
+            ]
+        }
+    },
+    {
+        "text": "Question : Define the relational model. Explain attributes and domains with examples.,          Subject : Database Management System,          type : IMP,                  tags :relational model",
+        "metadata": {
+            "question": "Define the relational model. Explain attributes and domains with examples.",
+            "subject": "Database Management System",
+            "type": "IMP",
+            "unit": "3.Relational Database Design",
+            "frequency": 1,
+            "tags": [
+                "relational model"
+            ]
+        }
+    },
+    {
+        "text": "Question : What are Codd's 12 rules? Explain any four briefly.,          Subject : Database Management System,          type : IMP,                  tags :rules",
+        "metadata": {
+            "question": "What are Codd's 12 rules? Explain any four briefly.",
+            "subject": "Database Management System",
+            "type": "IMP",
+            "unit": "3.Relational Database Design",
+            "frequency": 1,
+            "tags": [
+                "rules"
+            ]
+        }
+    },
+    {
+        "text": "Question : Define relational integrity constraints. Give examples of domain and key constraints.,          Subject : Database Management System,          type : IMP,                  tags :constraints",
+        "metadata": {
+            "question": "Define relational integrity constraints. Give examples of domain and key constraints.",
+            "subject": "Database Management System",
+            "type": "IMP",
+            "unit": "3.Relational Database Design",
+            "frequency": 1,
+            "tags": [
+                "constraints"
+            ]
+        }
+    },
+    {
+        "text": "Question : What is referential integrity? Give an example using two tables.,          Subject : Database Management System,          type : IMP,                  tags :integrity",
+        "metadata": {
+            "question": "What is referential integrity? Give an example using two tables.",
+            "subject": "Database Management System",
+            "type": "IMP",
+            "unit": "3.Relational Database Design",
+            "frequency": 1,
+            "tags": [
+                "integrity"
+            ]
+        }
+    },
+    {
+        "text": "Question : Explain the concept of first normal form (1NF) with an example.,          Subject : Database Management System,          type : IMP,                  tags :normalization",
+        "metadata": {
+            "question": "Explain the concept of first normal form (1NF) with an example.",
+            "subject": "Database Management System",
+            "type": "IMP",
+            "unit": "3.Relational Database Design",
+            "frequency": 1,
+            "tags": [
+                "normalization"
+            ]
+        }
+    },
+    {
+        "text": "Question : Explain functional dependency and its role in database design.,          Subject : Database Management System,          type : IMP,                  tags :FD",
+        "metadata": {
+            "question": "Explain functional dependency and its role in database design.",
+            "subject": "Database Management System",
+            "type": "IMP",
+            "unit": "3.Relational Database Design",
+            "frequency": 1,
+            "tags": [
+                "FD"
+            ]
+        }
+    },
+    {
+        "text": "Question : Explain set operations and laws with examples.,          Subject : Discrete Mathematics,          type : PYQ,                  tags :sets",
+        "metadata": {
+            "question": "Explain set operations and laws with examples.",
+            "subject": "Discrete Mathematics",
+            "type": "PYQ",
+            "years": [
+                2022,
+                2023,
+                2024,
+                2025
+            ],
+            "frequency": 6,
+            "tags": [
+                "sets"
+            ]
+        }
+    },
+    {
+        "text": "Question : Explain relations and their properties.,          Subject : Discrete Mathematics,          type : PYQ,                  tags :relations",
+        "metadata": {
+            "question": "Explain relations and their properties.",
+            "subject": "Discrete Mathematics",
+            "type": "PYQ",
+            "years": [
+                2022,
+                2023,
+                2024,
+                2025
+            ],
+            "frequency": 6,
+            "tags": [
+                "relations"
+            ]
+        }
+    },
+    {
+        "text": "Question : Explain functions and types of functions.,          Subject : Discrete Mathematics,          type : PYQ,                  tags :functions",
+        "metadata": {
+            "question": "Explain functions and types of functions.",
+            "subject": "Discrete Mathematics",
+            "type": "PYQ",
+            "years": [
+                2022,
+                2023,
+                2024
+            ],
+            "frequency": 4,
+            "tags": [
+                "functions"
+            ]
+        }
+    },
+    {
+        "text": "Question : Explain equivalence relation and partition.,          Subject : Discrete Mathematics,          type : PYQ,                  tags :equivalence",
+        "metadata": {
+            "question": "Explain equivalence relation and partition.",
+            "subject": "Discrete Mathematics",
+            "type": "PYQ",
+            "years": [
+                2023,
+                2024,
+                2025
+            ],
+            "frequency": 5,
+            "tags": [
+                "equivalence"
+            ]
+        }
+    },
+    {
+        "text": "Question : Explain poset and Hasse diagram.,          Subject : Discrete Mathematics,          type : PYQ,                  tags :poset",
+        "metadata": {
+            "question": "Explain poset and Hasse diagram.",
+            "subject": "Discrete Mathematics",
+            "type": "PYQ",
+            "years": [
+                2023,
+                2024,
+                2025
+            ],
+            "frequency": 5,
+            "tags": [
+                "poset"
+            ]
+        }
+    },
+    {
+        "text": "Question : Explain propositional logic and logical connectives.,          Subject : Discrete Mathematics,          type : PYQ,                  tags :logic",
+        "metadata": {
+            "question": "Explain propositional logic and logical connectives.",
+            "subject": "Discrete Mathematics",
+            "type": "PYQ",
+            "years": [
+                2022,
+                2023,
+                2024,
+                2025
+            ],
+            "frequency": 6,
+            "tags": [
+                "logic"
+            ]
+        }
+    },
+    {
+        "text": "Question : Construct truth tables and verify logical equivalence.,          Subject : Discrete Mathematics,          type : PYQ,                  tags :truth table",
+        "metadata": {
+            "question": "Construct truth tables and verify logical equivalence.",
+            "subject": "Discrete Mathematics",
+            "type": "PYQ",
+            "years": [
+                2022,
+                2023,
+                2024,
+                2025
+            ],
+            "frequency": 7,
+            "tags": [
+                "truth table"
+            ]
+        }
+    },
+    {
+        "text": "Question : Explain predicate logic and quantifiers.,          Subject : Discrete Mathematics,          type : PYQ,                  tags :predicate logic",
+        "metadata": {
+            "question": "Explain predicate logic and quantifiers.",
+            "subject": "Discrete Mathematics",
+            "type": "PYQ",
+            "years": [
+                2023,
+                2024,
+                2025
+            ],
+            "frequency": 5,
+            "tags": [
+                "predicate logic"
+            ]
+        }
+    },
+    {
+        "text": "Question : Explain normal forms (CNF and DNF).,          Subject : Discrete Mathematics,          type : PYQ,                  tags :normal forms",
+        "metadata": {
+            "question": "Explain normal forms (CNF and DNF).",
+            "subject": "Discrete Mathematics",
+            "type": "PYQ",
+            "years": [
+                2023,
+                2024,
+                2025
+            ],
+            "frequency": 5,
+            "tags": [
+                "normal forms"
+            ]
+        }
+    },
+    {
+        "text": "Question : Explain recurrence relations and solve them.,          Subject : Discrete Mathematics,          type : PYQ,                  tags :recurrence",
+        "metadata": {
+            "question": "Explain recurrence relations and solve them.",
+            "subject": "Discrete Mathematics",
+            "type": "PYQ",
+            "years": [
+                2023,
+                2024,
+                2025
+            ],
+            "frequency": 5,
+            "tags": [
+                "recurrence"
+            ]
+        }
+    },
+    {
+        "text": "Question : Explain generating functions.,          Subject : Discrete Mathematics,          type : PYQ,                  tags :generating function",
+        "metadata": {
+            "question": "Explain generating functions.",
+            "subject": "Discrete Mathematics",
+            "type": "PYQ",
+            "years": [
+                2024,
+                2025
+            ],
+            "frequency": 2,
+            "tags": [
+                "generating function"
+            ]
+        }
+    },
+    {
+        "text": "Question : Explain graph terminology and types of graphs.,          Subject : Discrete Mathematics,          type : PYQ,                  tags :graphs",
+        "metadata": {
+            "question": "Explain graph terminology and types of graphs.",
+            "subject": "Discrete Mathematics",
+            "type": "PYQ",
+            "years": [
+                2022,
+                2023,
+                2024,
+                2025
+            ],
+            "frequency": 6,
+            "tags": [
+                "graphs"
+            ]
+        }
+    },
+    {
+        "text": "Question : Explain tree and its properties.,          Subject : Discrete Mathematics,          type : PYQ,                  tags :trees",
+        "metadata": {
+            "question": "Explain tree and its properties.",
+            "subject": "Discrete Mathematics",
+            "type": "PYQ",
+            "years": [
+                2022,
+                2023,
+                2024,
+                2025
+            ],
+            "frequency": 6,
+            "tags": [
+                "trees"
+            ]
+        }
+    },
+    {
+        "text": "Question : Explain spanning tree and its properties.,          Subject : Discrete Mathematics,          type : PYQ,                  tags :spanning tree",
+        "metadata": {
+            "question": "Explain spanning tree and its properties.",
+            "subject": "Discrete Mathematics",
+            "type": "PYQ",
+            "years": [
+                2023,
+                2024,
+                2025
+            ],
+            "frequency": 4,
+            "tags": [
+                "spanning tree"
+            ]
+        }
+    },
+    {
+        "text": "Question : Explain graph traversal techniques (BFS and DFS).,          Subject : Discrete Mathematics,          type : PYQ,                  tags :BFS, DFS",
+        "metadata": {
+            "question": "Explain graph traversal techniques (BFS and DFS).",
+            "subject": "Discrete Mathematics",
+            "type": "PYQ",
+            "years": [
+                2023,
+                2024,
+                2025
+            ],
+            "frequency": 4,
+            "tags": [
+                "BFS",
+                "DFS"
+            ]
+        }
+    },
+    {
+        "text": "Question : Explain planar graphs and graph coloring.,          Subject : Discrete Mathematics,          type : PYQ,                  tags :planar graph",
+        "metadata": {
+            "question": "Explain planar graphs and graph coloring.",
+            "subject": "Discrete Mathematics",
+            "type": "PYQ",
+            "years": [
+                2024,
+                2025
+            ],
+            "frequency": 2,
+            "tags": [
+                "planar graph"
+            ]
+        }
+    },
+    {
+        "text": "Question : Explain combinatorics (permutations and combinations).,          Subject : Discrete Mathematics,          type : PYQ,                  tags :combinatorics",
+        "metadata": {
+            "question": "Explain combinatorics (permutations and combinations).",
+            "subject": "Discrete Mathematics",
+            "type": "PYQ",
+            "years": [
+                2022,
+                2023,
+                2024
+            ],
+            "frequency": 3,
+            "tags": [
+                "combinatorics"
+            ]
+        }
+    },
+    {
+        "text": "Question : Explain pigeonhole principle with examples.,          Subject : Discrete Mathematics,          type : PYQ,                  tags :pigeonhole",
+        "metadata": {
+            "question": "Explain pigeonhole principle with examples.",
+            "subject": "Discrete Mathematics",
+            "type": "PYQ",
+            "years": [
+                2023,
+                2024
+            ],
+            "frequency": 2,
+            "tags": [
+                "pigeonhole"
+            ]
+        }
+    },
+    {
+        "text": "Question : Explain mathematical induction with examples.,          Subject : Discrete Mathematics,          type : PYQ,                  tags :induction",
+        "metadata": {
+            "question": "Explain mathematical induction with examples.",
+            "subject": "Discrete Mathematics",
+            "type": "PYQ",
+            "years": [
+                2022,
+                2023
+            ],
+            "frequency": 2,
+            "tags": [
+                "induction"
+            ]
+        }
+    },
+    {
+        "text": "Question : Explain IoT design methodology with steps.,          Subject : Internet of Things and Embedded Systems,          type : PYQ,                  tags :IoT design",
+        "metadata": {
+            "question": "Explain IoT design methodology with steps.",
+            "subject": "Internet of Things and Embedded Systems",
+            "type": "PYQ",
+            "years": [
+                2023,
+                2024,
+                2025
+            ],
+            "frequency": 4,
+            "tags": [
+                "IoT design"
+            ]
+        }
+    },
+    {
+        "text": "Question : Explain IoT communication models.,          Subject : Internet of Things and Embedded Systems,          type : PYQ,                  tags :communication models",
+        "metadata": {
+            "question": "Explain IoT communication models.",
+            "subject": "Internet of Things and Embedded Systems",
+            "type": "PYQ",
+            "years": [
+                2023,
+                2024,
+                2025
+            ],
+            "frequency": 4,
+            "tags": [
+                "communication models"
+            ]
+        }
+    },
+    {
+        "text": "Question : Explain M2M communication.,          Subject : Internet of Things and Embedded Systems,          type : PYQ,                  tags :M2M",
+        "metadata": {
+            "question": "Explain M2M communication.",
+            "subject": "Internet of Things and Embedded Systems",
+            "type": "PYQ",
+            "years": [
+                2024,
+                2025
+            ],
+            "frequency": 2,
+            "tags": [
+                "M2M"
+            ]
+        }
+    },
+    {
+        "text": "Question : Explain RFID and its IoT applications.,          Subject : Internet of Things and Embedded Systems,          type : PYQ,                  tags :RFID",
+        "metadata": {
+            "question": "Explain RFID and its IoT applications.",
+            "subject": "Internet of Things and Embedded Systems",
+            "type": "PYQ",
+            "years": [
+                2023,
+                2024,
+                2025
+            ],
+            "frequency": 4,
+            "tags": [
+                "RFID"
+            ]
+        }
+    },
+    {
+        "text": "Question : Explain IoT communication protocols (MQTT, MODBUS, etc.).,          Subject : Internet of Things and Embedded Systems,          type : PYQ,                  tags :protocols",
+        "metadata": {
+            "question": "Explain IoT communication protocols (MQTT, MODBUS, etc.).",
+            "subject": "Internet of Things and Embedded Systems",
+            "type": "PYQ",
+            "years": [
+                2023,
+                2024,
+                2025
+            ],
+            "frequency": 6,
+            "tags": [
+                "protocols"
+            ]
+        }
+    },
+    {
+        "text": "Question : Explain 6LoWPAN and IoT standardization.,          Subject : Internet of Things and Embedded Systems,          type : PYQ,                  tags :6LoWPAN",
+        "metadata": {
+            "question": "Explain 6LoWPAN and IoT standardization.",
+            "subject": "Internet of Things and Embedded Systems",
+            "type": "PYQ",
+            "years": [
+                2024
+            ],
+            "frequency": 1,
+            "tags": [
+                "6LoWPAN"
+            ]
+        }
+    },
+    {
+        "text": "Question : Explain SCADA protocol and its role in IoT.,          Subject : Internet of Things and Embedded Systems,          type : PYQ,                  tags :SCADA",
+        "metadata": {
+            "question": "Explain SCADA protocol and its role in IoT.",
+            "subject": "Internet of Things and Embedded Systems",
+            "type": "PYQ",
+            "years": [
+                2024,
+                2025
+            ],
+            "frequency": 3,
+            "tags": [
+                "SCADA"
+            ]
+        }
+    },
+    {
+        "text": "Question : Explain LoRa and its use in IoT applications.,          Subject : Internet of Things and Embedded Systems,          type : PYQ,                  tags :LoRa",
+        "metadata": {
+            "question": "Explain LoRa and its use in IoT applications.",
+            "subject": "Internet of Things and Embedded Systems",
+            "type": "PYQ",
+            "years": [
+                2023,
+                2024
+            ],
+            "frequency": 2,
+            "tags": [
+                "LoRa"
+            ]
+        }
+    },
+    {
+        "text": "Question : Explain ZigBee and compare with Wi-Fi and Bluetooth.,          Subject : Internet of Things and Embedded Systems,          type : PYQ,                  tags :ZigBee",
+        "metadata": {
+            "question": "Explain ZigBee and compare with Wi-Fi and Bluetooth.",
+            "subject": "Internet of Things and Embedded Systems",
+            "type": "PYQ",
+            "years": [
+                2024,
+                2025
+            ],
+            "frequency": 2,
+            "tags": [
+                "ZigBee"
+            ]
+        }
+    },
+    {
+        "text": "Question : Explain IoT applications (smart irrigation, home automation, etc.).,          Subject : Internet of Things and Embedded Systems,          type : PYQ,                  tags :applications",
+        "metadata": {
+            "question": "Explain IoT applications (smart irrigation, home automation, etc.).",
+            "subject": "Internet of Things and Embedded Systems",
+            "type": "PYQ",
+            "years": [
+                2023,
+                2024,
+                2025
+            ],
+            "frequency": 6,
+            "tags": [
+                "applications"
+            ]
+        }
+    },
+    {
+        "text": "Question : Explain IoT architecture and generic block diagram.,          Subject : Internet of Things and Embedded Systems,          type : PYQ,                  tags :architecture",
+        "metadata": {
+            "question": "Explain IoT architecture and generic block diagram.",
+            "subject": "Internet of Things and Embedded Systems",
+            "type": "PYQ",
+            "years": [
+                2023,
+                2024
+            ],
+            "frequency": 3,
+            "tags": [
+                "architecture"
+            ]
+        }
+    },
+    {
+        "text": "Question : Explain pillars of IoT.,          Subject : Internet of Things and Embedded Systems,          type : PYQ,                  tags :basics",
+        "metadata": {
+            "question": "Explain pillars of IoT.",
+            "subject": "Internet of Things and Embedded Systems",
+            "type": "PYQ",
+            "years": [
+                2023
+            ],
+            "frequency": 1,
+            "tags": [
+                "basics"
+            ]
+        }
+    },
+    {
+        "text": "Question : Explain connectivity technologies in IoT.,          Subject : Internet of Things and Embedded Systems,          type : PYQ,                  tags :connectivity",
+        "metadata": {
+            "question": "Explain connectivity technologies in IoT.",
+            "subject": "Internet of Things and Embedded Systems",
+            "type": "PYQ",
+            "years": [
+                2023,
+                2025
+            ],
+            "frequency": 2,
+            "tags": [
+                "connectivity"
+            ]
+        }
+    },
+    {
+        "text": "Question : Explain cloud computing as IoT enabling technology.,          Subject : Internet of Things and Embedded Systems,          type : PYQ,                  tags :cloud",
+        "metadata": {
+            "question": "Explain cloud computing as IoT enabling technology.",
+            "subject": "Internet of Things and Embedded Systems",
+            "type": "PYQ",
+            "years": [
+                2023,
+                2024,
+                2025
+            ],
+            "frequency": 4,
+            "tags": [
+                "cloud"
+            ]
+        }
+    },
+    {
+        "text": "Question : Explain SDN architecture.,          Subject : Internet of Things and Embedded Systems,          type : PYQ,                  tags :SDN",
+        "metadata": {
+            "question": "Explain SDN architecture.",
+            "subject": "Internet of Things and Embedded Systems",
+            "type": "PYQ",
+            "years": [
+                2024
+            ],
+            "frequency": 1,
+            "tags": [
+                "SDN"
+            ]
+        }
+    },
+    {
+        "text": "Question : Explain Django framework for IoT applications.,          Subject : Internet of Things and Embedded Systems,          type : PYQ,                  tags :Django",
+        "metadata": {
+            "question": "Explain Django framework for IoT applications.",
+            "subject": "Internet of Things and Embedded Systems",
+            "type": "PYQ",
+            "years": [
+                2024,
+                2025
+            ],
+            "frequency": 2,
+            "tags": [
+                "Django"
+            ]
+        }
+    },
+    {
+        "text": "Question : Explain Amazon cloud services for IoT.,          Subject : Internet of Things and Embedded Systems,          type : PYQ,                  tags :AWS",
+        "metadata": {
+            "question": "Explain Amazon cloud services for IoT.",
+            "subject": "Internet of Things and Embedded Systems",
+            "type": "PYQ",
+            "years": [
+                2024,
+                2025
+            ],
+            "frequency": 2,
+            "tags": [
+                "AWS"
+            ]
+        }
+    },
+    {
+        "text": "Question : Explain IoT security, vulnerabilities and threats.,          Subject : Internet of Things and Embedded Systems,          type : PYQ,                  tags :security",
+        "metadata": {
+            "question": "Explain IoT security, vulnerabilities and threats.",
+            "subject": "Internet of Things and Embedded Systems",
+            "type": "PYQ",
+            "years": [
+                2023,
+                2024,
+                2025
+            ],
+            "frequency": 6,
+            "tags": [
+                "security"
+            ]
+        }
+    },
+    {
+        "text": "Question : Explain threat modeling and security requirements in IoT.,          Subject : Internet of Things and Embedded Systems,          type : PYQ,                  tags :security",
+        "metadata": {
+            "question": "Explain threat modeling and security requirements in IoT.",
+            "subject": "Internet of Things and Embedded Systems",
+            "type": "PYQ",
+            "years": [
+                2024,
+                2025
+            ],
+            "frequency": 3,
+            "tags": [
+                "security"
+            ]
+        }
+    },
+    {
+        "text": "Question : Explain challenges in designing IoT applications.,          Subject : Internet of Things and Embedded Systems,          type : PYQ,                  tags :challenges",
+        "metadata": {
+            "question": "Explain challenges in designing IoT applications.",
+            "subject": "Internet of Things and Embedded Systems",
+            "type": "PYQ",
+            "years": [
+                2023,
+                2024,
+                2025
+            ],
+            "frequency": 4,
+            "tags": [
+                "challenges"
+            ]
+        }
+    },
+    {
+        "text": "Question : Explain embedded system concepts and characteristics.,          Subject : Internet of Things and Embedded Systems,          type : PYQ,                  tags :embedded systems",
+        "metadata": {
+            "question": "Explain embedded system concepts and characteristics.",
+            "subject": "Internet of Things and Embedded Systems",
+            "type": "PYQ",
+            "years": [
+                2023,
+                2024
+            ],
+            "frequency": 3,
+            "tags": [
+                "embedded systems"
+            ]
+        }
+    },
+    {
+        "text": "Question : Explain real-time systems and types.,          Subject : Internet of Things and Embedded Systems,          type : PYQ,                  tags :real-time",
+        "metadata": {
+            "question": "Explain real-time systems and types.",
+            "subject": "Internet of Things and Embedded Systems",
+            "type": "PYQ",
+            "years": [
+                2023,
+                2024
+            ],
+            "frequency": 2,
+            "tags": [
+                "real-time"
+            ]
+        }
+    },
+    {
+        "text": "Question : Explain System on Chip (SoC).,          Subject : Internet of Things and Embedded Systems,          type : PYQ,                  tags :SoC",
+        "metadata": {
+            "question": "Explain System on Chip (SoC).",
+            "subject": "Internet of Things and Embedded Systems",
+            "type": "PYQ",
+            "years": [
+                2024
+            ],
+            "frequency": 1,
+            "tags": [
+                "SoC"
+            ]
+        }
+    },
+    {
+        "text": "Question : Explain IoT levels and deployment models.,          Subject : Internet of Things and Embedded Systems,          type : PYQ,                  tags :IoT levels",
+        "metadata": {
+            "question": "Explain IoT levels and deployment models.",
+            "subject": "Internet of Things and Embedded Systems",
+            "type": "PYQ",
+            "years": [
+                2023,
+                2024
+            ],
+            "frequency": 2,
+            "tags": [
+                "IoT levels"
+            ]
+        }
+    },
+    {
+        "text": "Question : Explain publish-subscribe communication model.,          Subject : Internet of Things and Embedded Systems,          type : PYQ,                  tags :communication",
+        "metadata": {
+            "question": "Explain publish-subscribe communication model.",
+            "subject": "Internet of Things and Embedded Systems",
+            "type": "PYQ",
+            "years": [
+                2023,
+                2024
+            ],
+            "frequency": 2,
+            "tags": [
+                "communication"
+            ]
+        }
+    },
+    {
+        "text": "Question : Explain organizational structures and their characteristics.,          Subject : Project Management,          type : PYQ,                  tags :organization",
+        "metadata": {
+            "question": "Explain organizational structures and their characteristics.",
+            "subject": "Project Management",
+            "type": "PYQ",
+            "years": [
+                2022,
+                2023,
+                2024,
+                2025
+            ],
+            "frequency": 7,
+            "tags": [
+                "organization"
+            ]
+        }
+    },
+    {
+        "text": "Question : Explain team management and roles/responsibilities of project team members.,          Subject : Project Management,          type : PYQ,                  tags :team management",
+        "metadata": {
+            "question": "Explain team management and roles/responsibilities of project team members.",
+            "subject": "Project Management",
+            "type": "PYQ",
+            "years": [
+                2022,
+                2023,
+                2024
+            ],
+            "frequency": 6,
+            "tags": [
+                "team management"
+            ]
+        }
+    },
+    {
+        "text": "Question : Explain leadership styles and diversity management.,          Subject : Project Management,          type : PYQ,                  tags :leadership",
+        "metadata": {
+            "question": "Explain leadership styles and diversity management.",
+            "subject": "Project Management",
+            "type": "PYQ",
+            "years": [
+                2023,
+                2024,
+                2025
+            ],
+            "frequency": 5,
+            "tags": [
+                "leadership"
+            ]
+        }
+    },
+    {
+        "text": "Question : Explain PERT technique with example.,          Subject : Project Management,          type : PYQ,                  tags :PERT",
+        "metadata": {
+            "question": "Explain PERT technique with example.",
+            "subject": "Project Management",
+            "type": "PYQ",
+            "years": [
+                2023,
+                2024,
+                2025
+            ],
+            "frequency": 6,
+            "tags": [
+                "PERT"
+            ]
+        }
+    },
+    {
+        "text": "Question : Explain CPM (Critical Path Method) and critical path determination.,          Subject : Project Management,          type : PYQ,                  tags :CPM",
+        "metadata": {
+            "question": "Explain CPM (Critical Path Method) and critical path determination.",
+            "subject": "Project Management",
+            "type": "PYQ",
+            "years": [
+                2023,
+                2024,
+                2025
+            ],
+            "frequency": 6,
+            "tags": [
+                "CPM"
+            ]
+        }
+    },
+    {
+        "text": "Question : Construct network diagram and calculate ES, EF, LS, LF and critical path.,          Subject : Project Management,          type : PYQ,                  tags :network diagram",
+        "metadata": {
+            "question": "Construct network diagram and calculate ES, EF, LS, LF and critical path.",
+            "subject": "Project Management",
+            "type": "PYQ",
+            "years": [
+                2023,
+                2024,
+                2025
+            ],
+            "frequency": 7,
+            "tags": [
+                "network diagram"
+            ]
+        }
+    },
+    {
+        "text": "Question : Explain AOA and AON networks with comparison.,          Subject : Project Management,          type : PYQ,                  tags :AOA, AON",
+        "metadata": {
+            "question": "Explain AOA and AON networks with comparison.",
+            "subject": "Project Management",
+            "type": "PYQ",
+            "years": [
+                2022,
+                2023,
+                2024
+            ],
+            "frequency": 5,
+            "tags": [
+                "AOA",
+                "AON"
+            ]
+        }
+    },
+    {
+        "text": "Question : Explain Gantt chart and project scheduling techniques.,          Subject : Project Management,          type : PYQ,                  tags :Gantt chart",
+        "metadata": {
+            "question": "Explain Gantt chart and project scheduling techniques.",
+            "subject": "Project Management",
+            "type": "PYQ",
+            "years": [
+                2022,
+                2023,
+                2024
+            ],
+            "frequency": 4,
+            "tags": [
+                "Gantt chart"
+            ]
+        }
+    },
+    {
+        "text": "Question : Explain resource allocation in project management.,          Subject : Project Management,          type : PYQ,                  tags :resource",
+        "metadata": {
+            "question": "Explain resource allocation in project management.",
+            "subject": "Project Management",
+            "type": "PYQ",
+            "years": [
+                2023,
+                2024,
+                2025
+            ],
+            "frequency": 5,
+            "tags": [
+                "resource"
+            ]
+        }
+    },
+    {
+        "text": "Question : Explain risk management process.,          Subject : Project Management,          type : PYQ,                  tags :risk",
+        "metadata": {
+            "question": "Explain risk management process.",
+            "subject": "Project Management",
+            "type": "PYQ",
+            "years": [
+                2022,
+                2023,
+                2024,
+                2025
+            ],
+            "frequency": 7,
+            "tags": [
+                "risk"
+            ]
+        }
+    },
+    {
+        "text": "Question : Explain risk analysis and types of risks.,          Subject : Project Management,          type : PYQ,                  tags :risk analysis",
+        "metadata": {
+            "question": "Explain risk analysis and types of risks.",
+            "subject": "Project Management",
+            "type": "PYQ",
+            "years": [
+                2022,
+                2023,
+                2024,
+                2025
+            ],
+            "frequency": 6,
+            "tags": [
+                "risk analysis"
+            ]
+        }
+    },
+    {
+        "text": "Question : Explain project financial management and financial analysis.,          Subject : Project Management,          type : PYQ,                  tags :finance",
+        "metadata": {
+            "question": "Explain project financial management and financial analysis.",
+            "subject": "Project Management",
+            "type": "PYQ",
+            "years": [
+                2022,
+                2023,
+                2024,
+                2025
+            ],
+            "frequency": 6,
+            "tags": [
+                "finance"
+            ]
+        }
+    },
+    {
+        "text": "Question : Explain break-even analysis with example.,          Subject : Project Management,          type : PYQ,                  tags :break-even",
+        "metadata": {
+            "question": "Explain break-even analysis with example.",
+            "subject": "Project Management",
+            "type": "PYQ",
+            "years": [
+                2022,
+                2023,
+                2024
+            ],
+            "frequency": 4,
+            "tags": [
+                "break-even"
+            ]
+        }
+    },
+    {
+        "text": "Question : Explain project cost estimation and budgeting.,          Subject : Project Management,          type : PYQ,                  tags :cost",
+        "metadata": {
+            "question": "Explain project cost estimation and budgeting.",
+            "subject": "Project Management",
+            "type": "PYQ",
+            "years": [
+                2023,
+                2024,
+                2025
+            ],
+            "frequency": 5,
+            "tags": [
+                "cost"
+            ]
+        }
+    },
+    {
+        "text": "Question : Explain product development process.,          Subject : Project Management,          type : PYQ,                  tags :product development",
+        "metadata": {
+            "question": "Explain product development process.",
+            "subject": "Project Management",
+            "type": "PYQ",
+            "years": [
+                2022,
+                2023,
+                2024,
+                2025
+            ],
+            "frequency": 7,
+            "tags": [
+                "product development"
+            ]
+        }
+    },
+    {
+        "text": "Question : Explain entrepreneurship and characteristics of successful entrepreneur.,          Subject : Project Management,          type : PYQ,                  tags :entrepreneurship",
+        "metadata": {
+            "question": "Explain entrepreneurship and characteristics of successful entrepreneur.",
+            "subject": "Project Management",
+            "type": "PYQ",
+            "years": [
+                2022,
+                2023,
+                2024,
+                2025
+            ],
+            "frequency": 7,
+            "tags": [
+                "entrepreneurship"
+            ]
+        }
+    },
+    {
+        "text": "Question : Explain legal aspects (patent, copyright, trademark, licensing).,          Subject : Project Management,          type : PYQ,                  tags :legal",
+        "metadata": {
+            "question": "Explain legal aspects (patent, copyright, trademark, licensing).",
+            "subject": "Project Management",
+            "type": "PYQ",
+            "years": [
+                2022,
+                2023,
+                2024,
+                2025
+            ],
+            "frequency": 6,
+            "tags": [
+                "legal"
+            ]
+        }
+    },
+    {
+        "text": "Question : Explain customer needs in product development.,          Subject : Project Management,          type : PYQ,                  tags :customer needs",
+        "metadata": {
+            "question": "Explain customer needs in product development.",
+            "subject": "Project Management",
+            "type": "PYQ",
+            "years": [
+                2023,
+                2024
+            ],
+            "frequency": 3,
+            "tags": [
+                "customer needs"
+            ]
+        }
+    },
+    {
+        "text": "Question : Explain project life cycle and phases.,          Subject : Project Management,          type : PYQ,                  tags :life cycle",
+        "metadata": {
+            "question": "Explain project life cycle and phases.",
+            "subject": "Project Management",
+            "type": "PYQ",
+            "years": [
+                2024
+            ],
+            "frequency": 1,
+            "tags": [
+                "life cycle"
+            ]
+        }
+    },
+    {
+        "text": "Question : Explain work breakdown structure (WBS).,          Subject : Project Management,          type : PYQ,                  tags :WBS",
+        "metadata": {
+            "question": "Explain work breakdown structure (WBS).",
+            "subject": "Project Management",
+            "type": "PYQ",
+            "years": [
+                2024
+            ],
+            "frequency": 1,
+            "tags": [
+                "WBS"
+            ]
+        }
+    },
+    {
+        "text": "Question : Explain project planning and methods.,          Subject : Project Management,          type : PYQ,                  tags :planning",
+        "metadata": {
+            "question": "Explain project planning and methods.",
+            "subject": "Project Management",
+            "type": "PYQ",
+            "years": [
+                2022,
+                2023
+            ],
+            "frequency": 2,
+            "tags": [
+                "planning"
+            ]
+        }
+    },
+    {
+        "text": "Question : Explain conflict management and resolution strategies.,          Subject : Project Management,          type : PYQ,                  tags :conflict",
+        "metadata": {
+            "question": "Explain conflict management and resolution strategies.",
+            "subject": "Project Management",
+            "type": "PYQ",
+            "years": [
+                2023,
+                2025
+            ],
+            "frequency": 3,
+            "tags": [
+                "conflict"
+            ]
+        }
+    },
+    {
+        "text": "Question : Explain project management tools (JIRA, Trello).,          Subject : Project Management,          type : PYQ,                  tags :tools",
+        "metadata": {
+            "question": "Explain project management tools (JIRA, Trello).",
+            "subject": "Project Management",
+            "type": "PYQ",
+            "years": [
+                2023,
+                2024,
+                2025
+            ],
+            "frequency": 4,
+            "tags": [
+                "tools"
+            ]
+        }
+    },
+    {
+        "text": "Computer Organization and Microprocessor - Unit 1 : Computer Evolution and Performance  include topics : History of Computers, Von Neumann Architecture, Harvard Architecture, Performance Design, Evolution of Intel Processors (4-bit to 64-bit), Performance Assessment, Computer Functions and Interconnection, Computer Components, Bus Interconnection, Arithmetic Logic Unit (ALU), Signed Number Addition and Subtraction, Adder Design, Fast Adder, Carry Look Ahead Adder, Binary Multiplication, Signed Multiplication, Booth's Algorithm",
+        "metadata": {
+            "unit": "Unit 1",
+            "subject": "Computer Organization and Microprocessor",
+            "title": "Computer Evolution and Performance",
+            "type": "SYLLABUS",
+            "topics": [
+                "History of Computers",
+                "Von Neumann Architecture",
+                "Harvard Architecture",
+                "Performance Design",
+                "Evolution of Intel Processors (4-bit to 64-bit)",
+                "Performance Assessment",
+                "Computer Functions and Interconnection",
+                "Computer Components",
+                "Bus Interconnection",
+                "Arithmetic Logic Unit (ALU)",
+                "Signed Number Addition and Subtraction",
+                "Adder Design",
+                "Fast Adder",
+                "Carry Look Ahead Adder",
+                "Binary Multiplication",
+                "Signed Multiplication",
+                "Booth's Algorithm"
+            ]
+        }
+    },
+    {
+        "text": "Computer Organization and Microprocessor - Unit 2 : Memory Management  include topics : Memory System Characteristics, Memory Hierarchy, Cache Memory Principles, Cache Design Elements, Cache Addressing, Cache Size, Mapping Techniques, Replacement Algorithms, Write Policies, Cache Line Size, Single Level Cache, Two Level Cache, Cache Performance and Locality, Semiconductor Memory, DRAM Organization, Hard Disk Organization, RAID Levels (1 to 6)",
+        "metadata": {
+            "unit": "Unit 2",
+            "subject": "Computer Organization and Microprocessor",
+            "title": "Memory Management",
+            "type": "SYLLABUS",
+            "topics": [
+                "Memory System Characteristics",
+                "Memory Hierarchy",
+                "Cache Memory Principles",
+                "Cache Design Elements",
+                "Cache Addressing",
+                "Cache Size",
+                "Mapping Techniques",
+                "Replacement Algorithms",
+                "Write Policies",
+                "Cache Line Size",
+                "Single Level Cache",
+                "Two Level Cache",
+                "Cache Performance and Locality",
+                "Semiconductor Memory",
+                "DRAM Organization",
+                "Hard Disk Organization",
+                "RAID Levels (1 to 6)"
+            ]
+        }
+    },
+    {
+        "text": "Computer Organization and Microprocessor - Unit 3 : 8086 Microprocessor  include topics : Introduction to 8086, 16-bit Microprocessor, 8086 Architecture, Pin Diagram of 8086, Registers of 8086, Immediate Addressing, Register Addressing, Direct Addressing, Indirect Addressing, Indexed Addressing, Based Addressing, Based Indexed Addressing, Data Movement Instructions, Arithmetic Instructions, Logical Instructions, Control Transfer Instructions, String Instructions, Input Output Instructions, Flag Control Instructions, Process Control Instructions",
+        "metadata": {
+            "unit": "Unit 3",
+            "subject": "Computer Organization and Microprocessor",
+            "title": "8086 Microprocessor",
+            "type": "SYLLABUS",
+            "topics": [
+                "Introduction to 8086",
+                "16-bit Microprocessor",
+                "8086 Architecture",
+                "Pin Diagram of 8086",
+                "Registers of 8086",
+                "Immediate Addressing",
+                "Register Addressing",
+                "Direct Addressing",
+                "Indirect Addressing",
+                "Indexed Addressing",
+                "Based Addressing",
+                "Based Indexed Addressing",
+                "Data Movement Instructions",
+                "Arithmetic Instructions",
+                "Logical Instructions",
+                "Control Transfer Instructions",
+                "String Instructions",
+                "Input Output Instructions",
+                "Flag Control Instructions",
+                "Process Control Instructions"
+            ]
+        }
+    },
+    {
+        "text": "Computer Organization and Microprocessor - Unit 4 : Memory Organization and Interrupts  include topics : Memory Segmentation, Logical to Physical Address Translation, Even and Odd Memory Banks, Read Write Cycle Timing, Address Mapping, Memory Decoding, Memory Mapped I/O, I/O Mapped I/O, Interrupts, Interrupt Control Registers, Status Registers, Interrupt Vector Table (IVT), Interrupt Service Routine (ISR), Hardware Interrupts, Software Interrupts, 8259 Interrupt Controller, 8259 Features, 8259 Block Diagram",
+        "metadata": {
+            "unit": "Unit 4",
+            "subject": "Computer Organization and Microprocessor",
+            "title": "Memory Organization and Interrupts",
+            "type": "SYLLABUS",
+            "topics": [
+                "Memory Segmentation",
+                "Logical to Physical Address Translation",
+                "Even and Odd Memory Banks",
+                "Read Write Cycle Timing",
+                "Address Mapping",
+                "Memory Decoding",
+                "Memory Mapped I/O",
+                "I/O Mapped I/O",
+                "Interrupts",
+                "Interrupt Control Registers",
+                "Status Registers",
+                "Interrupt Vector Table (IVT)",
+                "Interrupt Service Routine (ISR)",
+                "Hardware Interrupts",
+                "Software Interrupts",
+                "8259 Interrupt Controller",
+                "8259 Features",
+                "8259 Block Diagram"
+            ]
+        }
+    },
+    {
+        "text": "Computer Organization and Microprocessor - Unit 5 : Parallel Organization  include topics : Multiprocessors, Clusters, Flynn's Taxonomy, Closely Coupled Systems, Loosely Coupled Systems, Symmetric Multiprocessing (SMP), Uniform Memory Access (UMA), Non-Uniform Memory Access (NUMA), RISC Architecture, Instruction Execution Characteristics, Register Optimization, Pipelining, RISC vs CISC",
+        "metadata": {
+            "unit": "Unit 5",
+            "subject": "Computer Organization and Microprocessor",
+            "title": "Parallel Organization",
+            "type": "SYLLABUS",
+            "topics": [
+                "Multiprocessors",
+                "Clusters",
+                "Flynn's Taxonomy",
+                "Closely Coupled Systems",
+                "Loosely Coupled Systems",
+                "Symmetric Multiprocessing (SMP)",
+                "Uniform Memory Access (UMA)",
+                "Non-Uniform Memory Access (NUMA)",
+                "RISC Architecture",
+                "Instruction Execution Characteristics",
+                "Register Optimization",
+                "Pipelining",
+                "RISC vs CISC"
+            ]
+        }
+    },
+    {
+        "text": "DBMS - Unit 1 : Introduction to Database Management System  include topics : Introduction to DBMS, Purpose of Database Systems, Database System Applications, View of Data, Database Languages, Database System Structure, Enterprise Constraints, Data Models, Entity, Attributes, Relationships, Constraints, Keys, Design Process, Entity Relationship Model, ER Diagram, Design Issues, Extended ER Features, Conversion of ER and EER diagrams into tables",
+        "metadata": {
+            "unit": "Unit 1",
+            "subject": "DBMS",
+            "title": "Introduction to Database Management System",
+            "type": "SYLLABUS",
+            "topics": [
+                "Introduction to DBMS",
+                "Purpose of Database Systems",
+                "Database System Applications",
+                "View of Data",
+                "Database Languages",
+                "Database System Structure",
+                "Enterprise Constraints",
+                "Data Models",
+                "Entity",
+                "Attributes",
+                "Relationships",
+                "Constraints",
+                "Keys",
+                "Design Process",
+                "Entity Relationship Model",
+                "ER Diagram",
+                "Design Issues",
+                "Extended ER Features",
+                "Conversion of ER and EER diagrams into tables"
+            ]
+        }
+    },
+    {
+        "text": "DBMS - Unit 2 : SQL and PL/SQL  include topics : DDL, DML, Select Queries, String Functions, Date Functions, Numerical Functions, Aggregate Functions, Views, Indexes, Group By Clause, Having Clause, Join Queries, Set Operations, Set Membership, Nested Queries, DCL, TCL, Control Statements, Cursor, Stored Procedures, Functions, Triggers",
+        "metadata": {
+            "unit": "Unit 2",
+            "subject": "DBMS",
+            "title": "SQL and PL/SQL",
+            "type": "SYLLABUS",
+            "topics": [
+                "DDL",
+                "DML",
+                "Select Queries",
+                "String Functions",
+                "Date Functions",
+                "Numerical Functions",
+                "Aggregate Functions",
+                "Views",
+                "Indexes",
+                "Group By Clause",
+                "Having Clause",
+                "Join Queries",
+                "Set Operations",
+                "Set Membership",
+                "Nested Queries",
+                "DCL",
+                "TCL",
+                "Control Statements",
+                "Cursor",
+                "Stored Procedures",
+                "Functions",
+                "Triggers"
+            ]
+        }
+    },
+    {
+        "text": "DBMS - Unit 3 : Relational Database Design  include topics : Relational Model, Attributes and Domains, Codd's Rules, Relational Integrity, Referential Integrity, Features of Good Relational Design, Normalization, Atomic Domains, First Normal Form (1NF), Functional Dependencies, Second Normal Form (2NF), Third Normal Form (3NF), Boyce-Codd Normal Form (BCNF)",
+        "metadata": {
+            "unit": "Unit 3",
+            "subject": "DBMS",
+            "title": "Relational Database Design",
+            "type": "SYLLABUS",
+            "topics": [
+                "Relational Model",
+                "Attributes and Domains",
+                "Codd's Rules",
+                "Relational Integrity",
+                "Referential Integrity",
+                "Features of Good Relational Design",
+                "Normalization",
+                "Atomic Domains",
+                "First Normal Form (1NF)",
+                "Functional Dependencies",
+                "Second Normal Form (2NF)",
+                "Third Normal Form (3NF)",
+                "Boyce-Codd Normal Form (BCNF)"
+            ]
+        }
+    },
+    {
+        "text": "DBMS - Unit 4 : Database Transactions  include topics : Transaction Basics, Transaction Management, ACID Properties, Schedules, Serial Schedule, Serializability (Conflict and View), Cascaded Aborts, Recoverable Schedules, Non-recoverable Schedules, Concurrency Control, Locking Methods",
+        "metadata": {
+            "unit": "Unit 4",
+            "subject": "DBMS",
+            "title": "Database Transactions",
+            "type": "SYLLABUS",
+            "topics": [
+                "Transaction Basics",
+                "Transaction Management",
+                "ACID Properties",
+                "Schedules",
+                "Serial Schedule",
+                "Serializability (Conflict and View)",
+                "Cascaded Aborts",
+                "Recoverable Schedules",
+                "Non-recoverable Schedules",
+                "Concurrency Control",
+                "Locking Methods"
+            ]
+        }
+    },
+    {
+        "text": "DBMS - Unit 5 : NoSQL Database  include topics : Introduction to NoSQL, NoSQL Data Models, CAP Theorem, BASE Properties, SQL vs NoSQL Comparison, MongoDB, CRUD Operations, Indexing, Aggregation",
+        "metadata": {
+            "unit": "Unit 5",
+            "subject": "DBMS",
+            "title": "NoSQL Database",
+            "type": "SYLLABUS",
+            "topics": [
+                "Introduction to NoSQL",
+                "NoSQL Data Models",
+                "CAP Theorem",
+                "BASE Properties",
+                "SQL vs NoSQL Comparison",
+                "MongoDB",
+                "CRUD Operations",
+                "Indexing",
+                "Aggregation"
+            ]
+        }
+    },
+    {
+        "text": "Discrete Mathematics - Unit 1 : Set and Propositions  include topics : Introduction to Discrete Mathematics, Significance of Discrete Mathematics, Propositional Logic, Logical Statements, Propositional Equivalences, Translating English Sentences to Logic, Mathematical Induction, Strong Mathematical Induction, Naive Set Theory, Cantorian Set Theory, Axiomatic Set Theory, Set Operations, Cardinality of Sets, Inclusion Exclusion Principle, Bounded and Unbounded Sets, Diagonalization Argument, Countable Sets, Uncountable Sets, Finite and Infinite Sets, Countably Infinite Sets, Uncountably Infinite Sets, Power Set",
+        "metadata": {
+            "unit": "Unit 1",
+            "subject": "Discrete Mathematics",
+            "title": "Set and Propositions",
+            "type": "SYLLABUS",
+            "topics": [
+                "Introduction to Discrete Mathematics",
+                "Significance of Discrete Mathematics",
+                "Propositional Logic",
+                "Logical Statements",
+                "Propositional Equivalences",
+                "Translating English Sentences to Logic",
+                "Mathematical Induction",
+                "Strong Mathematical Induction",
+                "Naive Set Theory",
+                "Cantorian Set Theory",
+                "Axiomatic Set Theory",
+                "Set Operations",
+                "Cardinality of Sets",
+                "Inclusion Exclusion Principle",
+                "Bounded and Unbounded Sets",
+                "Diagonalization Argument",
+                "Countable Sets",
+                "Uncountable Sets",
+                "Finite and Infinite Sets",
+                "Countably Infinite Sets",
+                "Uncountably Infinite Sets",
+                "Power Set"
+            ]
+        }
+    },
+    {
+        "text": "Discrete Mathematics - Unit 2 : Relations and Functions  include topics : Relations, Properties of Relations, Matrix Representation of Relations, Digraph Representation, Equivalence Relations, Partial Order Relations, Partitions, Hasse Diagram, Lattices, Chains and Antichains, Transitive Closure, Warshall Algorithm, Functions, Injective Functions, Surjective Functions, Bijective Functions, Function Composition, Inverse Functions, Recursive Functions, Counting Functions, Growth of Functions",
+        "metadata": {
+            "unit": "Unit 2",
+            "subject": "Discrete Mathematics",
+            "title": "Relations and Functions",
+            "type": "SYLLABUS",
+            "topics": [
+                "Relations",
+                "Properties of Relations",
+                "Matrix Representation of Relations",
+                "Digraph Representation",
+                "Equivalence Relations",
+                "Partial Order Relations",
+                "Partitions",
+                "Hasse Diagram",
+                "Lattices",
+                "Chains and Antichains",
+                "Transitive Closure",
+                "Warshall Algorithm",
+                "Functions",
+                "Injective Functions",
+                "Surjective Functions",
+                "Bijective Functions",
+                "Function Composition",
+                "Inverse Functions",
+                "Recursive Functions",
+                "Counting Functions",
+                "Growth of Functions"
+            ]
+        }
+    },
+    {
+        "text": "Discrete Mathematics - Unit 3 : Trees  include topics : Introduction to Trees, Properties of Trees, Decision Trees, Prefix Codes, Huffman Coding, Tree Applications in File Systems, Cut Sets, Max Flow Min Cut Theorem, Minimum Spanning Tree, Prim's Algorithm, Kruskal's Algorithm",
+        "metadata": {
+            "unit": "Unit 3",
+            "subject": "Discrete Mathematics",
+            "title": "Trees",
+            "type": "SYLLABUS",
+            "topics": [
+                "Introduction to Trees",
+                "Properties of Trees",
+                "Decision Trees",
+                "Prefix Codes",
+                "Huffman Coding",
+                "Tree Applications in File Systems",
+                "Cut Sets",
+                "Max Flow Min Cut Theorem",
+                "Minimum Spanning Tree",
+                "Prim's Algorithm",
+                "Kruskal's Algorithm"
+            ]
+        }
+    },
+    {
+        "text": "Discrete Mathematics - Unit 4 : Graph Theory  include topics : Graph Terminology, Types of Graphs, Graph Representation, Graph Isomorphism, Graph Connectivity, Euler Paths, Hamiltonian Paths, Handshaking Lemma, Dijkstra Algorithm, Shortest Path, Planar Graphs, Graph Coloring",
+        "metadata": {
+            "unit": "Unit 4",
+            "subject": "Discrete Mathematics",
+            "title": "Graph Theory",
+            "type": "SYLLABUS",
+            "topics": [
+                "Graph Terminology",
+                "Types of Graphs",
+                "Graph Representation",
+                "Graph Isomorphism",
+                "Graph Connectivity",
+                "Euler Paths",
+                "Hamiltonian Paths",
+                "Handshaking Lemma",
+                "Dijkstra Algorithm",
+                "Shortest Path",
+                "Planar Graphs",
+                "Graph Coloring"
+            ]
+        }
+    },
+    {
+        "text": "Discrete Mathematics - Unit 5 : Counting and Algebraic Structures  include topics : Addition Principle, Multiplication Principle, Permutations, Combinations, Binomial Coefficients, Pascal's Triangle, Pigeonhole Principle, Inclusion Exclusion Principle, Generating Functions, Algebraic Systems, Semigroups, Monoids, Groups, Homomorphism, Normal Subgroups, Congruence Relations, Rings, Integral Domains, Fields",
+        "metadata": {
+            "unit": "Unit 5",
+            "subject": "Discrete Mathematics",
+            "title": "Counting and Algebraic Structures",
+            "type": "SYLLABUS",
+            "topics": [
+                "Addition Principle",
+                "Multiplication Principle",
+                "Permutations",
+                "Combinations",
+                "Binomial Coefficients",
+                "Pascal's Triangle",
+                "Pigeonhole Principle",
+                "Inclusion Exclusion Principle",
+                "Generating Functions",
+                "Algebraic Systems",
+                "Semigroups",
+                "Monoids",
+                "Groups",
+                "Homomorphism",
+                "Normal Subgroups",
+                "Congruence Relations",
+                "Rings",
+                "Integral Domains",
+                "Fields"
+            ]
+        }
+    },
+    {
+        "text": "Internet of Things (IoT) - Unit 1 : Introduction to IoT  include topics : Definition of IoT, Characteristics of IoT, Evolution of IoT, Convergence of IoT, IoT Challenges, Machine to Machine Communication (M2M), Things in IoT, IoT Protocols, IoT Ecosystem Functional Blocks, Communication Models, Communication APIs, Wireless Sensor Networks, Cloud Computing, Big Data Analytics, Embedded Systems, IoT Applications Overview",
+        "metadata": {
+            "unit": "Unit 1",
+            "subject": "Internet of Things (IoT)",
+            "title": "Introduction to IoT",
+            "type": "SYLLABUS",
+            "topics": [
+                "Definition of IoT",
+                "Characteristics of IoT",
+                "Evolution of IoT",
+                "Convergence of IoT",
+                "IoT Challenges",
+                "Machine to Machine Communication (M2M)",
+                "Things in IoT",
+                "IoT Protocols",
+                "IoT Ecosystem Functional Blocks",
+                "Communication Models",
+                "Communication APIs",
+                "Wireless Sensor Networks",
+                "Cloud Computing",
+                "Big Data Analytics",
+                "Embedded Systems",
+                "IoT Applications Overview"
+            ]
+        }
+    },
+    {
+        "text": "Internet of Things (IoT) - Unit 2 : Sensors and Actuators  include topics : Sensors Definition, Sensor Principles, Sensor Classification, Types of Sensors, Sensor Characteristics, Sensor Specifications, Actuators Definition, Actuator Principles, Actuator Classification, Types of Actuators, Actuator Characteristics, Actuator Specifications, Arduino Board, Arduino IDE, Raspberry Pi, NodeMCU, ESP32, Beaglebone",
+        "metadata": {
+            "unit": "Unit 2",
+            "subject": "Internet of Things (IoT)",
+            "title": "Sensors and Actuators",
+            "type": "SYLLABUS",
+            "topics": [
+                "Sensors Definition",
+                "Sensor Principles",
+                "Sensor Classification",
+                "Types of Sensors",
+                "Sensor Characteristics",
+                "Sensor Specifications",
+                "Actuators Definition",
+                "Actuator Principles",
+                "Actuator Classification",
+                "Types of Actuators",
+                "Actuator Characteristics",
+                "Actuator Specifications",
+                "Arduino Board",
+                "Arduino IDE",
+                "Raspberry Pi",
+                "NodeMCU",
+                "ESP32",
+                "Beaglebone"
+            ]
+        }
+    },
+    {
+        "text": "Internet of Things (IoT) - Unit 3 : IoT Protocols  include topics : IoT Access Technologies, Physical Layer, MAC Layer, IEEE 802.15.4, IEEE 802.11ah, LoRaWAN, IPv4, IPv6, 6LoWPAN, CoAP Protocol, MQTT Protocol, Zigbee, Bluetooth, BLE, Z-Wave",
+        "metadata": {
+            "unit": "Unit 3",
+            "subject": "Internet of Things (IoT)",
+            "title": "IoT Protocols",
+            "type": "SYLLABUS",
+            "topics": [
+                "IoT Access Technologies",
+                "Physical Layer",
+                "MAC Layer",
+                "IEEE 802.15.4",
+                "IEEE 802.11ah",
+                "LoRaWAN",
+                "IPv4",
+                "IPv6",
+                "6LoWPAN",
+                "CoAP Protocol",
+                "MQTT Protocol",
+                "Zigbee",
+                "Bluetooth",
+                "BLE",
+                "Z-Wave"
+            ]
+        }
+    },
+    {
+        "text": "Internet of Things (IoT) - Unit 4 : Cloud for IoT  include topics : Cloud Computing Fundamentals, Types of Cloud Services, AWS, Microsoft Azure, Adafruit IO, IoT with Cloud, Cloud Challenges, Cloud Selection for IoT",
+        "metadata": {
+            "unit": "Unit 4",
+            "subject": "Internet of Things (IoT)",
+            "title": "Cloud for IoT",
+            "type": "SYLLABUS",
+            "topics": [
+                "Cloud Computing Fundamentals",
+                "Types of Cloud Services",
+                "AWS",
+                "Microsoft Azure",
+                "Adafruit IO",
+                "IoT with Cloud",
+                "Cloud Challenges",
+                "Cloud Selection for IoT"
+            ]
+        }
+    },
+    {
+        "text": "Internet of Things (IoT) - Unit 5 : IoT Applications  include topics : Smart Cities, Smart Parking, Smart Lighting, Smart Roads, Structural Health Monitoring, Surveillance Systems, Smart Grids, Renewable Energy Systems, Weather Monitoring, Air Pollution Monitoring, Noise Pollution Monitoring, Forest Fire Detection, Flood Detection, Smart Irrigation, Greenhouse Control, Industrial Monitoring, Machine Diagnostics, Indoor Air Quality Monitoring, Health Monitoring, Wearable Devices",
+        "metadata": {
+            "unit": "Unit 5",
+            "subject": "Internet of Things (IoT)",
+            "title": "IoT Applications",
+            "type": "SYLLABUS",
+            "topics": [
+                "Smart Cities",
+                "Smart Parking",
+                "Smart Lighting",
+                "Smart Roads",
+                "Structural Health Monitoring",
+                "Surveillance Systems",
+                "Smart Grids",
+                "Renewable Energy Systems",
+                "Weather Monitoring",
+                "Air Pollution Monitoring",
+                "Noise Pollution Monitoring",
+                "Forest Fire Detection",
+                "Flood Detection",
+                "Smart Irrigation",
+                "Greenhouse Control",
+                "Industrial Monitoring",
+                "Machine Diagnostics",
+                "Indoor Air Quality Monitoring",
+                "Health Monitoring",
+                "Wearable Devices"
+            ]
+        }
+    }
+]

@@ -1,5 +1,4 @@
-{
-    "chunks": [
+[
         {
             "text": "Question : Explain the architecture of the 80386 microprocessor with diagram.,          Subject : Computer organization and microprocessor,          type : PYQ,                  tags :80386, architecture",
             "metadata": {
@@ -828,6 +827,1747 @@
                     "branch"
                 ]
             }
+       },
+       {
+            "text": "Question : Explain DBMS architecture (three level architecture).,          Subject : Database Management System,          type : PYQ,                  tags :architecture",
+            "metadata": {
+                "question": "Explain DBMS architecture (three level architecture).",
+                "subject": "Database Management System",
+                "type": "PYQ",
+                "years": [
+                    2023,
+                    2024,
+                    2025
+                ],
+                "frequency": 4,
+                "tags": [
+                    "architecture"
+                ]
+            }
+        },
+        {
+            "text": "Question : Explain data models with types.,          Subject : Database Management System,          type : PYQ,                  tags :data model",
+            "metadata": {
+                "question": "Explain data models with types.",
+                "subject": "Database Management System",
+                "type": "PYQ",
+                "years": [
+                    2023,
+                    2024
+                ],
+                "frequency": 3,
+                "tags": [
+                    "data model"
+                ]
+            }
+        },
+        {
+            "text": "Question : Explain ER diagram with example.,          Subject : Database Management System,          type : PYQ,                  tags :ER model",
+            "metadata": {
+                "question": "Explain ER diagram with example.",
+                "subject": "Database Management System",
+                "type": "PYQ",
+                "years": [
+                    2023,
+                    2024,
+                    2025
+                ],
+                "frequency": 5,
+                "tags": [
+                    "ER model"
+                ]
+            }
+        },
+        {
+            "text": "Question : Explain relational algebra operations.,          Subject : Database Management System,          type : PYQ,                  tags :relational algebra",
+            "metadata": {
+                "question": "Explain relational algebra operations.",
+                "subject": "Database Management System",
+                "type": "PYQ",
+                "years": [
+                    2023,
+                    2024,
+                    2025
+                ],
+                "frequency": 6,
+                "tags": [
+                    "relational algebra"
+                ]
+            }
+        },
+        {
+            "text": "Question : Explain normalization with different normal forms.,          Subject : Database Management System,          type : PYQ,                  tags :normalization",
+            "metadata": {
+                "question": "Explain normalization with different normal forms.",
+                "subject": "Database Management System",
+                "type": "PYQ",
+                "years": [
+                    2023,
+                    2024,
+                    2025
+                ],
+                "frequency": 6,
+                "tags": [
+                    "normalization"
+                ]
+            }
+        },
+        {
+            "text": "Question : Explain functional dependency and its types.,          Subject : Database Management System,          type : PYQ,                  tags :functional dependency",
+            "metadata": {
+                "question": "Explain functional dependency and its types.",
+                "subject": "Database Management System",
+                "type": "PYQ",
+                "years": [
+                    2023,
+                    2024,
+                    2025
+                ],
+                "frequency": 5,
+                "tags": [
+                    "functional dependency"
+                ]
+            }
+        },
+        {
+            "text": "Question : Explain keys in DBMS (primary, foreign, candidate, etc.).,          Subject : Database Management System,          type : PYQ,                  tags :keys",
+            "metadata": {
+                "question": "Explain keys in DBMS (primary, foreign, candidate, etc.).",
+                "subject": "Database Management System",
+                "type": "PYQ",
+                "years": [
+                    2023,
+                    2024
+                ],
+                "frequency": 3,
+                "tags": [
+                    "keys"
+                ]
+            }
+        },
+        {
+            "text": "Question : Explain SQL queries (DDL, DML, TCL, DCL).,          Subject : Database Management System,          type : PYQ,                  tags :SQL",
+            "metadata": {
+                "question": "Explain SQL queries (DDL, DML, TCL, DCL).",
+                "subject": "Database Management System",
+                "type": "PYQ",
+                "years": [
+                    2023,
+                    2024,
+                    2025
+                ],
+                "frequency": 6,
+                "tags": [
+                    "SQL"
+                ]
+            }
+        },
+        {
+            "text": "Question : Write SQL queries for given conditions (joins, subqueries).,          Subject : Database Management System,          type : PYQ,                  tags :SQL queries",
+            "metadata": {
+                "question": "Write SQL queries for given conditions (joins, subqueries).",
+                "subject": "Database Management System",
+                "type": "PYQ",
+                "years": [
+                    2023,
+                    2024,
+                    2025
+                ],
+                "frequency": 7,
+                "tags": [
+                    "SQL queries"
+                ]
+            }
+        },
+        {
+            "text": "Question : Explain different types of joins.,          Subject : Database Management System,          type : PYQ,                  tags :joins",
+            "metadata": {
+                "question": "Explain different types of joins.",
+                "subject": "Database Management System",
+                "type": "PYQ",
+                "years": [
+                    2023,
+                    2024,
+                    2025
+                ],
+                "frequency": 5,
+                "tags": [
+                    "joins"
+                ]
+            }
+        },
+        {
+            "text": "Question : Explain transactions and ACID properties.,          Subject : Database Management System,          type : PYQ,                  tags :transactions",
+            "metadata": {
+                "question": "Explain transactions and ACID properties.",
+                "subject": "Database Management System",
+                "type": "PYQ",
+                "years": [
+                    2023,
+                    2024,
+                    2025
+                ],
+                "frequency": 5,
+                "tags": [
+                    "transactions"
+                ]
+            }
+        },
+        {
+            "text": "Question : Explain concurrency control techniques.,          Subject : Database Management System,          type : PYQ,                  tags :concurrency",
+            "metadata": {
+                "question": "Explain concurrency control techniques.",
+                "subject": "Database Management System",
+                "type": "PYQ",
+                "years": [
+                    2024,
+                    2025
+                ],
+                "frequency": 3,
+                "tags": [
+                    "concurrency"
+                ]
+            }
+        },
+        {
+            "text": "Question : Explain deadlock handling in DBMS.,          Subject : Database Management System,          type : PYQ,                  tags :deadlock",
+            "metadata": {
+                "question": "Explain deadlock handling in DBMS.",
+                "subject": "Database Management System",
+                "type": "PYQ",
+                "years": [
+                    2024,
+                    2025
+                ],
+                "frequency": 2,
+                "tags": [
+                    "deadlock"
+                ]
+            }
+        },
+        {
+            "text": "Question : Explain indexing and types of indexes.,          Subject : Database Management System,          type : PYQ,                  tags :indexing",
+            "metadata": {
+                "question": "Explain indexing and types of indexes.",
+                "subject": "Database Management System",
+                "type": "PYQ",
+                "years": [
+                    2023,
+                    2024,
+                    2025
+                ],
+                "frequency": 4,
+                "tags": [
+                    "indexing"
+                ]
+            }
+        },
+        {
+            "text": "Question : Explain file organization methods.,          Subject : Database Management System,          type : PYQ,                  tags :file organization",
+            "metadata": {
+                "question": "Explain file organization methods.",
+                "subject": "Database Management System",
+                "type": "PYQ",
+                "years": [
+                    2023,
+                    2024
+                ],
+                "frequency": 2,
+                "tags": [
+                    "file organization"
+                ]
+            }
+        },
+        {
+            "text": "Question : Explain query processing and optimization.,          Subject : Database Management System,          type : PYQ,                  tags :query processing",
+            "metadata": {
+                "question": "Explain query processing and optimization.",
+                "subject": "Database Management System",
+                "type": "PYQ",
+                "years": [
+                    2024,
+                    2025
+                ],
+                "frequency": 2,
+                "tags": [
+                    "query processing"
+                ]
+            }
+        },
+        {
+            "text": "Question : Explain database security and authorization.,          Subject : Database Management System,          type : PYQ,                  tags :security",
+            "metadata": {
+                "question": "Explain database security and authorization.",
+                "subject": "Database Management System",
+                "type": "PYQ",
+                "years": [
+                    2023,
+                    2024
+                ],
+                "frequency": 2,
+                "tags": [
+                    "security"
+                ]
+            }
+        },
+        {
+            "text": "Question : Explain backup and recovery techniques.,          Subject : Database Management System,          type : PYQ,                  tags :recovery",
+            "metadata": {
+                "question": "Explain backup and recovery techniques.",
+                "subject": "Database Management System",
+                "type": "PYQ",
+                "years": [
+                    2024,
+                    2025
+                ],
+                "frequency": 3,
+                "tags": [
+                    "recovery"
+                ]
+            }
+        },
+        {
+            "text": "Question : Explain view and its advantages.,          Subject : Database Management System,          type : PYQ,                  tags :view",
+            "metadata": {
+                "question": "Explain view and its advantages.",
+                "subject": "Database Management System",
+                "type": "PYQ",
+                "years": [
+                    2023,
+                    2024
+                ],
+                "frequency": 2,
+                "tags": [
+                    "view"
+                ]
+            }
+        },
+        {
+            "text": "Question : Explain triggers and stored procedures.,          Subject : Database Management System,          type : PYQ,                  tags :triggers",
+            "metadata": {
+                "question": "Explain triggers and stored procedures.",
+                "subject": "Database Management System",
+                "type": "PYQ",
+                "years": [
+                    2024,
+                    2025
+                ],
+                "frequency": 2,
+                "tags": [
+                    "triggers"
+                ]
+            }
+        },
+        {
+            "text": "Question : Define DBMS. List any four advantages of DBMS over the file system.,          Subject : Database Management System,          type : IMP,                  tags :DBMS",
+            "metadata": {
+                "question": "Define DBMS. List any four advantages of DBMS over the file system.",
+                "subject": "Database Management System",
+                "type": "IMP",
+                "unit": "1.Introduction To Database Management System And ER Model",
+                "frequency": 1,
+                "tags": [
+                    "DBMS"
+                ]
+            }
+        },
+        {
+            "text": "Question : What is an entity? Explain with suitable example.,          Subject : Database Management System,          type : IMP,                  tags :entity",
+            "metadata": {
+                "question": "What is an entity? Explain with suitable example.",
+                "subject": "Database Management System",
+                "type": "IMP",
+                "unit": "1.Introduction To Database Management System And ER Model",
+                "frequency": 1,
+                "tags": [
+                    "entity"
+                ]
+            }
+        },
+        {
+            "text": "Question : Differentiate between primary key and candidate key.,          Subject : Database Management System,          type : IMP,                  tags :keys",
+            "metadata": {
+                "question": "Differentiate between primary key and candidate key.",
+                "subject": "Database Management System",
+                "type": "IMP",
+                "unit": "1.Introduction To Database Management System And ER Model",
+                "frequency": 1,
+                "tags": [
+                    "keys"
+                ]
+            }
+        },
+        {
+            "text": "Question : What is a data model? Name any three data models.,          Subject : Database Management System,          type : IMP,                  tags :data model",
+            "metadata": {
+                "question": "What is a data model? Name any three data models.",
+                "subject": "Database Management System",
+                "type": "IMP",
+                "unit": "1.Introduction To Database Management System And ER Model",
+                "frequency": 1,
+                "tags": [
+                    "data model"
+                ]
+            }
+        },
+        {
+            "text": "Question : Explain composite and multivalued attributes with examples.,          Subject : Database Management System,          type : IMP,                  tags :attributes",
+            "metadata": {
+                "question": "Explain composite and multivalued attributes with examples.",
+                "subject": "Database Management System",
+                "type": "IMP",
+                "unit": "1.Introduction To Database Management System And ER Model",
+                "frequency": 1,
+                "tags": [
+                    "attributes"
+                ]
+            }
+        },
+        {
+            "text": "Question : Explain the three-schema architecture of DBMS with a neat diagram.,          Subject : Database Management System,          type : IMP,                  tags :architecture",
+            "metadata": {
+                "question": "Explain the three-schema architecture of DBMS with a neat diagram.",
+                "subject": "Database Management System",
+                "type": "IMP",
+                "unit": "1.Introduction To Database Management System And ER Model",
+                "frequency": 1,
+                "tags": [
+                    "architecture"
+                ]
+            }
+        },
+        {
+            "text": "Question : Discuss different types of relationships (1:1, 1:N, M:N) with examples.,          Subject : Database Management System,          type : IMP,                  tags :relationships",
+            "metadata": {
+                "question": "Discuss different types of relationships (1:1, 1:N, M:N) with examples.",
+                "subject": "Database Management System",
+                "type": "IMP",
+                "unit": "1.Introduction To Database Management System And ER Model",
+                "frequency": 1,
+                "tags": [
+                    "relationships"
+                ]
+            }
+        },
+        {
+            "text": "Question : Explain the ER diagram design process with steps.,          Subject : Database Management System,          type : IMP,                  tags :ER model",
+            "metadata": {
+                "question": "Explain the ER diagram design process with steps.",
+                "subject": "Database Management System",
+                "type": "IMP",
+                "unit": "1.Introduction To Database Management System And ER Model",
+                "frequency": 1,
+                "tags": [
+                    "ER model"
+                ]
+            }
+        },
+        {
+            "text": "Question : What are enterprise constraints? Explain key, domain, and referential integrity constraints.,          Subject : Database Management System,          type : IMP,                  tags :constraints",
+            "metadata": {
+                "question": "What are enterprise constraints? Explain key, domain, and referential integrity constraints.",
+                "subject": "Database Management System",
+                "type": "IMP",
+                "unit": "1.Introduction To Database Management System And ER Model",
+                "frequency": 1,
+                "tags": [
+                    "constraints"
+                ]
+            }
+        },
+        {
+            "text": "Question : Explain specialization and generalization in EER with examples.,          Subject : Database Management System,          type : IMP,                  tags :EER",
+            "metadata": {
+                "question": "Explain specialization and generalization in EER with examples.",
+                "subject": "Database Management System",
+                "type": "IMP",
+                "unit": "1.Introduction To Database Management System And ER Model",
+                "frequency": 1,
+                "tags": [
+                    "EER"
+                ]
+            }
+        },
+        {
+            "text": "Question : Define DDL and DML commands. Give two examples of each.,          Subject : Database Management System,          type : IMP,                  tags :SQL",
+            "metadata": {
+                "question": "Define DDL and DML commands. Give two examples of each.",
+                "subject": "Database Management System",
+                "type": "IMP",
+                "unit": "2.SQL and PL/SQL",
+                "frequency": 1,
+                "tags": [
+                    "SQL"
+                ]
+            }
+        },
+        {
+            "text": "Question : Write a SELECT query to display all columns from a table Student where the Age is greater than 20.,          Subject : Database Management System,          type : IMP,                  tags :SQL",
+            "metadata": {
+                "question": "Write a SELECT query to display all columns from a table Student where the Age is greater than 20.",
+                "subject": "Database Management System",
+                "type": "IMP",
+                "unit": "2.SQL and PL/SQL",
+                "frequency": 1,
+                "tags": [
+                    "SQL"
+                ]
+            }
+        },
+        {
+            "text": "Question : Explain the use of string functions in SQL with two examples.,          Subject : Database Management System,          type : IMP,                  tags :SQL",
+            "metadata": {
+                "question": "Explain the use of string functions in SQL with two examples.",
+                "subject": "Database Management System",
+                "type": "IMP",
+                "unit": "2.SQL and PL/SQL",
+                "frequency": 1,
+                "tags": [
+                    "SQL"
+                ]
+            }
+        },
+        {
+            "text": "Question : Define a database trigger. Give one example scenario where it can be used.,          Subject : Database Management System,          type : IMP,                  tags :trigger",
+            "metadata": {
+                "question": "Define a database trigger. Give one example scenario where it can be used.",
+                "subject": "Database Management System",
+                "type": "IMP",
+                "unit": "2.SQL and PL/SQL",
+                "frequency": 1,
+                "tags": [
+                    "trigger"
+                ]
+            }
+        },
+        {
+            "text": "Question : What is the difference between COMMIT and ROLLBACK in SQL?,          Subject : Database Management System,          type : IMP,                  tags :SQL",
+            "metadata": {
+                "question": "What is the difference between COMMIT and ROLLBACK in SQL?",
+                "subject": "Database Management System",
+                "type": "IMP",
+                "unit": "2.SQL and PL/SQL",
+                "frequency": 1,
+                "tags": [
+                    "SQL"
+                ]
+            }
+        },
+        {
+            "text": "Question : Explain the use of JOIN queries in SQL. Write a query to display student names along with the course name they enrolled in using INNER JOIN.,          Subject : Database Management System,          type : IMP,                  tags :joins",
+            "metadata": {
+                "question": "Explain the use of JOIN queries in SQL. Write a query to display student names along with the course name they enrolled in using INNER JOIN.",
+                "subject": "Database Management System",
+                "type": "IMP",
+                "unit": "2.SQL and PL/SQL",
+                "frequency": 1,
+                "tags": [
+                    "joins"
+                ]
+            }
+        },
+        {
+            "text": "Question : Define the relational model. Explain attributes and domains with examples.,          Subject : Database Management System,          type : IMP,                  tags :relational model",
+            "metadata": {
+                "question": "Define the relational model. Explain attributes and domains with examples.",
+                "subject": "Database Management System",
+                "type": "IMP",
+                "unit": "3.Relational Database Design",
+                "frequency": 1,
+                "tags": [
+                    "relational model"
+                ]
+            }
+        },
+        {
+            "text": "Question : What are Codd's 12 rules? Explain any four briefly.,          Subject : Database Management System,          type : IMP,                  tags :rules",
+            "metadata": {
+                "question": "What are Codd's 12 rules? Explain any four briefly.",
+                "subject": "Database Management System",
+                "type": "IMP",
+                "unit": "3.Relational Database Design",
+                "frequency": 1,
+                "tags": [
+                    "rules"
+                ]
+            }
+        },
+        {
+            "text": "Question : Define relational integrity constraints. Give examples of domain and key constraints.,          Subject : Database Management System,          type : IMP,                  tags :constraints",
+            "metadata": {
+                "question": "Define relational integrity constraints. Give examples of domain and key constraints.",
+                "subject": "Database Management System",
+                "type": "IMP",
+                "unit": "3.Relational Database Design",
+                "frequency": 1,
+                "tags": [
+                    "constraints"
+                ]
+            }
+        },
+        {
+            "text": "Question : What is referential integrity? Give an example using two tables.,          Subject : Database Management System,          type : IMP,                  tags :integrity",
+            "metadata": {
+                "question": "What is referential integrity? Give an example using two tables.",
+                "subject": "Database Management System",
+                "type": "IMP",
+                "unit": "3.Relational Database Design",
+                "frequency": 1,
+                "tags": [
+                    "integrity"
+                ]
+            }
+        },
+        {
+            "text": "Question : Explain the concept of first normal form (1NF) with an example.,          Subject : Database Management System,          type : IMP,                  tags :normalization",
+            "metadata": {
+                "question": "Explain the concept of first normal form (1NF) with an example.",
+                "subject": "Database Management System",
+                "type": "IMP",
+                "unit": "3.Relational Database Design",
+                "frequency": 1,
+                "tags": [
+                    "normalization"
+                ]
+            }
+        },
+        {
+            "text": "Question : Explain functional dependency and its role in database design.,          Subject : Database Management System,          type : IMP,                  tags :FD",
+            "metadata": {
+                "question": "Explain functional dependency and its role in database design.",
+                "subject": "Database Management System",
+                "type": "IMP",
+                "unit": "3.Relational Database Design",
+                "frequency": 1,
+                "tags": [
+                    "FD"
+                ]
+            }
+        },
+        {
+            "text": "Question : Explain set operations and laws with examples.,          Subject : Discrete Mathematics,          type : PYQ,                  tags :sets",
+            "metadata": {
+                "question": "Explain set operations and laws with examples.",
+                "subject": "Discrete Mathematics",
+                "type": "PYQ",
+                "years": [
+                    2022,
+                    2023,
+                    2024,
+                    2025
+                ],
+                "frequency": 6,
+                "tags": [
+                    "sets"
+                ]
+            }
+        },
+        {
+            "text": "Question : Explain relations and their properties.,          Subject : Discrete Mathematics,          type : PYQ,                  tags :relations",
+            "metadata": {
+                "question": "Explain relations and their properties.",
+                "subject": "Discrete Mathematics",
+                "type": "PYQ",
+                "years": [
+                    2022,
+                    2023,
+                    2024,
+                    2025
+                ],
+                "frequency": 6,
+                "tags": [
+                    "relations"
+                ]
+            }
+        },
+        {
+            "text": "Question : Explain functions and types of functions.,          Subject : Discrete Mathematics,          type : PYQ,                  tags :functions",
+            "metadata": {
+                "question": "Explain functions and types of functions.",
+                "subject": "Discrete Mathematics",
+                "type": "PYQ",
+                "years": [
+                    2022,
+                    2023,
+                    2024
+                ],
+                "frequency": 4,
+                "tags": [
+                    "functions"
+                ]
+            }
+        },
+        {
+            "text": "Question : Explain equivalence relation and partition.,          Subject : Discrete Mathematics,          type : PYQ,                  tags :equivalence",
+            "metadata": {
+                "question": "Explain equivalence relation and partition.",
+                "subject": "Discrete Mathematics",
+                "type": "PYQ",
+                "years": [
+                    2023,
+                    2024,
+                    2025
+                ],
+                "frequency": 5,
+                "tags": [
+                    "equivalence"
+                ]
+            }
+        },
+        {
+            "text": "Question : Explain poset and Hasse diagram.,          Subject : Discrete Mathematics,          type : PYQ,                  tags :poset",
+            "metadata": {
+                "question": "Explain poset and Hasse diagram.",
+                "subject": "Discrete Mathematics",
+                "type": "PYQ",
+                "years": [
+                    2023,
+                    2024,
+                    2025
+                ],
+                "frequency": 5,
+                "tags": [
+                    "poset"
+                ]
+            }
+        },
+        {
+            "text": "Question : Explain propositional logic and logical connectives.,          Subject : Discrete Mathematics,          type : PYQ,                  tags :logic",
+            "metadata": {
+                "question": "Explain propositional logic and logical connectives.",
+                "subject": "Discrete Mathematics",
+                "type": "PYQ",
+                "years": [
+                    2022,
+                    2023,
+                    2024,
+                    2025
+                ],
+                "frequency": 6,
+                "tags": [
+                    "logic"
+                ]
+            }
+        },
+        {
+            "text": "Question : Construct truth tables and verify logical equivalence.,          Subject : Discrete Mathematics,          type : PYQ,                  tags :truth table",
+            "metadata": {
+                "question": "Construct truth tables and verify logical equivalence.",
+                "subject": "Discrete Mathematics",
+                "type": "PYQ",
+                "years": [
+                    2022,
+                    2023,
+                    2024,
+                    2025
+                ],
+                "frequency": 7,
+                "tags": [
+                    "truth table"
+                ]
+            }
+        },
+        {
+            "text": "Question : Explain predicate logic and quantifiers.,          Subject : Discrete Mathematics,          type : PYQ,                  tags :predicate logic",
+            "metadata": {
+                "question": "Explain predicate logic and quantifiers.",
+                "subject": "Discrete Mathematics",
+                "type": "PYQ",
+                "years": [
+                    2023,
+                    2024,
+                    2025
+                ],
+                "frequency": 5,
+                "tags": [
+                    "predicate logic"
+                ]
+            }
+        },
+        {
+            "text": "Question : Explain normal forms (CNF and DNF).,          Subject : Discrete Mathematics,          type : PYQ,                  tags :normal forms",
+            "metadata": {
+                "question": "Explain normal forms (CNF and DNF).",
+                "subject": "Discrete Mathematics",
+                "type": "PYQ",
+                "years": [
+                    2023,
+                    2024,
+                    2025
+                ],
+                "frequency": 5,
+                "tags": [
+                    "normal forms"
+                ]
+            }
+        },
+        {
+            "text": "Question : Explain recurrence relations and solve them.,          Subject : Discrete Mathematics,          type : PYQ,                  tags :recurrence",
+            "metadata": {
+                "question": "Explain recurrence relations and solve them.",
+                "subject": "Discrete Mathematics",
+                "type": "PYQ",
+                "years": [
+                    2023,
+                    2024,
+                    2025
+                ],
+                "frequency": 5,
+                "tags": [
+                    "recurrence"
+                ]
+            }
+        },
+        {
+            "text": "Question : Explain generating functions.,          Subject : Discrete Mathematics,          type : PYQ,                  tags :generating function",
+            "metadata": {
+                "question": "Explain generating functions.",
+                "subject": "Discrete Mathematics",
+                "type": "PYQ",
+                "years": [
+                    2024,
+                    2025
+                ],
+                "frequency": 2,
+                "tags": [
+                    "generating function"
+                ]
+            }
+        },
+        {
+            "text": "Question : Explain graph terminology and types of graphs.,          Subject : Discrete Mathematics,          type : PYQ,                  tags :graphs",
+            "metadata": {
+                "question": "Explain graph terminology and types of graphs.",
+                "subject": "Discrete Mathematics",
+                "type": "PYQ",
+                "years": [
+                    2022,
+                    2023,
+                    2024,
+                    2025
+                ],
+                "frequency": 6,
+                "tags": [
+                    "graphs"
+                ]
+            }
+        },
+        {
+            "text": "Question : Explain tree and its properties.,          Subject : Discrete Mathematics,          type : PYQ,                  tags :trees",
+            "metadata": {
+                "question": "Explain tree and its properties.",
+                "subject": "Discrete Mathematics",
+                "type": "PYQ",
+                "years": [
+                    2022,
+                    2023,
+                    2024,
+                    2025
+                ],
+                "frequency": 6,
+                "tags": [
+                    "trees"
+                ]
+            }
+        },
+        {
+            "text": "Question : Explain spanning tree and its properties.,          Subject : Discrete Mathematics,          type : PYQ,                  tags :spanning tree",
+            "metadata": {
+                "question": "Explain spanning tree and its properties.",
+                "subject": "Discrete Mathematics",
+                "type": "PYQ",
+                "years": [
+                    2023,
+                    2024,
+                    2025
+                ],
+                "frequency": 4,
+                "tags": [
+                    "spanning tree"
+                ]
+            }
+        },
+        {
+            "text": "Question : Explain graph traversal techniques (BFS and DFS).,          Subject : Discrete Mathematics,          type : PYQ,                  tags :BFS, DFS",
+            "metadata": {
+                "question": "Explain graph traversal techniques (BFS and DFS).",
+                "subject": "Discrete Mathematics",
+                "type": "PYQ",
+                "years": [
+                    2023,
+                    2024,
+                    2025
+                ],
+                "frequency": 4,
+                "tags": [
+                    "BFS",
+                    "DFS"
+                ]
+            }
+        },
+        {
+            "text": "Question : Explain planar graphs and graph coloring.,          Subject : Discrete Mathematics,          type : PYQ,                  tags :planar graph",
+            "metadata": {
+                "question": "Explain planar graphs and graph coloring.",
+                "subject": "Discrete Mathematics",
+                "type": "PYQ",
+                "years": [
+                    2024,
+                    2025
+                ],
+                "frequency": 2,
+                "tags": [
+                    "planar graph"
+                ]
+            }
+        },
+        {
+            "text": "Question : Explain combinatorics (permutations and combinations).,          Subject : Discrete Mathematics,          type : PYQ,                  tags :combinatorics",
+            "metadata": {
+                "question": "Explain combinatorics (permutations and combinations).",
+                "subject": "Discrete Mathematics",
+                "type": "PYQ",
+                "years": [
+                    2022,
+                    2023,
+                    2024
+                ],
+                "frequency": 3,
+                "tags": [
+                    "combinatorics"
+                ]
+            }
+        },
+        {
+            "text": "Question : Explain pigeonhole principle with examples.,          Subject : Discrete Mathematics,          type : PYQ,                  tags :pigeonhole",
+            "metadata": {
+                "question": "Explain pigeonhole principle with examples.",
+                "subject": "Discrete Mathematics",
+                "type": "PYQ",
+                "years": [
+                    2023,
+                    2024
+                ],
+                "frequency": 2,
+                "tags": [
+                    "pigeonhole"
+                ]
+            }
+        },
+        {
+            "text": "Question : Explain mathematical induction with examples.,          Subject : Discrete Mathematics,          type : PYQ,                  tags :induction",
+            "metadata": {
+                "question": "Explain mathematical induction with examples.",
+                "subject": "Discrete Mathematics",
+                "type": "PYQ",
+                "years": [
+                    2022,
+                    2023
+                ],
+                "frequency": 2,
+                "tags": [
+                    "induction"
+                ]
+            }
+        },
+        {
+            "text": "Question : Explain IoT design methodology with steps.,          Subject : Internet of Things and Embedded Systems,          type : PYQ,                  tags :IoT design",
+            "metadata": {
+                "question": "Explain IoT design methodology with steps.",
+                "subject": "Internet of Things and Embedded Systems",
+                "type": "PYQ",
+                "years": [
+                    2023,
+                    2024,
+                    2025
+                ],
+                "frequency": 4,
+                "tags": [
+                    "IoT design"
+                ]
+            }
+        },
+        {
+            "text": "Question : Explain IoT communication models.,          Subject : Internet of Things and Embedded Systems,          type : PYQ,                  tags :communication models",
+            "metadata": {
+                "question": "Explain IoT communication models.",
+                "subject": "Internet of Things and Embedded Systems",
+                "type": "PYQ",
+                "years": [
+                    2023,
+                    2024,
+                    2025
+                ],
+                "frequency": 4,
+                "tags": [
+                    "communication models"
+                ]
+            }
+        },
+        {
+            "text": "Question : Explain M2M communication.,          Subject : Internet of Things and Embedded Systems,          type : PYQ,                  tags :M2M",
+            "metadata": {
+                "question": "Explain M2M communication.",
+                "subject": "Internet of Things and Embedded Systems",
+                "type": "PYQ",
+                "years": [
+                    2024,
+                    2025
+                ],
+                "frequency": 2,
+                "tags": [
+                    "M2M"
+                ]
+            }
+        },
+        {
+            "text": "Question : Explain RFID and its IoT applications.,          Subject : Internet of Things and Embedded Systems,          type : PYQ,                  tags :RFID",
+            "metadata": {
+                "question": "Explain RFID and its IoT applications.",
+                "subject": "Internet of Things and Embedded Systems",
+                "type": "PYQ",
+                "years": [
+                    2023,
+                    2024,
+                    2025
+                ],
+                "frequency": 4,
+                "tags": [
+                    "RFID"
+                ]
+            }
+        },
+        {
+            "text": "Question : Explain IoT communication protocols (MQTT, MODBUS, etc.).,          Subject : Internet of Things and Embedded Systems,          type : PYQ,                  tags :protocols",
+            "metadata": {
+                "question": "Explain IoT communication protocols (MQTT, MODBUS, etc.).",
+                "subject": "Internet of Things and Embedded Systems",
+                "type": "PYQ",
+                "years": [
+                    2023,
+                    2024,
+                    2025
+                ],
+                "frequency": 6,
+                "tags": [
+                    "protocols"
+                ]
+            }
+        },
+        {
+            "text": "Question : Explain 6LoWPAN and IoT standardization.,          Subject : Internet of Things and Embedded Systems,          type : PYQ,                  tags :6LoWPAN",
+            "metadata": {
+                "question": "Explain 6LoWPAN and IoT standardization.",
+                "subject": "Internet of Things and Embedded Systems",
+                "type": "PYQ",
+                "years": [
+                    2024
+                ],
+                "frequency": 1,
+                "tags": [
+                    "6LoWPAN"
+                ]
+            }
+        },
+        {
+            "text": "Question : Explain SCADA protocol and its role in IoT.,          Subject : Internet of Things and Embedded Systems,          type : PYQ,                  tags :SCADA",
+            "metadata": {
+                "question": "Explain SCADA protocol and its role in IoT.",
+                "subject": "Internet of Things and Embedded Systems",
+                "type": "PYQ",
+                "years": [
+                    2024,
+                    2025
+                ],
+                "frequency": 3,
+                "tags": [
+                    "SCADA"
+                ]
+            }
+        },
+        {
+            "text": "Question : Explain LoRa and its use in IoT applications.,          Subject : Internet of Things and Embedded Systems,          type : PYQ,                  tags :LoRa",
+            "metadata": {
+                "question": "Explain LoRa and its use in IoT applications.",
+                "subject": "Internet of Things and Embedded Systems",
+                "type": "PYQ",
+                "years": [
+                    2023,
+                    2024
+                ],
+                "frequency": 2,
+                "tags": [
+                    "LoRa"
+                ]
+            }
+        },
+        {
+            "text": "Question : Explain ZigBee and compare with Wi-Fi and Bluetooth.,          Subject : Internet of Things and Embedded Systems,          type : PYQ,                  tags :ZigBee",
+            "metadata": {
+                "question": "Explain ZigBee and compare with Wi-Fi and Bluetooth.",
+                "subject": "Internet of Things and Embedded Systems",
+                "type": "PYQ",
+                "years": [
+                    2024,
+                    2025
+                ],
+                "frequency": 2,
+                "tags": [
+                    "ZigBee"
+                ]
+            }
+        },
+        {
+            "text": "Question : Explain IoT applications (smart irrigation, home automation, etc.).,          Subject : Internet of Things and Embedded Systems,          type : PYQ,                  tags :applications",
+            "metadata": {
+                "question": "Explain IoT applications (smart irrigation, home automation, etc.).",
+                "subject": "Internet of Things and Embedded Systems",
+                "type": "PYQ",
+                "years": [
+                    2023,
+                    2024,
+                    2025
+                ],
+                "frequency": 6,
+                "tags": [
+                    "applications"
+                ]
+            }
+        },
+        {
+            "text": "Question : Explain IoT architecture and generic block diagram.,          Subject : Internet of Things and Embedded Systems,          type : PYQ,                  tags :architecture",
+            "metadata": {
+                "question": "Explain IoT architecture and generic block diagram.",
+                "subject": "Internet of Things and Embedded Systems",
+                "type": "PYQ",
+                "years": [
+                    2023,
+                    2024
+                ],
+                "frequency": 3,
+                "tags": [
+                    "architecture"
+                ]
+            }
+        },
+        {
+            "text": "Question : Explain pillars of IoT.,          Subject : Internet of Things and Embedded Systems,          type : PYQ,                  tags :basics",
+            "metadata": {
+                "question": "Explain pillars of IoT.",
+                "subject": "Internet of Things and Embedded Systems",
+                "type": "PYQ",
+                "years": [
+                    2023
+                ],
+                "frequency": 1,
+                "tags": [
+                    "basics"
+                ]
+            }
+        },
+        {
+            "text": "Question : Explain connectivity technologies in IoT.,          Subject : Internet of Things and Embedded Systems,          type : PYQ,                  tags :connectivity",
+            "metadata": {
+                "question": "Explain connectivity technologies in IoT.",
+                "subject": "Internet of Things and Embedded Systems",
+                "type": "PYQ",
+                "years": [
+                    2023,
+                    2025
+                ],
+                "frequency": 2,
+                "tags": [
+                    "connectivity"
+                ]
+            }
+        },
+        {
+            "text": "Question : Explain cloud computing as IoT enabling technology.,          Subject : Internet of Things and Embedded Systems,          type : PYQ,                  tags :cloud",
+            "metadata": {
+                "question": "Explain cloud computing as IoT enabling technology.",
+                "subject": "Internet of Things and Embedded Systems",
+                "type": "PYQ",
+                "years": [
+                    2023,
+                    2024,
+                    2025
+                ],
+                "frequency": 4,
+                "tags": [
+                    "cloud"
+                ]
+            }
+        },
+        {
+            "text": "Question : Explain SDN architecture.,          Subject : Internet of Things and Embedded Systems,          type : PYQ,                  tags :SDN",
+            "metadata": {
+                "question": "Explain SDN architecture.",
+                "subject": "Internet of Things and Embedded Systems",
+                "type": "PYQ",
+                "years": [
+                    2024
+                ],
+                "frequency": 1,
+                "tags": [
+                    "SDN"
+                ]
+            }
+        },
+        {
+            "text": "Question : Explain Django framework for IoT applications.,          Subject : Internet of Things and Embedded Systems,          type : PYQ,                  tags :Django",
+            "metadata": {
+                "question": "Explain Django framework for IoT applications.",
+                "subject": "Internet of Things and Embedded Systems",
+                "type": "PYQ",
+                "years": [
+                    2024,
+                    2025
+                ],
+                "frequency": 2,
+                "tags": [
+                    "Django"
+                ]
+            }
+        },
+        {
+            "text": "Question : Explain Amazon cloud services for IoT.,          Subject : Internet of Things and Embedded Systems,          type : PYQ,                  tags :AWS",
+            "metadata": {
+                "question": "Explain Amazon cloud services for IoT.",
+                "subject": "Internet of Things and Embedded Systems",
+                "type": "PYQ",
+                "years": [
+                    2024,
+                    2025
+                ],
+                "frequency": 2,
+                "tags": [
+                    "AWS"
+                ]
+            }
+        },
+        {
+            "text": "Question : Explain IoT security, vulnerabilities and threats.,          Subject : Internet of Things and Embedded Systems,          type : PYQ,                  tags :security",
+            "metadata": {
+                "question": "Explain IoT security, vulnerabilities and threats.",
+                "subject": "Internet of Things and Embedded Systems",
+                "type": "PYQ",
+                "years": [
+                    2023,
+                    2024,
+                    2025
+                ],
+                "frequency": 6,
+                "tags": [
+                    "security"
+                ]
+            }
+        },
+        {
+            "text": "Question : Explain threat modeling and security requirements in IoT.,          Subject : Internet of Things and Embedded Systems,          type : PYQ,                  tags :security",
+            "metadata": {
+                "question": "Explain threat modeling and security requirements in IoT.",
+                "subject": "Internet of Things and Embedded Systems",
+                "type": "PYQ",
+                "years": [
+                    2024,
+                    2025
+                ],
+                "frequency": 3,
+                "tags": [
+                    "security"
+                ]
+            }
+        },
+        {
+            "text": "Question : Explain challenges in designing IoT applications.,          Subject : Internet of Things and Embedded Systems,          type : PYQ,                  tags :challenges",
+            "metadata": {
+                "question": "Explain challenges in designing IoT applications.",
+                "subject": "Internet of Things and Embedded Systems",
+                "type": "PYQ",
+                "years": [
+                    2023,
+                    2024,
+                    2025
+                ],
+                "frequency": 4,
+                "tags": [
+                    "challenges"
+                ]
+            }
+        },
+        {
+            "text": "Question : Explain embedded system concepts and characteristics.,          Subject : Internet of Things and Embedded Systems,          type : PYQ,                  tags :embedded systems",
+            "metadata": {
+                "question": "Explain embedded system concepts and characteristics.",
+                "subject": "Internet of Things and Embedded Systems",
+                "type": "PYQ",
+                "years": [
+                    2023,
+                    2024
+                ],
+                "frequency": 3,
+                "tags": [
+                    "embedded systems"
+                ]
+            }
+        },
+        {
+            "text": "Question : Explain real-time systems and types.,          Subject : Internet of Things and Embedded Systems,          type : PYQ,                  tags :real-time",
+            "metadata": {
+                "question": "Explain real-time systems and types.",
+                "subject": "Internet of Things and Embedded Systems",
+                "type": "PYQ",
+                "years": [
+                    2023,
+                    2024
+                ],
+                "frequency": 2,
+                "tags": [
+                    "real-time"
+                ]
+            }
+        },
+        {
+            "text": "Question : Explain System on Chip (SoC).,          Subject : Internet of Things and Embedded Systems,          type : PYQ,                  tags :SoC",
+            "metadata": {
+                "question": "Explain System on Chip (SoC).",
+                "subject": "Internet of Things and Embedded Systems",
+                "type": "PYQ",
+                "years": [
+                    2024
+                ],
+                "frequency": 1,
+                "tags": [
+                    "SoC"
+                ]
+            }
+        },
+        {
+            "text": "Question : Explain IoT levels and deployment models.,          Subject : Internet of Things and Embedded Systems,          type : PYQ,                  tags :IoT levels",
+            "metadata": {
+                "question": "Explain IoT levels and deployment models.",
+                "subject": "Internet of Things and Embedded Systems",
+                "type": "PYQ",
+                "years": [
+                    2023,
+                    2024
+                ],
+                "frequency": 2,
+                "tags": [
+                    "IoT levels"
+                ]
+            }
+        },
+        {
+            "text": "Question : Explain publish-subscribe communication model.,          Subject : Internet of Things and Embedded Systems,          type : PYQ,                  tags :communication",
+            "metadata": {
+                "question": "Explain publish-subscribe communication model.",
+                "subject": "Internet of Things and Embedded Systems",
+                "type": "PYQ",
+                "years": [
+                    2023,
+                    2024
+                ],
+                "frequency": 2,
+                "tags": [
+                    "communication"
+                ]
+            }
+        },
+        {
+            "text": "Question : Explain organizational structures and their characteristics.,          Subject : Project Management,          type : PYQ,                  tags :organization",
+            "metadata": {
+                "question": "Explain organizational structures and their characteristics.",
+                "subject": "Project Management",
+                "type": "PYQ",
+                "years": [
+                    2022,
+                    2023,
+                    2024,
+                    2025
+                ],
+                "frequency": 7,
+                "tags": [
+                    "organization"
+                ]
+            }
+        },
+        {
+            "text": "Question : Explain team management and roles/responsibilities of project team members.,          Subject : Project Management,          type : PYQ,                  tags :team management",
+            "metadata": {
+                "question": "Explain team management and roles/responsibilities of project team members.",
+                "subject": "Project Management",
+                "type": "PYQ",
+                "years": [
+                    2022,
+                    2023,
+                    2024
+                ],
+                "frequency": 6,
+                "tags": [
+                    "team management"
+                ]
+            }
+        },
+        {
+            "text": "Question : Explain leadership styles and diversity management.,          Subject : Project Management,          type : PYQ,                  tags :leadership",
+            "metadata": {
+                "question": "Explain leadership styles and diversity management.",
+                "subject": "Project Management",
+                "type": "PYQ",
+                "years": [
+                    2023,
+                    2024,
+                    2025
+                ],
+                "frequency": 5,
+                "tags": [
+                    "leadership"
+                ]
+            }
+        },
+        {
+            "text": "Question : Explain PERT technique with example.,          Subject : Project Management,          type : PYQ,                  tags :PERT",
+            "metadata": {
+                "question": "Explain PERT technique with example.",
+                "subject": "Project Management",
+                "type": "PYQ",
+                "years": [
+                    2023,
+                    2024,
+                    2025
+                ],
+                "frequency": 6,
+                "tags": [
+                    "PERT"
+                ]
+            }
+        },
+        {
+            "text": "Question : Explain CPM (Critical Path Method) and critical path determination.,          Subject : Project Management,          type : PYQ,                  tags :CPM",
+            "metadata": {
+                "question": "Explain CPM (Critical Path Method) and critical path determination.",
+                "subject": "Project Management",
+                "type": "PYQ",
+                "years": [
+                    2023,
+                    2024,
+                    2025
+                ],
+                "frequency": 6,
+                "tags": [
+                    "CPM"
+                ]
+            }
+        },
+        {
+            "text": "Question : Construct network diagram and calculate ES, EF, LS, LF and critical path.,          Subject : Project Management,          type : PYQ,                  tags :network diagram",
+            "metadata": {
+                "question": "Construct network diagram and calculate ES, EF, LS, LF and critical path.",
+                "subject": "Project Management",
+                "type": "PYQ",
+                "years": [
+                    2023,
+                    2024,
+                    2025
+                ],
+                "frequency": 7,
+                "tags": [
+                    "network diagram"
+                ]
+            }
+        },
+        {
+            "text": "Question : Explain AOA and AON networks with comparison.,          Subject : Project Management,          type : PYQ,                  tags :AOA, AON",
+            "metadata": {
+                "question": "Explain AOA and AON networks with comparison.",
+                "subject": "Project Management",
+                "type": "PYQ",
+                "years": [
+                    2022,
+                    2023,
+                    2024
+                ],
+                "frequency": 5,
+                "tags": [
+                    "AOA",
+                    "AON"
+                ]
+            }
+        },
+        {
+            "text": "Question : Explain Gantt chart and project scheduling techniques.,          Subject : Project Management,          type : PYQ,                  tags :Gantt chart",
+            "metadata": {
+                "question": "Explain Gantt chart and project scheduling techniques.",
+                "subject": "Project Management",
+                "type": "PYQ",
+                "years": [
+                    2022,
+                    2023,
+                    2024
+                ],
+                "frequency": 4,
+                "tags": [
+                    "Gantt chart"
+                ]
+            }
+        },
+        {
+            "text": "Question : Explain resource allocation in project management.,          Subject : Project Management,          type : PYQ,                  tags :resource",
+            "metadata": {
+                "question": "Explain resource allocation in project management.",
+                "subject": "Project Management",
+                "type": "PYQ",
+                "years": [
+                    2023,
+                    2024,
+                    2025
+                ],
+                "frequency": 5,
+                "tags": [
+                    "resource"
+                ]
+            }
+        },
+        {
+            "text": "Question : Explain risk management process.,          Subject : Project Management,          type : PYQ,                  tags :risk",
+            "metadata": {
+                "question": "Explain risk management process.",
+                "subject": "Project Management",
+                "type": "PYQ",
+                "years": [
+                    2022,
+                    2023,
+                    2024,
+                    2025
+                ],
+                "frequency": 7,
+                "tags": [
+                    "risk"
+                ]
+            }
+        },
+        {
+            "text": "Question : Explain risk analysis and types of risks.,          Subject : Project Management,          type : PYQ,                  tags :risk analysis",
+            "metadata": {
+                "question": "Explain risk analysis and types of risks.",
+                "subject": "Project Management",
+                "type": "PYQ",
+                "years": [
+                    2022,
+                    2023,
+                    2024,
+                    2025
+                ],
+                "frequency": 6,
+                "tags": [
+                    "risk analysis"
+                ]
+            }
+        },
+        {
+            "text": "Question : Explain project financial management and financial analysis.,          Subject : Project Management,          type : PYQ,                  tags :finance",
+            "metadata": {
+                "question": "Explain project financial management and financial analysis.",
+                "subject": "Project Management",
+                "type": "PYQ",
+                "years": [
+                    2022,
+                    2023,
+                    2024,
+                    2025
+                ],
+                "frequency": 6,
+                "tags": [
+                    "finance"
+                ]
+            }
+        },
+        {
+            "text": "Question : Explain break-even analysis with example.,          Subject : Project Management,          type : PYQ,                  tags :break-even",
+            "metadata": {
+                "question": "Explain break-even analysis with example.",
+                "subject": "Project Management",
+                "type": "PYQ",
+                "years": [
+                    2022,
+                    2023,
+                    2024
+                ],
+                "frequency": 4,
+                "tags": [
+                    "break-even"
+                ]
+            }
+        },
+        {
+            "text": "Question : Explain project cost estimation and budgeting.,          Subject : Project Management,          type : PYQ,                  tags :cost",
+            "metadata": {
+                "question": "Explain project cost estimation and budgeting.",
+                "subject": "Project Management",
+                "type": "PYQ",
+                "years": [
+                    2023,
+                    2024,
+                    2025
+                ],
+                "frequency": 5,
+                "tags": [
+                    "cost"
+                ]
+            }
+        },
+        {
+            "text": "Question : Explain product development process.,          Subject : Project Management,          type : PYQ,                  tags :product development",
+            "metadata": {
+                "question": "Explain product development process.",
+                "subject": "Project Management",
+                "type": "PYQ",
+                "years": [
+                    2022,
+                    2023,
+                    2024,
+                    2025
+                ],
+                "frequency": 7,
+                "tags": [
+                    "product development"
+                ]
+            }
+        },
+        {
+            "text": "Question : Explain entrepreneurship and characteristics of successful entrepreneur.,          Subject : Project Management,          type : PYQ,                  tags :entrepreneurship",
+            "metadata": {
+                "question": "Explain entrepreneurship and characteristics of successful entrepreneur.",
+                "subject": "Project Management",
+                "type": "PYQ",
+                "years": [
+                    2022,
+                    2023,
+                    2024,
+                    2025
+                ],
+                "frequency": 7,
+                "tags": [
+                    "entrepreneurship"
+                ]
+            }
+        },
+        {
+            "text": "Question : Explain legal aspects (patent, copyright, trademark, licensing).,          Subject : Project Management,          type : PYQ,                  tags :legal",
+            "metadata": {
+                "question": "Explain legal aspects (patent, copyright, trademark, licensing).",
+                "subject": "Project Management",
+                "type": "PYQ",
+                "years": [
+                    2022,
+                    2023,
+                    2024,
+                    2025
+                ],
+                "frequency": 6,
+                "tags": [
+                    "legal"
+                ]
+            }
+        },
+        {
+            "text": "Question : Explain customer needs in product development.,          Subject : Project Management,          type : PYQ,                  tags :customer needs",
+            "metadata": {
+                "question": "Explain customer needs in product development.",
+                "subject": "Project Management",
+                "type": "PYQ",
+                "years": [
+                    2023,
+                    2024
+                ],
+                "frequency": 3,
+                "tags": [
+                    "customer needs"
+                ]
+            }
+        },
+        {
+            "text": "Question : Explain project life cycle and phases.,          Subject : Project Management,          type : PYQ,                  tags :life cycle",
+            "metadata": {
+                "question": "Explain project life cycle and phases.",
+                "subject": "Project Management",
+                "type": "PYQ",
+                "years": [
+                    2024
+                ],
+                "frequency": 1,
+                "tags": [
+                    "life cycle"
+                ]
+            }
+        },
+        {
+            "text": "Question : Explain work breakdown structure (WBS).,          Subject : Project Management,          type : PYQ,                  tags :WBS",
+            "metadata": {
+                "question": "Explain work breakdown structure (WBS).",
+                "subject": "Project Management",
+                "type": "PYQ",
+                "years": [
+                    2024
+                ],
+                "frequency": 1,
+                "tags": [
+                    "WBS"
+                ]
+            }
+        },
+        {
+            "text": "Question : Explain project planning and methods.,          Subject : Project Management,          type : PYQ,                  tags :planning",
+            "metadata": {
+                "question": "Explain project planning and methods.",
+                "subject": "Project Management",
+                "type": "PYQ",
+                "years": [
+                    2022,
+                    2023
+                ],
+                "frequency": 2,
+                "tags": [
+                    "planning"
+                ]
+            }
+        },
+        {
+            "text": "Question : Explain conflict management and resolution strategies.,          Subject : Project Management,          type : PYQ,                  tags :conflict",
+            "metadata": {
+                "question": "Explain conflict management and resolution strategies.",
+                "subject": "Project Management",
+                "type": "PYQ",
+                "years": [
+                    2023,
+                    2025
+                ],
+                "frequency": 3,
+                "tags": [
+                    "conflict"
+                ]
+            }
+        },
+        {
+            "text": "Question : Explain project management tools (JIRA, Trello).,          Subject : Project Management,          type : PYQ,                  tags :tools",
+            "metadata": {
+                "question": "Explain project management tools (JIRA, Trello).",
+                "subject": "Project Management",
+                "type": "PYQ",
+                "years": [
+                    2023,
+                    2024,
+                    2025
+                ],
+                "frequency": 4,
+                "tags": [
+                    "tools"
+                ]
+            }
         }
-    ]
-}
+
+
+
+       
+]
