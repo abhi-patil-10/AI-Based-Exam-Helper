@@ -15,7 +15,7 @@ index = faiss.read_index("vector_index.faiss")
 
 
 # ==============================
-# Step 2 — Load Metadata
+# Step 2 — Load All Chunks
 # ==============================
 
 print("Loading chunks metadata...")
@@ -40,51 +40,85 @@ model = SentenceTransformer(
 # Step 4 — Search Function
 # ==============================
 
-def search_query(query, top_k=10):
+def filtered_search(query, k=20):
 
-    print("\nUser Query:", query)
-
-    # Convert query to embedding
-    query_embedding = model.encode(
-        [query],
-        normalize_embeddings=True
+    # 🔥 BGE works better with instruction prefix
+    query_for_embedding = (
+        "Represent this question for searching: "
+        + query
     )
 
-    query_embedding = np.array(query_embedding)
+    # Create embedding
+    query_embedding = np.array(
+        model.encode([query_for_embedding])
+    ).astype("float32")
 
-    # Search FAISS
-    distances, indices = index.search(
-        query_embedding,
-        top_k
-    )
-
-    print("\nTop Results:\n")
+    # 🔥 Search more candidates (IMPORTANT FIX)
+    D, I = index.search(query_embedding, k * 10)
 
     results = []
 
-    for i in indices[0]:
+    query_lower = query.lower()
 
-        chunk = all_chunks[i]
+    want_imp = "imp" in query_lower
+    want_pyq = "pyq" in query_lower
+    want_syllabus = "syllabus" in query_lower
+
+    for idx in I[0]:
+
+        chunk = all_chunks[idx]
+
+        meta = chunk["metadata"]
+
+        # 🚫 Skip syllabus unless asked
+        if not want_syllabus:
+            if meta["type"] == "SYLLABUS":
+                continue
+
+        # Filter IMP
+        if want_imp and meta["type"] != "IMP":
+            continue
+
+        # Filter PYQ
+        if want_pyq and meta["type"] != "PYQ":
+            continue
 
         results.append(chunk)
 
-        print(chunk["text"])
-        print("-" * 50)
+        if len(results) == k:
+            break
 
     return results
 
 
 # ==============================
-# Step 5 — Test Query
+# Step 5 — Interactive Loop
 # ==============================
 
 if __name__ == "__main__":
 
     while True:
 
-        user_query = input("\nAsk something (or type exit): ")
+        user_query = input(
+            "\nAsk something (or type exit): "
+        )
 
         if user_query.lower() == "exit":
             break
 
-        search_query(user_query)
+        results = filtered_search(
+            user_query,
+            k=20
+        )
+
+        print("\nResults:\n")
+
+        for r in results:
+
+            print("-" * 40)
+
+            print("Text:")
+            print(r["text"])
+
+            print("\nMetadata:")
+            print(r["metadata"])
