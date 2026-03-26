@@ -165,9 +165,9 @@ def build_prompt(user_query, results):
 
     return prompt
 
-# ==============================
+# =================================
 # STEP 11 — Home Route
-# ==============================
+# =================================
 
 @app.route("/", methods=['GET', 'POST'])
 def home():
