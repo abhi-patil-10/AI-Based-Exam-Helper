@@ -35,10 +35,10 @@ print("Total texts to embed:", len(texts))
 # Step 3 — Load BGE-M3 Model
 # ==============================
 
-print("Loading embedding model (BGE-M3)...")
+print("Loading embedding model (BGE-M3-small)...")
 
 model = SentenceTransformer(
-    "BAAI/bge-m3",
+   "BAAI/bge-small-en",
     device="cpu"  # change to "cuda" if GPU available
 )
 
