@@ -205,9 +205,9 @@ def build_prompt(user_query, results):
 
     return prompt
 
-# =================================
+# ====================================
 # STEP 11 — Home Route
-# =================================
+# ====================================
 
 @app.route("/", methods=['GET', 'POST'])
 def home():
@@ -225,13 +225,13 @@ def home():
         print("STEP 11.2: User Query:", query)
 
         # STEP 11.3 — Search
-        # results = filtered_search(query)
+        results = filtered_search(query)
 
         # STEP 11.4 — Build Prompt
-        # prompt = build_prompt(
-        #     query,
-        #     results
-        # )
+        prompt = build_prompt(
+            query,
+            results
+        )
 
         # STEP 11.5 — LLM Response
         response = inference(query)
