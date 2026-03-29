@@ -106,14 +106,14 @@ def filtered_search(query, k=8):
     # STEP 9.2 — Search FAISS
     print("STEP 9.2: Searching index...")
 
-    D, I = index.search(query_embedding, k * 3)
+    Distance, Indices = index.search(query_embedding, k * 3)
 
     results = []
 
     # STEP 9.3 — Collect Results
     print("STEP 9.3: Collecting results...")
 
-    for idx in I[0]:
+    for idx in Indices[0]:
 
         chunk = all_chunks[idx]
         results.append(chunk)
